@@ -1,88 +1,112 @@
-# Project Title
+# Learner Retention
 
-One Paragraph of project description goes here
+In order to better understand the learner retention in IHeLp program, 
+a predictive analysis were conducted on IHeLp data.
+
+it contains:
+
+1. Preprocessing
+2. Exploratory data analysis
+3. feature engineering
+4. Modeling
+5. Evaluation
+
+## Overview of Data
+
+272 students with 20 features.
+
+| Individual Characteristics | Behavioral Features |
+| --- | --- |
+| Payment plan             | Number of responses |
+| Program name             | Houes online        |
+| Application type         | Pre-probation       |
+| Home (work) state        | Probation           |
+| Home (work) country      | Current after pre-probation |
+| Gender                   | Orientation         |
+| Practice type            | Final exam          |
+| Professional association | Amounts of hour on units |
+| Referrer                 | Status (label)      |
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Use the script in sql file to get two original data tables from the database of AW center
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
-Give examples
+python>=3.72
+numpy>=1.15
+scikit-learn>=0.20
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Clone this repository
 
 ```
-Give the example
+git clone https://allentitaiwang@bitbucket.org/azcim/analytics.git
 ```
 
-And repeat
+### Going to the right Directory
+
+First of all, go to EnrollDec file.
 
 ```
-until finished
+cd analytics/learner_retention/EnrollDec
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+## Pipeline
 
-## Running the tests
+### Preprocessing
 
-Explain how to run the automated tests for this system
+Before modeling, we have to transfer what we have into feature matrix and label serie.
 
-### Break down into end to end tests
-
-Explain what these tests test and why
+Firstly, go to Preprocessing file.
 
 ```
-Give an example
+cd Preprocessing
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
+and then run the following scripts.
 
 ```
-Give an example
+python3 FiltWID.py
+python3 CombineUSTUTR.py
+python3 Pivot_table.py
+python3 BehavioralAdjust.py
 ```
 
-## Deployment
+These codes will combine the tables into the format we need for modeling.
+And all of the output from each script can be found in data file.
+
+### Exploratory Data Analysis
+
+In this step, you can see multiple graphs of each feature in the data.
+
+```
+python3 DataExplore.py
+```
+
+For example,
+
+#### Payment Plan
+
+The bar plot of students in different payment plan.
+
+![alt text](https://bitbucket.org/azcim/analytics/src/master/learner_rentention/EnrollDec/pics/Payment.png)
+
+#### learner Performance
+
+The scatter plot of students with different status label and the spending hours on units.
+
+![alt text](https://bitbucket.org/azcim/analytics/src/master/learner_rentention/EnrollDec/pics/units.png)
+
+### Feature Engineering
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
+### Modeling
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+### Evaluation
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
