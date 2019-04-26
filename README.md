@@ -118,12 +118,15 @@ In this step, learning curves and cross validation score can tell us how to adju
 For instance,
 
 Logistic Regression model
+
 ![alt text](https://github.com/AllenTiTaiWang/Learner_Retention/blob/master/pics/LogReg.png)
 
 Random Forest model
+
 ![alt text](https://github.com/AllenTiTaiWang/Learner_Retention/blob/master/pics/RF.png)
 
 Cross Validation Score of models
+
 ![alt text](https://github.com/AllenTiTaiWang/Learner_Retention/blob/master/pics/CV_score.png)
 
 
@@ -132,5 +135,6 @@ Cross Validation Score of models
 To further look into F1-score, precision, and recall.
 
 ROC curve
+
 ![alt text](https://github.com/AllenTiTaiWang/Learner_Retention/blob/master/pics/ROC.png)
 
