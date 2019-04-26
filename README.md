@@ -93,20 +93,44 @@ For example,
 
 The bar plot of students in different payment plan.
 
-![alt text](https://bitbucket.org/azcim/analytics/src/master/learner_rentention/EnrollDec/pics/Payment.png)
+![alt text](https://github.com/AllenTiTaiWang/Learner_Retention/blob/master/pics/Payment.png)
 
 #### learner Performance
 
 The scatter plot of students with different status label and the spending hours on units.
 
-![alt text](https://bitbucket.org/azcim/analytics/src/master/learner_rentention/EnrollDec/pics/units.png)
+![alt text](https://github.com/AllenTiTaiWang/Learner_Retention/blob/master/pics/units.png)
 
 ### Feature Engineering
 
-Add additional notes about how to deploy this on a live system
+Before Modeling, we can adjust our features by observing Heatmap.
+
+```
+python3 Modeling
+```
+
+![alt text](https://github.com/AllenTiTaiWang/Learner_Retention/blob/master/pics/Heatmap.png)
 
 ### Modeling
 
+In this step, learning curves and cross validation score can tell us how to adjust our models.
+
+For instance,
+
+Logistic Regression model
+![alt text](https://github.com/AllenTiTaiWang/Learner_Retention/blob/master/pics/LogReg.png)
+
+Random Forest model
+![alt text](https://github.com/AllenTiTaiWang/Learner_Retention/blob/master/pics/RF.png)
+
+Cross Validation Score of models
+![alt text](https://github.com/AllenTiTaiWang/Learner_Retention/blob/master/pics/CV_score.png)
+
+
 ### Evaluation
 
+To further look into F1-score, precision, and recall.
+
+ROC curve
+![alt text](https://github.com/AllenTiTaiWang/Learner_Retention/blob/master/pics/ROC.png)
 
