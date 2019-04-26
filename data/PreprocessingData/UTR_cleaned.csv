@@ -1,0 +1,1196 @@
+user_id,application_id,status_id,response,hours_online,program_name,application_type_name,payment_plan,professional_assoc,referrer,practice_type,home_state,work_state,gender,home_country,work_country,job_title,curriculum_id,sum
+1491,6530,G,24,1970,IHeLp 2014 Summer,Regular,2 Payments,Other,Other,Other,NV,NV,F,US,US,Assistant Dean for Clinical Curriculum,Unit 4,889.1239288888887
+1491,6530,G,41,5447,IHeLp 2014 Summer,Regular,2 Payments,Other,Other,Other,NV,NV,F,US,US,Assistant Dean for Clinical Curriculum,Unit 1,991.3453255555555
+1491,6530,G,22,4404,IHeLp 2014 Summer,Regular,2 Payments,Other,Other,Other,NV,NV,F,US,US,Assistant Dean for Clinical Curriculum,Unit 3,1161.7357733333333
+1491,6530,G,23,8575,IHeLp 2014 Summer,Regular,2 Payments,Other,Other,Other,NV,NV,F,US,US,Assistant Dean for Clinical Curriculum,Unit 2,994.3326925000001
+2314,6520,G,53,7450,IHeLp 2014 Summer,Regular,2 Payments,Other,Brochure/Mailing,Fam_Prac,,WI,F,,US,Director Integrative Medicine,Unit 1,915.0496847222224
+2314,6520,G,34,2337,IHeLp 2014 Summer,Regular,2 Payments,Other,Brochure/Mailing,Fam_Prac,,WI,F,,US,Director Integrative Medicine,Unit 4,956.250588888889
+2314,6520,G,39,10810,IHeLp 2014 Summer,Regular,2 Payments,Other,Brochure/Mailing,Fam_Prac,,WI,F,,US,Director Integrative Medicine,Unit 2,958.1354516666668
+2314,6520,G,42,5697,IHeLp 2014 Summer,Regular,2 Payments,Other,Brochure/Mailing,Fam_Prac,,WI,F,,US,Director Integrative Medicine,Unit 3,985.1261575
+4349,13825,G,20,1808,IHeLp 2017 Summer,Regular,2 Payments,Registered Nurse,Other,Fam_Prac,KY,KY,F,USA,USA,Owner/Administrator,Unit 4,678.88792
+4349,13825,G,1,201,IHeLp 2017 Summer,Regular,2 Payments,Registered Nurse,Other,Fam_Prac,KY,KY,F,USA,USA,Owner/Administrator,Orientation,239.78370444444442
+4349,13825,G,32,4519,IHeLp 2017 Summer,Regular,2 Payments,Registered Nurse,Other,Fam_Prac,KY,KY,F,USA,USA,Owner/Administrator,Unit 2,794.0818072222223
+4349,13825,G,20,6126,IHeLp 2017 Summer,Regular,2 Payments,Registered Nurse,Other,Fam_Prac,KY,KY,F,USA,USA,Owner/Administrator,Unit 3,765.7584511111113
+4349,13825,G,46,4921,IHeLp 2017 Summer,Regular,2 Payments,Registered Nurse,Other,Fam_Prac,KY,KY,F,USA,USA,Owner/Administrator,Unit 1,885.0240755555554
+5965,6611,G,49,5176,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,Other,Surgery,,,F,,,,Unit 1,981.9848122222223
+5965,6611,G,16,1796,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,Other,Surgery,,,F,,,,Unit 4,672.5456313888889
+5965,6611,G,28,8029,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,Other,Surgery,,,F,,,,Unit 2,942.3957063888887
+5965,6611,G,12,4014,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,Other,Surgery,,,F,,,,Unit 3,893.7496783333332
+6843,13717,G,37,2382,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,CIM faculty,Pediatrics,CO,CO,F,USA,USA,Physician Assistant Pediatrics,Unit 4,900.1616250000002
+6843,13717,G,40,8407,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,CIM faculty,Pediatrics,CO,CO,F,USA,USA,Physician Assistant Pediatrics,Unit 3,929.2802127777776
+6843,13717,G,52,6865,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,CIM faculty,Pediatrics,CO,CO,F,USA,USA,Physician Assistant Pediatrics,Unit 1,840.2414719444445
+6843,13717,G,34,6305,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,CIM faculty,Pediatrics,CO,CO,F,USA,USA,Physician Assistant Pediatrics,Unit 2,930.4041894444445
+6843,13717,G,1,280,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,CIM faculty,Pediatrics,CO,CO,F,USA,USA,Physician Assistant Pediatrics,Orientation,674.9571352777778
+7168,6111,G,34,5938,IHeLp 2014 Summer,Regular,6 monthly payments,TCM/OM practitioner,AF member,Other,,,F,,,,Unit 3,847.0950344444444
+7168,6111,G,36,11564,IHeLp 2014 Summer,Regular,6 monthly payments,TCM/OM practitioner,AF member,Other,,,F,,,,Unit 2,946.0138088888887
+7168,6111,G,25,2500,IHeLp 2014 Summer,Regular,6 monthly payments,TCM/OM practitioner,AF member,Other,,,F,,,,Unit 4,661.1627169444445
+7168,6111,G,44,7345,IHeLp 2014 Summer,Regular,6 monthly payments,TCM/OM practitioner,AF member,Other,,,F,,,,Unit 1,920.192505
+7199,6380,G,44,4316,IHeLp 2014 Summer,Regular,1 Payment,Registered Dietitian,CIM faculty,Other,,,F,,,,Unit 1,795.2672722222223
+7199,6380,G,17,7070,IHeLp 2014 Summer,Regular,1 Payment,Registered Dietitian,CIM faculty,Other,,,F,,,,Unit 2,937.773185277778
+7199,6380,G,29,3581,IHeLp 2014 Summer,Regular,1 Payment,Registered Dietitian,CIM faculty,Other,,,F,,,,Unit 3,1012.1172966666667
+7199,6380,G,33,1653,IHeLp 2014 Summer,Regular,1 Payment,Registered Dietitian,CIM faculty,Other,,,F,,,,Unit 4,721.9590386111109
+8451,6120,G,39,8677,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,Canada,,Registered Nurse,Unit 1,888.3969208333333
+8451,6120,G,21,2954,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,Canada,,Registered Nurse,Unit 4,679.5151194444445
+8451,6120,G,20,13662,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,Canada,,Registered Nurse,Unit 2,871.152761388889
+8451,6120,G,20,7016,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,Canada,,Registered Nurse,Unit 3,962.8013333333333
+8956,16990,W,1,289,IHeLp 2018 Spring,Scholarship,2 Payments,Advanced Practice Nurse,DrWeil,Sub,CT,CT,F,US,United States of America (the),Jungian Analyst and Clinical Specialist,Orientation,16.629543055555555
+8956,16990,W,52,1982,IHeLp 2018 Spring,Scholarship,2 Payments,Advanced Practice Nurse,DrWeil,Sub,CT,CT,F,US,United States of America (the),Jungian Analyst and Clinical Specialist,Unit 1,777.4634924999998
+9005,6672,G,22,2402,IHeLp 2014 Summer,Regular,6 monthly payments,Other,Prevention,Other,,,M,Canada,Canada,Registered Pharmacist,Unit 4,717.0836955555556
+9005,6672,G,19,5705,IHeLp 2014 Summer,Regular,6 monthly payments,Other,Prevention,Other,,,M,Canada,Canada,Registered Pharmacist,Unit 3,547.5422994444443
+9005,6672,G,21,11109,IHeLp 2014 Summer,Regular,6 monthly payments,Other,Prevention,Other,,,M,Canada,Canada,Registered Pharmacist,Unit 2,1007.6306191666665
+9005,6672,G,44,7356,IHeLp 2014 Summer,Regular,6 monthly payments,Other,Prevention,Other,,,M,Canada,Canada,Registered Pharmacist,Unit 1,871.1212902777777
+9497,6534,G,18,4296,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,AF member,Specialty Not Listed,OH,,M,USA,,Registered Nurse,Unit 3,706.8934672222223
+9497,6534,G,47,5288,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,AF member,Specialty Not Listed,OH,,M,USA,,Registered Nurse,Unit 1,964.6784458333333
+9497,6534,G,25,1873,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,AF member,Specialty Not Listed,OH,,M,USA,,Registered Nurse,Unit 4,675.3225897222222
+9497,6534,G,18,8483,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,AF member,Specialty Not Listed,OH,,M,USA,,Registered Nurse,Unit 2,850.6396883333333
+9925,8366,G,28,9329,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Other,CA,,F,,,Clinical Dietitian,Unit 2,959.6830302777777
+9925,8366,G,1,406,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Other,CA,,F,,,Clinical Dietitian,Orientation,266.4812
+9925,8366,G,23,3245,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Other,CA,,F,,,Clinical Dietitian,Unit 4,1004.15254
+9925,8366,G,25,11965,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Other,CA,,F,,,Clinical Dietitian,Unit 3,991.6020744444444
+9925,8366,G,52,9735,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Other,CA,,F,,,Clinical Dietitian,Unit 1,967.0262133333333
+10429,6176,G,23,8201,IHeLp 2014 Summer,Regular,1 Payment,Registered Dietitian,Brochure/Mailing,Other,FL,FL,F,USA,USA,Oncology Dietitian,Unit 3,715.2135777777777
+10429,6176,G,36,10359,IHeLp 2014 Summer,Regular,1 Payment,Registered Dietitian,Brochure/Mailing,Other,FL,FL,F,USA,USA,Oncology Dietitian,Unit 1,785.4134230555555
+10429,6176,G,31,16186,IHeLp 2014 Summer,Regular,1 Payment,Registered Dietitian,Brochure/Mailing,Other,FL,FL,F,USA,USA,Oncology Dietitian,Unit 2,910.7468191666667
+10429,6176,G,20,3453,IHeLp 2014 Summer,Regular,1 Payment,Registered Dietitian,Brochure/Mailing,Other,FL,FL,F,USA,USA,Oncology Dietitian,Unit 4,761.5045066666668
+11066,6130,G,22,4862,IHeLp 2014 Summer,Regular,1 Payment,Registered Dietitian,Other,Other,CA,CA,F,US,US,,Unit 3,1012.0107138888887
+11066,6130,G,26,9225,IHeLp 2014 Summer,Regular,1 Payment,Registered Dietitian,Other,Other,CA,CA,F,US,US,,Unit 2,943.0903222222224
+11066,6130,G,50,5859,IHeLp 2014 Summer,Regular,1 Payment,Registered Dietitian,Other,Other,CA,CA,F,US,US,,Unit 1,952.1901658333335
+11066,6130,G,30,2119,IHeLp 2014 Summer,Regular,1 Payment,Registered Dietitian,Other,Other,CA,CA,F,US,US,,Unit 4,732.0700127777777
+12212,8573,D,1,124,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Orientation,48.53401833333333
+12212,10014,G,37,8089,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Unit 3,870.7441822222223
+12212,10014,G,54,6497,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Unit 1,918.005063611111
+12212,8573,D,54,1550,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Unit 1,1077.7968575
+12212,10014,G,47,5834,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Unit 2,853.5594672222223
+12212,8573,D,49,1550,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Unit 1,1077.7968575
+12212,10014,G,49,6497,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Unit 1,918.005063611111
+12212,10014,G,1,530,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Orientation,18.455494166666664
+12212,10014,G,29,2254,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Unit 4,973.1044630555556
+12514,15186,G,35,4658,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Dietitian,DrWeil,Other,WA,WA,F,US,USA,,Unit 2,953.6881083333333
+12514,15186,G,56,4860,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Dietitian,DrWeil,Other,WA,WA,F,US,USA,,Unit 1,935.7267955555556
+12514,15186,G,38,1823,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Dietitian,DrWeil,Other,WA,WA,F,US,USA,,Unit 4,670.6625727777778
+12514,15186,G,40,6075,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Dietitian,DrWeil,Other,WA,WA,F,US,USA,,Unit 3,824.1612402777777
+12598,6573,G,36,10133,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,Other,Other,AZ,AZ,F,,US,Instructor Tai Chi-GroupFitness-IHeLp,Unit 3,966.7534880555555
+12598,6573,G,41,4267,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,Other,Other,AZ,AZ,F,,US,Instructor Tai Chi-GroupFitness-IHeLp,Unit 4,954.9688252777777
+12598,6573,G,49,12800,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,Other,Other,AZ,AZ,F,,US,Instructor Tai Chi-GroupFitness-IHeLp,Unit 1,949.3205152777778
+12598,6573,G,26,20266,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,Other,Other,AZ,AZ,F,,US,Instructor Tai Chi-GroupFitness-IHeLp,Unit 2,961.4199152777776
+13253,8615,D,28,3969,IHeLp 2015 Summer,Regular,1 Payment,Therapist,Other,Other,,WV,F,UAE,United Arab Emirates,,Unit 2,1511.4140905555555
+13253,8615,D,43,4234,IHeLp 2015 Summer,Regular,1 Payment,Therapist,Other,Other,,WV,F,UAE,United Arab Emirates,,Unit 1,613.7260294444444
+13910,9094,G,25,8770,IHeLp 2016 Spring,Regular,1 Payment,Dentist,Web,Other,NC,NC,F,United Sta,United States,Pediatric Dentist/Owner,Unit 2,981.6382047222223
+13910,9094,G,51,9532,IHeLp 2016 Spring,Regular,1 Payment,Dentist,Web,Other,NC,NC,F,United Sta,United States,Pediatric Dentist/Owner,Unit 1,969.3424380555556
+13910,9094,G,33,11820,IHeLp 2016 Spring,Regular,1 Payment,Dentist,Web,Other,NC,NC,F,United Sta,United States,Pediatric Dentist/Owner,Unit 3,1005.0531180555556
+13910,9094,G,28,3241,IHeLp 2016 Spring,Regular,1 Payment,Dentist,Web,Other,NC,NC,F,United Sta,United States,Pediatric Dentist/Owner,Unit 4,1370.0807266666668
+13910,9094,G,1,381,IHeLp 2016 Spring,Regular,1 Payment,Dentist,Web,Other,NC,NC,F,United Sta,United States,Pediatric Dentist/Owner,Orientation,0.7691022222222222
+14044,10342,W,1,8,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Other,CIM faculty,Other,AZ,AZ,F,US,US,,Orientation,0.32681944444444444
+16274,7237,G,45,6059,IHeLp 2014 Winter,Regular Discounted,1 Payment,Certified Clinical Nutritionist,,,AZ,AZ,F,US,US,,Unit 1,960.4147230555556
+16274,7237,G,31,7573,IHeLp 2014 Winter,Regular Discounted,1 Payment,Certified Clinical Nutritionist,,,AZ,AZ,F,US,US,,Unit 3,1084.801502222222
+16274,7237,G,27,5932,IHeLp 2014 Winter,Regular Discounted,1 Payment,Certified Clinical Nutritionist,,,AZ,AZ,F,US,US,,Unit 2,980.817208611111
+16274,7237,G,34,2020,IHeLp 2014 Winter,Regular Discounted,1 Payment,Certified Clinical Nutritionist,,,AZ,AZ,F,US,US,,Unit 4,1273.7583833333333
+16435,7215,G,25,4089,IHeLp 2014 Winter,Regular Discounted,1 Payment,Registered Nurse,,,AZ,,F,US,,Holistic Nurse,Unit 2,1219.4861577777776
+16435,7215,G,29,5174,IHeLp 2014 Winter,Regular Discounted,1 Payment,Registered Nurse,,,AZ,,F,US,,Holistic Nurse,Unit 3,736.7112147222223
+16435,7215,G,26,1419,IHeLp 2014 Winter,Regular Discounted,1 Payment,Registered Nurse,,,AZ,,F,US,,Holistic Nurse,Unit 4,767.3446858333333
+16435,7215,G,40,4172,IHeLp 2014 Winter,Regular Discounted,1 Payment,Registered Nurse,,,AZ,,F,US,,Holistic Nurse,Unit 1,1082.6286372222226
+17210,8369,W,1,164,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,AF member,Specialty Not Listed,NM,,F,US,,Wellness Coach,Orientation,386.0259261111111
+17210,8369,W,49,3934,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,AF member,Specialty Not Listed,NM,,F,US,,Wellness Coach,Unit 1,901.1926261111109
+17210,8369,W,28,4918,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,AF member,Specialty Not Listed,NM,,F,US,,Wellness Coach,Unit 3,878.3331633333332
+17210,8369,W,30,3770,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,AF member,Specialty Not Listed,NM,,F,US,,Wellness Coach,Unit 2,804.1938508333333
+17948,6123,G,33,6066,IHeLp 2016 Spring,Scholarship,1 Payment,Counselor,DrWeil,Specialty Not Listed,AZ,AZ,F,US,US,Doctor of Behavioral Health,Unit 2,795.6250022222223
+17948,6123,G,32,7582,IHeLp 2016 Spring,Scholarship,1 Payment,Counselor,DrWeil,Specialty Not Listed,AZ,AZ,F,US,US,Doctor of Behavioral Health,Unit 3,315.5152472222222
+17948,6123,G,59,6066,IHeLp 2016 Spring,Scholarship,1 Payment,Counselor,DrWeil,Specialty Not Listed,AZ,AZ,F,US,US,Doctor of Behavioral Health,Unit 1,721.9166697222223
+17948,6123,G,1,253,IHeLp 2016 Spring,Scholarship,1 Payment,Counselor,DrWeil,Specialty Not Listed,AZ,AZ,F,US,US,Doctor of Behavioral Health,Orientation,0.7852927777777778
+17948,6123,G,25,2148,IHeLp 2016 Spring,Scholarship,1 Payment,Counselor,DrWeil,Specialty Not Listed,AZ,AZ,F,US,US,Doctor of Behavioral Health,Unit 4,555.9643419444443
+18132,9030,G,34,5672,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,AZ,F,US,US,Nurse Educator,Unit 2,863.1166608333333
+18132,9030,G,53,6041,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,AZ,F,US,US,Nurse Educator,Unit 1,933.088557777778
+18132,9030,G,21,1973,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,AZ,F,US,US,Nurse Educator,Unit 4,1058.4513463888886
+18132,9030,G,28,7521,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,AZ,F,US,US,Nurse Educator,Unit 3,938.0509694444444
+18826,6452,G,42,2407,IHeLp 2014 Summer,Regular,6 monthly payments,Therapist,AF member,Other,WA,WA,F,US,US,Psychotherapist - Adult/Family,Unit 4,792.7979975000002
+18826,6452,G,36,11282,IHeLp 2014 Summer,Regular,6 monthly payments,Therapist,AF member,Other,WA,WA,F,US,US,Psychotherapist - Adult/Family,Unit 2,889.3965080555556
+18826,6452,G,48,7371,IHeLp 2014 Summer,Regular,6 monthly payments,Therapist,AF member,Other,WA,WA,F,US,US,Psychotherapist - Adult/Family,Unit 1,791.829195
+18826,6452,G,40,5716,IHeLp 2014 Summer,Regular,6 monthly payments,Therapist,AF member,Other,WA,WA,F,US,US,Psychotherapist - Adult/Family,Unit 3,270.6837341666667
+18870,6577,D,42,3507,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Specialty Not Listed,ID,,F,US,,"Wellness Coordinator, RD",Unit 1,958.7319127777777
+18870,6577,D,1,286,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Specialty Not Listed,ID,,F,US,,"Wellness Coordinator, RD",Orientation,15.547812777777775
+18870,6577,D,44,3507,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Specialty Not Listed,ID,,F,US,,"Wellness Coordinator, RD",Unit 1,958.7319127777777
+18870,6577,D,26,3650,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Specialty Not Listed,ID,,F,US,,"Wellness Coordinator, RD",Unit 2,1175.8257502777776
+18870,9047,G,25,5687,IHeLp 2016 Spring,Regular Discounted,1 Payment,Registered Dietitian,Other,Specialty Not Listed,ID,,F,US,,"Wellness Coordinator, RD",Unit 2,867.4164655555555
+18870,6577,D,25,3650,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Specialty Not Listed,ID,,F,US,,"Wellness Coordinator, RD",Unit 2,1175.8257502777776
+18870,9047,G,26,5687,IHeLp 2016 Spring,Regular Discounted,1 Payment,Registered Dietitian,Other,Specialty Not Listed,ID,,F,US,,"Wellness Coordinator, RD",Unit 2,867.4164655555555
+18870,9047,G,44,6058,IHeLp 2016 Spring,Regular Discounted,1 Payment,Registered Dietitian,Other,Specialty Not Listed,ID,,F,US,,"Wellness Coordinator, RD",Unit 1,782.2191177777777
+18870,9047,G,24,7418,IHeLp 2016 Spring,Regular Discounted,1 Payment,Registered Dietitian,Other,Specialty Not Listed,ID,,F,US,,"Wellness Coordinator, RD",Unit 3,993.851581111111
+18870,9047,G,1,495,IHeLp 2016 Spring,Regular Discounted,1 Payment,Registered Dietitian,Other,Specialty Not Listed,ID,,F,US,,"Wellness Coordinator, RD",Orientation,223.165075
+18870,9047,G,42,6058,IHeLp 2016 Spring,Regular Discounted,1 Payment,Registered Dietitian,Other,Specialty Not Listed,ID,,F,US,,"Wellness Coordinator, RD",Unit 1,782.2191177777777
+18870,9047,G,21,2102,IHeLp 2016 Spring,Regular Discounted,1 Payment,Registered Dietitian,Other,Specialty Not Listed,ID,,F,US,,"Wellness Coordinator, RD",Unit 4,1022.9680025
+19201,6172,G,30,13449,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Surgery,TX,,F,US,,RN,Unit 2,966.5657227777778
+19201,6172,G,27,6906,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Surgery,TX,,F,US,,RN,Unit 3,919.5482877777777
+19201,6172,G,41,8542,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Surgery,TX,,F,US,,RN,Unit 1,807.9082547222223
+19201,6172,G,25,2908,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Surgery,TX,,F,US,,RN,Unit 4,942.0057694444445
+19237,6094,G,10,753,IHeLp 2014 Summer,Regular,6 monthly payments,Psychologist,DrWeil,Other,,NM,M,,,,Unit 4,973.6066394444445
+19237,6094,G,14,3529,IHeLp 2014 Summer,Regular,6 monthly payments,Psychologist,DrWeil,Other,,NM,M,,,,Unit 2,1010.7252641666665
+19237,6094,G,43,2305,IHeLp 2014 Summer,Regular,6 monthly payments,Psychologist,DrWeil,Other,,NM,M,,,,Unit 1,827.1418477777777
+22349,8577,G,1,293,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,,,WI,WI,F,US,US,RN Care Coordinator,Orientation,8.0598475
+22349,8577,G,27,6896,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,,,WI,WI,F,US,US,RN Care Coordinator,Unit 2,933.6694808333333
+22349,8577,G,60,7043,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,,,WI,WI,F,US,US,RN Care Coordinator,Unit 1,959.0701838888887
+22349,8577,G,26,8950,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,,,WI,WI,F,US,US,RN Care Coordinator,Unit 3,1123.1972877777778
+22349,8577,G,32,2348,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,,,WI,WI,F,US,US,RN Care Coordinator,Unit 4,1117.1972444444446
+23965,8210,G,33,15719,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil_event,Other,,,F,Australia,Australia,theatre scrub nurse,Unit 3,695.7587347222221
+23965,8210,G,37,4381,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil_event,Other,,,F,Australia,Australia,theatre scrub nurse,Unit 4,645.7586533333333
+23965,8210,G,58,12627,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil_event,Other,,,F,Australia,Australia,theatre scrub nurse,Unit 1,957.3885483333332
+23965,8210,G,1,515,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil_event,Other,,,F,Australia,Australia,theatre scrub nurse,Orientation,0.9095608333333332
+23965,8210,G,36,12884,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil_event,Other,,,F,Australia,Australia,theatre scrub nurse,Unit 2,928.2857286111113
+24073,6096,G,43,8724,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,DrWeil_event,Other,CO,,F,,,Integrative Health Coach,Unit 1,847.4004433333333
+24073,6096,G,29,13450,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,DrWeil_event,Other,CO,,F,,,Integrative Health Coach,Unit 2,857.3927913888889
+24073,6096,G,29,6907,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,DrWeil_event,Other,CO,,F,,,Integrative Health Coach,Unit 3,679.3158902777778
+24073,6096,G,34,2908,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,DrWeil_event,Other,CO,,F,,,Integrative Health Coach,Unit 4,730.373765
+24124,6174,G,18,5775,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,Other,Fam_Prac,NC,NC,F,US,US,Division Officer,Unit 2,1058.006536111111
+24124,6174,G,26,2743,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,Other,Fam_Prac,NC,NC,F,US,US,Division Officer,Unit 3,788.81899
+24124,6174,G,12,1227,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,Other,Fam_Prac,NC,NC,F,US,US,Division Officer,Unit 4,758.8843005555556
+24124,6174,G,37,3682,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,Other,Fam_Prac,NC,NC,F,US,US,Division Officer,Unit 1,773.0782327777777
+24453,6118,G,16,3416,IHeLp 2014 Summer,Regular,6 monthly payments,Counselor,DrWeil_event,Other,TX,TX,,US,USA,CEO/Founder,Unit 3,846.4688822222223
+24453,6118,G,21,6652,IHeLp 2014 Summer,Regular,6 monthly payments,Counselor,DrWeil_event,Other,TX,TX,,US,USA,CEO/Founder,Unit 2,973.5408699999999
+24453,6118,G,21,1528,IHeLp 2014 Summer,Regular,6 monthly payments,Counselor,DrWeil_event,Other,TX,TX,,US,USA,CEO/Founder,Unit 4,1014.2034875
+24453,6118,G,38,4225,IHeLp 2014 Summer,Regular,6 monthly payments,Counselor,DrWeil_event,Other,TX,TX,,US,USA,CEO/Founder,Unit 1,964.9789916666667
+24455,6124,G,40,6128,IHeLp 2014 Summer,Regular,2 Payments,Registered Dietitian,Other,Other,IL,IL,F,US,US,Nutrition Supervisor,Unit 1,947.9306741666667
+24455,6124,G,28,1961,IHeLp 2014 Summer,Regular,2 Payments,Registered Dietitian,Other,Other,IL,IL,F,US,US,Nutrition Supervisor,Unit 4,676.0909380555555
+24455,6124,G,29,5025,IHeLp 2014 Summer,Regular,2 Payments,Registered Dietitian,Other,Other,IL,IL,F,US,US,Nutrition Supervisor,Unit 3,743.6691400000001
+24455,6124,G,22,9683,IHeLp 2014 Summer,Regular,2 Payments,Registered Dietitian,Other,Other,IL,IL,F,US,US,Nutrition Supervisor,Unit 2,991.8026058333335
+24523,6135,G,27,11292,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Other,AZ,,F,US,,VP Clinical Business Process Integration,Unit 2,848.1189005555556
+24523,6135,G,34,2377,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Other,AZ,,F,US,,VP Clinical Business Process Integration,Unit 4,794.6993177777779
+24523,6135,G,23,5646,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Other,AZ,,F,US,,VP Clinical Business Process Integration,Unit 3,794.9579272222223
+24523,6135,G,35,7132,IHeLp 2014 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Other,AZ,,F,US,,VP Clinical Business Process Integration,Unit 1,772.8584522222221
+24534,6674,G,26,2135,IHeLp 2014 Summer,Regular,2 Payments,Registered Dietitian,Other,Other,,UT,F,,US,Dietetics Program Director,Unit 4,740.4514719444444
+24534,6674,G,40,6404,IHeLp 2014 Summer,Regular,2 Payments,Registered Dietitian,Other,Other,,UT,F,,US,Dietetics Program Director,Unit 1,758.3268877777778
+24534,6674,G,32,9873,IHeLp 2014 Summer,Regular,2 Payments,Registered Dietitian,Other,Other,,UT,F,,US,Dietetics Program Director,Unit 2,836.3781136111112
+24534,6674,G,24,5070,IHeLp 2014 Summer,Regular,2 Payments,Registered Dietitian,Other,Other,,UT,F,,US,Dietetics Program Director,Unit 3,961.1317449999999
+24541,6126,W,12,59,IHeLp 2014 Summer,Regular,6 monthly payments,Counselor,Brochure/Mailing,Other,AZ,AZ,F,US,US,Psychotherapist,Unit 1,313.8102216666667
+24615,6182,G,45,5387,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,AZ,AZ,F,US,US,Flight Nurse,Unit 1,959.6581641666667
+24615,6182,G,18,4377,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,AZ,AZ,F,US,US,Flight Nurse,Unit 3,794.0683566666668
+24615,6182,G,15,8530,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,AZ,AZ,F,US,US,Flight Nurse,Unit 2,1071.9777875
+24615,6182,G,22,1908,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,AZ,AZ,F,US,US,Flight Nurse,Unit 4,651.7709130555555
+24760,6300,G,19,4490,IHeLp 2014 Summer,Regular,1 Payment,Counselor,CIM faculty,Other,,,F,,,,Unit 3,838.0563669444444
+24760,6300,G,47,5553,IHeLp 2014 Summer,Regular,1 Payment,Counselor,CIM faculty,Other,,,F,,,,Unit 1,963.2902822222223
+24760,6300,G,24,8861,IHeLp 2014 Summer,Regular,1 Payment,Counselor,CIM faculty,Other,,,F,,,,Unit 2,964.5472941666667
+24760,6300,G,21,1890,IHeLp 2014 Summer,Regular,1 Payment,Counselor,CIM faculty,Other,,,F,,,,Unit 4,553.3329447222222
+24779,6564,G,31,5135,IHeLp 2014 Summer,Regular,2 Payments,Acupuncturist,Web,Other,CA,,F,US,,Licensed Acupuncturist,Unit 3,935.070925277778
+24779,6564,G,23,10000,IHeLp 2014 Summer,Regular,2 Payments,Acupuncturist,Web,Other,CA,,F,US,,Licensed Acupuncturist,Unit 2,915.4517275
+24779,6564,G,51,6351,IHeLp 2014 Summer,Regular,2 Payments,Acupuncturist,Web,Other,CA,,F,US,,Licensed Acupuncturist,Unit 1,844.9058913888887
+24779,6564,G,21,2162,IHeLp 2014 Summer,Regular,2 Payments,Acupuncturist,Web,Other,CA,,F,US,,Licensed Acupuncturist,Unit 4,861.5693316666667
+24780,6794,G,19,3140,IHeLp 2014 Winter,Regular,1 Payment,Therapist,Other,Other,AZ,AZ,F,USA,USA,Licensed Clinical Social Worker,Unit 2,461.4583377777778
+24780,6794,G,35,3461,IHeLp 2014 Winter,Regular,1 Payment,Therapist,Other,Other,AZ,AZ,F,USA,USA,Licensed Clinical Social Worker,Unit 1,1347.5661022222225
+24780,6794,G,22,3845,IHeLp 2014 Winter,Regular,1 Payment,Therapist,Other,Other,AZ,AZ,F,USA,USA,Licensed Clinical Social Worker,Unit 3,860.1444875
+24780,6794,G,22,1154,IHeLp 2014 Winter,Regular,1 Payment,Therapist,Other,Other,AZ,AZ,F,USA,USA,Licensed Clinical Social Worker,Unit 4,840.8948694444442
+24827,6331,G,47,10056,IHeLp 2014 Summer,Regular,2 Payments,Other,DrWeil_event,Other,,,F,,,Speech-Language Pathologist,Unit 1,886.6458986111112
+24827,6331,G,24,3489,IHeLp 2014 Summer,Regular,2 Payments,Other,DrWeil_event,Other,,,F,,,Speech-Language Pathologist,Unit 4,987.1849180555556
+24827,6331,G,30,7799,IHeLp 2014 Summer,Regular,2 Payments,Other,DrWeil_event,Other,,,F,,,Speech-Language Pathologist,Unit 3,849.5839219444445
+24827,6331,G,36,15392,IHeLp 2014 Summer,Regular,2 Payments,Other,DrWeil_event,Other,,,F,,,Speech-Language Pathologist,Unit 2,966.1282011111113
+24923,6393,G,19,6238,IHeLp 2014 Summer,Regular,2 Payments,Psychologist,DrWeil,Sub,AZ,AZ,F,US,US,Health Psychologist and Research Fellow ,Unit 2,864.7454574999998
+24923,6393,G,35,3743,IHeLp 2014 Summer,Regular,2 Payments,Psychologist,DrWeil,Sub,AZ,AZ,F,US,US,Health Psychologist and Research Fellow ,Unit 1,1180.6339355555556
+24923,6393,G,18,1326,IHeLp 2014 Summer,Regular,2 Payments,Psychologist,DrWeil,Sub,AZ,AZ,F,US,US,Health Psychologist and Research Fellow ,Unit 4,460.88943138888885
+24923,6393,G,29,2963,IHeLp 2014 Summer,Regular,2 Payments,Psychologist,DrWeil,Sub,AZ,AZ,F,US,US,Health Psychologist and Research Fellow ,Unit 3,721.8989755555556
+24946,6414,G,29,6531,IHeLp 2014 Summer,Regular,2 Payments,Other,Other,Other,,,F,,,,Unit 3,903.0875613888887
+24946,6414,G,26,2922,IHeLp 2014 Summer,Regular,2 Payments,Other,Other,Other,,,F,,,,Unit 4,711.1393908333333
+24946,6414,G,49,8250,IHeLp 2014 Summer,Regular,2 Payments,Other,Other,Other,,,F,,,,Unit 1,951.3802213888887
+24946,6414,G,38,12719,IHeLp 2014 Summer,Regular,2 Payments,Other,Other,Other,,,F,,,,Unit 2,932.5235327777775
+25035,6474,G,20,1574,IHeLp 2014 Summer,Regular,2 Payments,Acupuncturist,Other,Fam_Prac,,CA,F,US,US,,Unit 4,739.55701
+25035,6474,G,22,3703,IHeLp 2014 Summer,Regular,2 Payments,Acupuncturist,Other,Fam_Prac,,CA,F,US,US,,Unit 3,876.1646288888887
+25035,6474,G,21,7405,IHeLp 2014 Summer,Regular,2 Payments,Acupuncturist,Other,Fam_Prac,,CA,F,US,US,,Unit 2,886.5471008333334
+25035,6474,G,39,4536,IHeLp 2014 Summer,Regular,2 Payments,Acupuncturist,Other,Fam_Prac,,CA,F,US,US,,Unit 1,816.4687366666667
+25101,6569,G,25,12734,IHeLp 2014 Summer,Regular,1 Payment,Other,Other,Other,DE,,F,US,,Health  Coach,Unit 2,935.8317416666665
+25101,6569,G,7,6539,IHeLp 2014 Summer,Regular,1 Payment,Other,Other,Other,DE,,F,US,,Health  Coach,Unit 3,982.8725483333334
+25101,6569,G,39,8260,IHeLp 2014 Summer,Regular,1 Payment,Other,Other,Other,DE,,F,US,,Health  Coach,Unit 1,966.9457194444444
+25101,6569,G,15,2753,IHeLp 2014 Summer,Regular,1 Payment,Other,Other,Other,DE,,F,US,,Health  Coach,Unit 4,529.5713797222222
+25121,6543,G,21,11164,IHeLp 2014 Summer,Regular,6 monthly payments,Therapist,Other,Other,,,F,,,marriage and family therapist,Unit 2,698.7787572222223
+25121,6543,G,36,7091,IHeLp 2014 Summer,Regular,6 monthly payments,Therapist,Other,Other,,,F,,,marriage and family therapist,Unit 1,788.1032261111111
+25121,6543,G,25,2565,IHeLp 2014 Summer,Regular,6 monthly payments,Therapist,Other,Other,,,F,,,marriage and family therapist,Unit 4,689.6428580555556
+25121,6543,G,25,6035,IHeLp 2014 Summer,Regular,6 monthly payments,Therapist,Other,Other,,,F,,,marriage and family therapist,Unit 3,923.7065702777777
+25130,6546,G,65,6861,IHeLp 2014 Summer,Regular,1 Payment,Physical Therapist,Web,Sub,AZ,AZ,F,US,US,,Unit 1,889.2668630555555
+25130,6546,G,40,11094,IHeLp 2014 Summer,Regular,1 Payment,Physical Therapist,Web,Sub,AZ,AZ,F,US,US,,Unit 2,856.0396213888888
+25130,6546,G,25,2482,IHeLp 2014 Summer,Regular,1 Payment,Physical Therapist,Web,Sub,AZ,AZ,F,US,US,,Unit 4,670.7698019444445
+25130,6546,G,30,5547,IHeLp 2014 Summer,Regular,1 Payment,Physical Therapist,Web,Sub,AZ,AZ,F,US,US,,Unit 3,721.5004969444444
+25157,6630,G,46,5867,IHeLp 2014 Summer,Regular,1 Payment,Physical Therapist,Other,Other,,,F,Scotland,United Kingdom,Specialist Physiotherapist in Integrative Medicine,Unit 1,913.263745
+25157,6630,G,28,2078,IHeLp 2014 Summer,Regular,1 Payment,Physical Therapist,Other,Other,,,F,Scotland,United Kingdom,Specialist Physiotherapist in Integrative Medicine,Unit 4,836.789375
+25157,6630,G,30,9044,IHeLp 2014 Summer,Regular,1 Payment,Physical Therapist,Other,Other,,,F,Scotland,United Kingdom,Specialist Physiotherapist in Integrative Medicine,Unit 2,890.7610525
+25157,6630,G,31,4889,IHeLp 2014 Summer,Regular,1 Payment,Physical Therapist,Other,Other,,,F,Scotland,United Kingdom,Specialist Physiotherapist in Integrative Medicine,Unit 3,843.0313230555556
+25194,6614,G,20,7801,IHeLp 2014 Summer,Regular,1 Payment,Psychologist,CIM faculty,Other,,,F,,,Psychologist,Unit 2,913.69844
+25194,6614,G,20,4111,IHeLp 2014 Summer,Regular,1 Payment,Psychologist,CIM faculty,Other,,,F,,,Psychologist,Unit 3,742.9970036111113
+25194,6614,G,46,5060,IHeLp 2014 Summer,Regular,1 Payment,Psychologist,CIM faculty,Other,,,F,,,Psychologist,Unit 1,673.0980241666667
+25194,6614,G,32,1687,IHeLp 2014 Summer,Regular,1 Payment,Psychologist,CIM faculty,Other,,,F,,,Psychologist,Unit 4,766.0450386111112
+25203,6588,G,50,7539,IHeLp 2014 Summer,Regular,2 Payments,Psychologist,DrWeil,Other,HI,HI,F,US,US,,Unit 1,872.7141777777778
+25203,6588,G,23,2566,IHeLp 2014 Summer,Regular,2 Payments,Psychologist,DrWeil,Other,HI,HI,F,US,US,,Unit 4,803.0732919444442
+25203,6588,G,28,6256,IHeLp 2014 Summer,Regular,2 Payments,Psychologist,DrWeil,Other,HI,HI,F,US,US,,Unit 3,813.6834697222223
+25203,6588,G,35,11869,IHeLp 2014 Summer,Regular,2 Payments,Psychologist,DrWeil,Other,HI,HI,F,US,US,,Unit 2,956.758855
+25205,6618,G,44,6718,IHeLp 2014 Summer,Regular,1 Payment,Therapist,DrWeil,Other,,CA,F,US,US,Psychotherapist,Unit 1,961.0576402777778
+25205,6618,G,22,5459,IHeLp 2014 Summer,Regular,1 Payment,Therapist,DrWeil,Other,,CA,F,US,US,Psychotherapist,Unit 3,747.5020616666666
+25205,6618,G,23,10778,IHeLp 2014 Summer,Regular,1 Payment,Therapist,DrWeil,Other,,CA,F,US,US,Psychotherapist,Unit 2,842.9137186111111
+25205,6618,G,17,2379,IHeLp 2014 Summer,Regular,1 Payment,Therapist,DrWeil,Other,,CA,F,US,US,Psychotherapist,Unit 4,1198.0761838888886
+25219,6597,G,13,3510,IHeLp 2014 Summer,Regular,6 monthly payments,Registered Dietitian,Other,Other,,CA,F,US,United Sta,"Registered Dietitian-Nutritionist, Health and Wellness Coach",Unit 3,945.2244441666667
+25219,6597,G,18,6661,IHeLp 2014 Summer,Regular,6 monthly payments,Registered Dietitian,Other,Other,,CA,F,US,United Sta,"Registered Dietitian-Nutritionist, Health and Wellness Coach",Unit 2,837.5606947222223
+25219,6597,G,15,1440,IHeLp 2014 Summer,Regular,6 monthly payments,Registered Dietitian,Other,Other,,CA,F,US,United Sta,"Registered Dietitian-Nutritionist, Health and Wellness Coach",Unit 4,843.2973488888887
+25219,6597,G,37,4320,IHeLp 2014 Summer,Regular,6 monthly payments,Registered Dietitian,Other,Other,,CA,F,US,United Sta,"Registered Dietitian-Nutritionist, Health and Wellness Coach",Unit 1,867.9466580555555
+25300,6642,G,50,7666,IHeLp 2014 Summer,Regular,6 monthly payments,Occupational Therapist,Web,Other,,,F,,,,Unit 1,872.7072277777777
+25300,6642,G,32,12203,IHeLp 2014 Summer,Regular,6 monthly payments,Occupational Therapist,Web,Other,,,F,,,,Unit 2,951.4164977777775
+25300,6642,G,25,2972,IHeLp 2014 Summer,Regular,6 monthly payments,Occupational Therapist,Web,Other,,,F,,,,Unit 4,678.2600249999998
+25300,6642,G,24,6258,IHeLp 2014 Summer,Regular,6 monthly payments,Occupational Therapist,Web,Other,,,F,,,,Unit 3,843.5875558333332
+25302,6647,G,46,5625,IHeLp 2014 Summer,Regular,1 Payment,Therapist,Other,Other,AZ,AZ,F,US,US,Multisystemic Clinical Supervisor,Unit 1,928.0025969444445
+25302,6647,G,27,4336,IHeLp 2014 Summer,Regular,1 Payment,Therapist,Other,Other,AZ,AZ,F,US,US,Multisystemic Clinical Supervisor,Unit 3,905.9339966666665
+25302,6647,G,33,1992,IHeLp 2014 Summer,Regular,1 Payment,Therapist,Other,Other,AZ,AZ,F,US,US,Multisystemic Clinical Supervisor,Unit 4,954.6830988888887
+25302,6647,G,31,9023,IHeLp 2014 Summer,Regular,1 Payment,Therapist,Other,Other,AZ,AZ,F,US,US,Multisystemic Clinical Supervisor,Unit 2,909.2186738888887
+25325,6782,G,28,8237,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Brochure/Mailing,Other,AZ,AZ,F,US,US,RN,Unit 2,935.4639777777776
+25325,6782,G,55,8596,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Brochure/Mailing,Other,AZ,AZ,F,US,US,RN,Unit 1,842.4957608333334
+25325,6782,G,34,2865,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Brochure/Mailing,Other,AZ,AZ,F,US,US,RN,Unit 4,993.5402177777777
+25325,6782,G,34,10565,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Brochure/Mailing,Other,AZ,AZ,F,US,US,RN,Unit 3,972.1902727777775
+25379,6666,G,30,12355,IHeLp 2014 Summer,Regular,6 monthly payments,Therapist,DrWeil,Other,AZ,,F,US,US,Clinical Social Worker,Unit 2,962.2200377777775
+25379,6666,G,21,6512,IHeLp 2014 Summer,Regular,6 monthly payments,Therapist,DrWeil,Other,AZ,,F,US,US,Clinical Social Worker,Unit 3,981.2246602777775
+25379,6666,G,44,8014,IHeLp 2014 Summer,Regular,6 monthly payments,Therapist,DrWeil,Other,AZ,,F,US,US,Clinical Social Worker,Unit 1,777.5611255555556
+25379,6666,G,34,2838,IHeLp 2014 Summer,Regular,6 monthly payments,Therapist,DrWeil,Other,AZ,,F,US,US,Clinical Social Worker,Unit 4,956.2738075
+25394,7230,W,16,589,IHeLp 2014 Winter,Regular Discounted,,Registered Nurse,Web,Other,MO,MO,,US,US,Associate Director,Unit 2,1444.8729680555555
+25394,7230,W,6,589,IHeLp 2014 Winter,Regular Discounted,,Registered Nurse,Web,Other,MO,MO,,US,US,Associate Director,Unit 2,1444.8729680555555
+25394,6671,D,33,5499,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,Web,Other,MO,MO,,US,US,Associate Director,Unit 1,1207.288050277778
+25394,6671,D,28,5499,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,Web,Other,MO,MO,,US,US,Associate Director,Unit 1,1207.288050277778
+25394,7230,W,33,1964,IHeLp 2014 Winter,Regular Discounted,,Registered Nurse,Web,Other,MO,MO,,US,US,Associate Director,Unit 1,1109.5494186111114
+25394,7230,W,28,1964,IHeLp 2014 Winter,Regular Discounted,,Registered Nurse,Web,Other,MO,MO,,US,US,Associate Director,Unit 1,1109.5494186111114
+25394,6671,D,16,5041,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,Web,Other,MO,MO,,US,US,Associate Director,Unit 2,934.5776761111113
+25394,6671,D,6,5041,IHeLp 2014 Summer,Regular,2 Payments,Registered Nurse,Web,Other,MO,MO,,US,US,Associate Director,Unit 2,934.5776761111113
+25415,6687,G,31,14217,IHeLp 2014 Summer,Regular,6 monthly payments,Acupuncturist,Other,Other,NY,,F,US,US,Acupuncturist,Unit 2,1920.743523333333
+25415,6687,G,17,3059,IHeLp 2014 Summer,Regular,6 monthly payments,Acupuncturist,Other,Other,NY,,F,US,US,Acupuncturist,Unit 4,565.2546638888889
+25415,6687,G,38,7018,IHeLp 2014 Summer,Regular,6 monthly payments,Acupuncturist,Other,Other,NY,,F,US,US,Acupuncturist,Unit 3,528.3101341666667
+25415,6687,G,55,8638,IHeLp 2014 Summer,Regular,6 monthly payments,Acupuncturist,Other,Other,NY,,F,US,US,Acupuncturist,Unit 1,815.6198691666667
+25421,8643,G,1,283,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,AF member,Pain Management,OK,OK,F,US,US,RN,Orientation,127.93657083333332
+25421,8643,G,21,2406,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,AF member,Pain Management,OK,OK,F,US,US,RN,Unit 4,1162.1336447222222
+25421,8643,G,27,8918,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,AF member,Pain Management,OK,OK,F,US,US,RN,Unit 3,939.2566116666667
+25421,8643,G,35,6795,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,AF member,Pain Management,OK,OK,F,US,US,RN,Unit 2,974.0116997222225
+25421,8643,G,60,6795,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,AF member,Pain Management,OK,OK,F,US,US,RN,Unit 1,851.7907727777778
+25449,6722,G,30,10585,IHeLp 2014 Summer,Regular,6 monthly payments,Registered Dietitian,Other,Sub,,,F,,,Nutrition & Diabetes Educator,Unit 2,942.5309330555556
+25449,6722,G,52,6723,IHeLp 2014 Summer,Regular,6 monthly payments,Registered Dietitian,Other,Sub,,,F,,,Nutrition & Diabetes Educator,Unit 1,862.7256163888889
+25449,6722,G,27,5436,IHeLp 2014 Summer,Regular,6 monthly payments,Registered Dietitian,Other,Sub,,,F,,,Nutrition & Diabetes Educator,Unit 3,993.8253569444445
+25449,6722,G,24,2289,IHeLp 2014 Summer,Regular,6 monthly payments,Registered Dietitian,Other,Sub,,,F,,,Nutrition & Diabetes Educator,Unit 4,721.3382613888889
+25456,9138,G,1,636,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,DrWeil,Pediatrics,OH,,F,United States,,,Orientation,1535.757525277778
+25456,9138,G,35,14948,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,DrWeil,Pediatrics,OH,,F,United States,,,Unit 2,973.10765
+25456,9138,G,49,15266,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,DrWeil,Pediatrics,OH,,F,United States,,,Unit 1,912.0075086111113
+25456,9138,G,30,5407,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,DrWeil,Pediatrics,OH,,F,United States,,,Unit 4,1344.509873611111
+25456,9138,G,36,18765,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,DrWeil,Pediatrics,OH,,F,United States,,,Unit 3,761.2967869444444
+25462,6730,G,21,8124,IHeLp 2014 Summer,Scholarship,1 Payment,Registered Nurse,CIM faculty,OB/Gyn,AZ,,F,US,,Clinical Documentation Specialist,Unit 2,929.6655747222223
+25462,6730,G,18,4115,IHeLp 2014 Summer,Scholarship,1 Payment,Registered Nurse,CIM faculty,OB/Gyn,AZ,,F,US,,Clinical Documentation Specialist,Unit 3,1129.7339825
+25462,6730,G,35,5170,IHeLp 2014 Summer,Scholarship,1 Payment,Registered Nurse,CIM faculty,OB/Gyn,AZ,,F,US,,Clinical Documentation Specialist,Unit 1,938.8202569444444
+25462,6730,G,22,1794,IHeLp 2014 Summer,Scholarship,1 Payment,Registered Nurse,CIM faculty,OB/Gyn,AZ,,F,US,,Clinical Documentation Specialist,Unit 4,784.4076844444444
+25463,6732,G,49,10303,IHeLp 2014 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,OB/Gyn,AZ,AZ,F,US,US,"BS RNC#, staff ",Unit 1,937.4341213888887
+25463,6732,G,36,3507,IHeLp 2014 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,OB/Gyn,AZ,AZ,F,US,US,"BS RNC#, staff ",Unit 4,895.8050641666667
+25463,6732,G,44,16222,IHeLp 2014 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,OB/Gyn,AZ,AZ,F,US,US,"BS RNC#, staff ",Unit 2,932.3880833333334
+25463,6732,G,38,8549,IHeLp 2014 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,OB/Gyn,AZ,AZ,F,US,US,"BS RNC#, staff ",Unit 3,723.0177216666666
+25668,10333,G,20,1524,IHeLp 2017 Spring,Scholarship,1 Payment,Chiropractor,Brochure/Mailing,Other,GA,GA,F,US,US,Assistant,Unit 4,708.30336
+25668,10333,G,22,3850,IHeLp 2017 Spring,Scholarship,1 Payment,Chiropractor,Brochure/Mailing,Other,GA,GA,F,US,US,Assistant,Unit 2,989.2602502777777
+25668,10333,G,44,3850,IHeLp 2017 Spring,Scholarship,1 Payment,Chiropractor,Brochure/Mailing,Other,GA,GA,F,US,US,Assistant,Unit 1,913.0958886111113
+25668,10333,G,16,5213,IHeLp 2017 Spring,Scholarship,1 Payment,Chiropractor,Brochure/Mailing,Other,GA,GA,F,US,US,Assistant,Unit 3,718.2653127777777
+25696,6889,G,24,6301,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Other,Other,AZ,,F,US,,Occupational Health Manager,Unit 2,736.3329238888889
+25696,6889,G,47,6435,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Other,Other,AZ,,F,US,,Occupational Health Manager,Unit 1,975.7060849999999
+25696,6889,G,34,2279,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Other,Other,AZ,,F,US,,Occupational Health Manager,Unit 4,458.24699
+25696,6889,G,26,8044,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Other,Other,AZ,,F,US,,Occupational Health Manager,Unit 3,654.8777238888888
+25790,8305,G,1,258,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,,,F,,,,Orientation,1.1427066666666663
+25790,8305,G,15,2191,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,,,F,,,,Unit 4,640.0079036111111
+25790,8305,G,40,6187,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,,,F,,,,Unit 1,939.4360641666666
+25790,8305,G,30,7733,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,,,F,,,,Unit 3,1088.2517805555556
+25790,8305,G,26,6316,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Other,Other,,,F,,,,Unit 2,967.8578252777777
+25833,6896,G,19,1598,IHeLp 2014 Winter,Regular,1 Payment,Therapist,AF member,Other,MO,,F,US,US,Social Worker,Unit 4,963.0252380555555
+25833,6896,G,24,4793,IHeLp 2014 Winter,Regular,1 Payment,Therapist,AF member,Other,MO,,F,US,US,Social Worker,Unit 2,854.1324516666666
+25833,6896,G,43,4511,IHeLp 2014 Winter,Regular,1 Payment,Therapist,AF member,Other,MO,,F,US,US,Social Worker,Unit 1,769.4711386111112
+25833,6896,G,20,6015,IHeLp 2014 Winter,Regular,1 Payment,Therapist,AF member,Other,MO,,F,US,US,Social Worker,Unit 3,841.8027327777777
+25942,8349,G,1,108,IHeLp 2015 Summer,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Orientation,149.95842416666667
+25942,8349,G,15,864,IHeLp 2015 Summer,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 4,900.1550097222223
+25942,6937,D,18,352,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 3,339.73823694444445
+25942,8349,G,18,3186,IHeLp 2015 Summer,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 3,835.3612449999998
+25942,8349,G,18,5292,IHeLp 2015 Summer,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 2,1031.81291
+25942,8349,G,43,2592,IHeLp 2015 Summer,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 1,937.2685980555556
+25942,6937,D,5,352,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 3,339.73823694444445
+25942,8349,G,39,2592,IHeLp 2015 Summer,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 1,937.2685980555556
+25942,8349,G,5,3186,IHeLp 2015 Summer,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 3,835.3612449999998
+25942,6937,D,18,6474,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 2,972.8562388888887
+25942,6937,D,43,3378,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 1,855.7652105555555
+25942,6937,D,39,3378,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 1,855.7652105555555
+25958,6963,G,23,4938,IHeLp 2014 Winter,Regular,1 Payment,Other,Other,Other,AZ,,F,,,Dental Hygienist,Unit 2,904.2770288888887
+25958,6963,G,21,6442,IHeLp 2014 Winter,Regular,1 Payment,Other,Other,Other,AZ,,F,,,Dental Hygienist,Unit 3,821.9435527777777
+25958,6963,G,40,5153,IHeLp 2014 Winter,Regular,1 Payment,Other,Other,Other,AZ,,F,,,Dental Hygienist,Unit 1,965.7458922222223
+25958,6963,G,15,1825,IHeLp 2014 Winter,Regular,1 Payment,Other,Other,Other,AZ,,F,,,Dental Hygienist,Unit 4,696.7818383333333
+26040,6966,G,30,7672,IHeLp 2014 Winter,Regular,2 Payments,Registered Nurse,Web,OB/Gyn,CA,CA,F,US,US,OBGYN Advice RN,Unit 3,935.6168830555556
+26040,6966,G,29,2174,IHeLp 2014 Winter,Regular,2 Payments,Registered Nurse,Web,OB/Gyn,CA,CA,F,US,US,OBGYN Advice RN,Unit 4,693.8654202777777
+26040,6966,G,47,6010,IHeLp 2014 Winter,Regular,2 Payments,Registered Nurse,Web,OB/Gyn,CA,CA,F,US,US,OBGYN Advice RN,Unit 1,888.8344991666668
+26040,6966,G,22,6010,IHeLp 2014 Winter,Regular,2 Payments,Registered Nurse,Web,OB/Gyn,CA,CA,F,US,US,OBGYN Advice RN,Unit 2,946.3531508333333
+26041,6968,G,50,5495,IHeLp 2014 Winter,Regular,2 Payments,Other,Web,Other,,,F,,Costa Rica,Dietitian /Co-owner,Unit 1,991.90695
+26041,6968,G,20,5607,IHeLp 2014 Winter,Regular,2 Payments,Other,Web,Other,,,F,,Costa Rica,Dietitian /Co-owner,Unit 2,963.2441455555555
+26041,6968,G,29,6841,IHeLp 2014 Winter,Regular,2 Payments,Other,Web,Other,,,F,,Costa Rica,Dietitian /Co-owner,Unit 3,992.4178733333333
+26041,6968,G,23,1794,IHeLp 2014 Winter,Regular,2 Payments,Other,Web,Other,,,F,,Costa Rica,Dietitian /Co-owner,Unit 4,986.1619699999999
+26054,10344,G,23,1992,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,Other,CO,CO,F,US,US,Employee Health Coordinator,Unit 4,727.9950641666667
+26054,10344,G,50,5625,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,Other,CO,CO,F,US,US,Employee Health Coordinator,Unit 1,912.3799302777776
+26054,10344,G,24,7031,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,Other,CO,CO,F,US,US,Employee Health Coordinator,Unit 3,655.6146111111111
+26054,10344,G,32,5156,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,Other,CO,CO,F,US,US,Employee Health Coordinator,Unit 2,892.1970119444444
+26078,6974,G,35,12082,IHeLp 2014 Winter,Regular Discounted,6 Monthly Payments,Other,Other,Other,,AZ,F,US,US,Behavioral Health Consultant & Faculty,Unit 3,873.7359588888891
+26078,6974,G,37,3367,IHeLp 2014 Winter,Regular Discounted,6 Monthly Payments,Other,Other,Other,,AZ,F,US,US,Behavioral Health Consultant & Faculty,Unit 4,564.6357336111113
+26078,6974,G,34,9903,IHeLp 2014 Winter,Regular Discounted,6 Monthly Payments,Other,Other,Other,,AZ,F,US,US,Behavioral Health Consultant & Faculty,Unit 2,971.0576663888887
+26078,6974,G,56,10299,IHeLp 2014 Winter,Regular Discounted,6 Monthly Payments,Other,Other,Other,,AZ,F,US,US,Behavioral Health Consultant & Faculty,Unit 1,1010.1131619444444
+26172,6984,G,28,4243,IHeLp 2014 Winter,Regular,6 Monthly Payments,Therapist,Brochure/Mailing,Other,,IL,M,,United Sta,Psychotherapist,Unit 2,606.6890466666666
+26172,6984,G,18,1660,IHeLp 2014 Winter,Regular,6 Monthly Payments,Therapist,Brochure/Mailing,Other,,IL,M,,United Sta,Psychotherapist,Unit 4,703.8454019444445
+26172,6984,G,36,4612,IHeLp 2014 Winter,Regular,6 Monthly Payments,Therapist,Brochure/Mailing,Other,,IL,M,,United Sta,Psychotherapist,Unit 1,1474.7114730555554
+26172,6984,G,33,5443,IHeLp 2014 Winter,Regular,6 Monthly Payments,Therapist,Brochure/Mailing,Other,,IL,M,,United Sta,Psychotherapist,Unit 3,1465.176038333333
+26184,7024,G,33,14267,IHeLp 2014 Winter,Regular,6 Monthly Payments,Counselor,Web,Other,AR,AR,M,US,US,CEO,Unit 3,940.0872727777777
+26184,7024,G,39,4111,IHeLp 2014 Winter,Regular,6 Monthly Payments,Counselor,Web,Other,AR,AR,M,US,US,CEO,Unit 4,722.5809766666665
+26184,7024,G,54,12091,IHeLp 2014 Winter,Regular,6 Monthly Payments,Counselor,Web,Other,AR,AR,M,US,US,CEO,Unit 1,906.1932777777777
+26184,7024,G,36,11607,IHeLp 2014 Winter,Regular,6 Monthly Payments,Counselor,Web,Other,AR,AR,M,US,US,CEO,Unit 2,982.0674152777775
+26315,7062,W,10,60,IHeLp 2014 Winter,Regular,6 Monthly Payments,Registered Nurse,Web,Other,CA,,F,US,US,Disease Management Nurse,Unit 1,121.76875249999999
+26405,7086,G,40,10104,IHeLp 2014 Winter,Regular,1 Payment,Psychologist,CIM faculty,Other,,,M,,,,Unit 3,832.3882269444445
+26405,7086,G,22,2933,IHeLp 2014 Winter,Regular,1 Payment,Psychologist,CIM faculty,Other,,,M,,,,Unit 4,768.714465
+26405,7086,G,52,8637,IHeLp 2014 Winter,Regular,1 Payment,Psychologist,CIM faculty,Other,,,M,,,,Unit 1,711.7217711111111
+26405,7086,G,33,8474,IHeLp 2014 Winter,Regular,1 Payment,Psychologist,CIM faculty,Other,,,M,,,,Unit 2,736.186931388889
+26583,7119,G,52,10636,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Web,Other,NJ,,F,,,,Unit 1,922.4301930555556
+26583,7119,G,22,3616,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Web,Other,NJ,,F,,,,Unit 4,723.540678611111
+26583,7119,G,38,13188,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Web,Other,NJ,,F,,,,Unit 3,892.1736044444444
+26583,7119,G,36,10636,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Web,Other,NJ,,F,,,,Unit 2,943.8646052777775
+26628,13528,G,36,7322,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Fam_Prac,CA,CA,F,,USA,,Unit 3,919.7005708333335
+26628,13528,G,52,5761,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Fam_Prac,CA,CA,F,,USA,,Unit 1,778.3929597222221
+26628,13528,G,38,2161,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Fam_Prac,CA,CA,F,,USA,,Unit 4,1098.2722916666667
+26628,13528,G,34,5521,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Fam_Prac,CA,CA,F,,USA,,Unit 2,981.5637947222223
+26628,13528,G,1,240,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Fam_Prac,CA,CA,F,,USA,,Orientation,0.9334641666666668
+26660,8468,G,56,13455,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,,,F,Canada,Canada,,Unit 1,945.0320005555556
+26660,8468,G,33,4485,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,,,F,Canada,Canada,,Unit 4,1055.3643272222225
+26660,8468,G,32,16539,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,,,F,Canada,Canada,,Unit 3,703.1587297222222
+26660,8468,G,1,561,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,,,F,Canada,Canada,,Orientation,0.9534938888888888
+26660,8468,G,35,12895,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,,,F,Canada,Canada,,Unit 2,997.3597
+26706,7145,G,25,3170,IHeLp 2014 Winter,Regular Discounted,1 Payment,Counselor,DrWeil_event,Specialty Not Listed,NC,,F,United States of America (the),,,Unit 4,364.1793422222222
+26706,7145,G,41,9323,IHeLp 2014 Winter,Regular Discounted,1 Payment,Counselor,DrWeil_event,Specialty Not Listed,NC,,F,United States of America (the),,,Unit 1,919.6353830555556
+26706,7145,G,23,8577,IHeLp 2014 Winter,Regular Discounted,1 Payment,Counselor,DrWeil_event,Specialty Not Listed,NC,,F,United States of America (the),,,Unit 2,907.3250577777777
+26706,7145,G,33,11001,IHeLp 2014 Winter,Regular Discounted,1 Payment,Counselor,DrWeil_event,Specialty Not Listed,NC,,F,United States of America (the),,,Unit 3,1148.0456458333333
+26757,7149,G,25,5074,IHeLp 2014 Winter,Regular Discounted,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 3,1195.7275594444445
+26757,7149,G,32,1548,IHeLp 2014 Winter,Regular Discounted,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 4,615.1333847222222
+26757,7149,G,31,3956,IHeLp 2014 Winter,Regular Discounted,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 2,911.3227119444444
+26757,7149,G,37,4386,IHeLp 2014 Winter,Regular Discounted,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,US,US,,Unit 1,1035.7922263888886
+26773,7313,G,33,11675,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Other,Surgery,TX,TX,F,US,US,,Unit 3,750.1182455555555
+26773,7313,G,48,9894,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Other,Surgery,TX,TX,F,US,US,,Unit 1,896.4817636111111
+26773,7313,G,27,3166,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Other,Surgery,TX,TX,F,US,US,,Unit 4,2392.367609444445
+26773,7313,G,29,9300,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Other,Surgery,TX,TX,F,US,US,,Unit 2,1250.6440205555555
+26799,7157,G,25,8143,IHeLp 2014 Winter,Regular,6 Monthly Payments,Chiropractor,Brochure/Mailing,Other,AK,,F,United States,,"DC, NBC-HWC",Unit 3,994.5906508333333
+26799,7157,G,25,2326,IHeLp 2014 Winter,Regular,6 Monthly Payments,Chiropractor,Brochure/Mailing,Other,AK,,F,United States,,"DC, NBC-HWC",Unit 4,657.6332955555556
+26799,7157,G,45,6333,IHeLp 2014 Winter,Regular,6 Monthly Payments,Chiropractor,Brochure/Mailing,Other,AK,,F,United States,,"DC, NBC-HWC",Unit 1,965.1212433333333
+26799,7157,G,26,6333,IHeLp 2014 Winter,Regular,6 Monthly Payments,Chiropractor,Brochure/Mailing,Other,AK,,F,United States,,"DC, NBC-HWC",Unit 2,969.7359919444444
+26872,7240,G,35,8404,IHeLp 2014 Winter,Regular,6 Monthly Payments,Psychologist,CIM faculty,Other,MD,MD,F,US,US,,Unit 3,958.4777486111113
+26872,7240,G,27,2279,IHeLp 2014 Winter,Regular,6 Monthly Payments,Psychologist,CIM faculty,Other,MD,MD,F,US,US,,Unit 4,884.7952141666667
+26872,7240,G,50,6837,IHeLp 2014 Winter,Regular,6 Monthly Payments,Psychologist,CIM faculty,Other,MD,MD,F,US,US,,Unit 1,994.0845319444444
+26872,7240,G,32,6552,IHeLp 2014 Winter,Regular,6 Monthly Payments,Psychologist,CIM faculty,Other,MD,MD,F,US,US,,Unit 2,968.0397480555556
+26910,7185,G,26,8249,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,CIM faculty,Other,CA,,F,US,,,Unit 2,989.9658177777777
+26910,7185,G,30,10580,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,CIM faculty,Other,CA,,F,US,,,Unit 3,965.1992947222222
+26910,7185,G,35,2869,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,CIM faculty,Other,CA,,F,US,,,Unit 4,994.5037241666668
+26910,7185,G,43,8787,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,CIM faculty,Other,CA,,F,US,,,Unit 1,983.4244672222222
+27039,7229,W,24,3204,IHeLp 2014 Winter,Regular,1 Payment,Counselor,CIM faculty,Other,AZ,AZ,F,US,US,Program Manager/Therapist,Unit 2,968.6091702777776
+27039,7229,W,2,209,IHeLp 2014 Winter,Regular,1 Payment,Counselor,CIM faculty,Other,AZ,AZ,F,US,US,Program Manager/Therapist,Unit 3,119.77837027777778
+27039,7229,W,50,3483,IHeLp 2014 Winter,Regular,1 Payment,Counselor,CIM faculty,Other,AZ,AZ,F,US,US,Program Manager/Therapist,Unit 1,762.1687780555555
+27040,7209,G,39,7459,IHeLp 2014 Winter,Regular,6 Monthly Payments,Therapist,AF member,Other,NH,NH,F,USA,,Therapist & Founding Partner,Unit 1,950.2968569444445
+27040,7209,G,20,2486,IHeLp 2014 Winter,Regular,6 Monthly Payments,Therapist,AF member,Other,NH,NH,F,USA,,Therapist & Founding Partner,Unit 4,697.4263508333332
+27040,7209,G,16,7149,IHeLp 2014 Winter,Regular,6 Monthly Payments,Therapist,AF member,Other,NH,NH,F,USA,,Therapist & Founding Partner,Unit 2,826.9557472222223
+27040,7209,G,8,9169,IHeLp 2014 Winter,Regular,6 Monthly Payments,Therapist,AF member,Other,NH,NH,F,USA,,Therapist & Founding Partner,Unit 3,962.6717958333332
+27044,7211,G,37,1387,IHeLp 2014 Winter,Regular,2 Payments,Registered Nurse,DrWeil,Other,WA,WA,F,US,US,Charge Nurse,Unit 4,897.1228199999998
+27044,7211,G,25,4074,IHeLp 2014 Winter,Regular,2 Payments,Registered Nurse,DrWeil,Other,WA,WA,F,US,US,Charge Nurse,Unit 2,969.395254722222
+27044,7211,G,53,4248,IHeLp 2014 Winter,Regular,2 Payments,Registered Nurse,DrWeil,Other,WA,WA,F,US,US,Charge Nurse,Unit 1,917.0065388888887
+27044,7211,G,33,5201,IHeLp 2014 Winter,Regular,2 Payments,Registered Nurse,DrWeil,Other,WA,WA,F,US,US,Charge Nurse,Unit 3,859.8263144444444
+27045,7288,G,30,4547,IHeLp 2014 Winter,Regular Discounted,1 Payment,Registered Nurse,AF member,Fam_Prac,WI,WI,M,US,US,"Manager, Community Clinics",Unit 2,941.970261388889
+27045,7288,G,38,1582,IHeLp 2014 Winter,Regular Discounted,1 Payment,Registered Nurse,AF member,Fam_Prac,WI,WI,M,US,US,"Manager, Community Clinics",Unit 4,610.0910169444444
+27045,7288,G,35,5832,IHeLp 2014 Winter,Regular Discounted,1 Payment,Registered Nurse,AF member,Fam_Prac,WI,WI,M,US,US,"Manager, Community Clinics",Unit 3,853.5746266666665
+27045,7288,G,50,4844,IHeLp 2014 Winter,Regular Discounted,1 Payment,Registered Nurse,AF member,Fam_Prac,WI,WI,M,US,US,"Manager, Community Clinics",Unit 1,594.7996350000002
+27046,7212,W,34,337,IHeLp 2014 Winter,Regular,2 Payments,Therapist,CIM faculty,Other,,AZ,F,,US,,Unit 1,457.5167797222222
+27150,7277,G,31,8840,IHeLp 2014 Winter,Regular,1 Payment,Other,Web,Other,OH,,F,US,,CPST,Unit 3,1008.3884394444444
+27150,7277,G,27,6630,IHeLp 2014 Winter,Regular,1 Payment,Other,Web,Other,OH,,F,US,,CPST,Unit 2,940.219119722222
+27150,7277,G,37,2486,IHeLp 2014 Winter,Regular,1 Payment,Other,Web,Other,OH,,F,US,,CPST,Unit 4,842.3072336111113
+27150,7277,G,56,7873,IHeLp 2014 Winter,Regular,1 Payment,Other,Web,Other,OH,,F,US,,CPST,Unit 1,893.7892805555556
+27192,13725,G,47,4424,IHeLp 2017 Spring,Scholarship,1 Payment,Other,AF member,Sub,NH,NH,F,United States,USA,,Unit 1,828.842898888889
+27192,13725,G,27,4239,IHeLp 2017 Spring,Scholarship,1 Payment,Other,AF member,Sub,NH,NH,F,United States,USA,,Unit 2,887.5413441666667
+27192,13725,G,29,5714,IHeLp 2017 Spring,Scholarship,1 Payment,Other,AF member,Sub,NH,NH,F,United States,USA,,Unit 3,922.2456261111113
+27192,13725,G,35,1567,IHeLp 2017 Spring,Scholarship,1 Payment,Other,AF member,Sub,NH,NH,F,United States,USA,,Unit 4,907.0605133333332
+27192,13725,G,1,184,IHeLp 2017 Spring,Scholarship,1 Payment,Other,AF member,Sub,NH,NH,F,United States,USA,,Orientation,8.895387777777778
+27247,7326,G,27,5655,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Unit 3,946.7811461111113
+27247,7326,G,39,4330,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Unit 1,940.3026258333334
+27247,7326,G,22,1502,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Unit 4,602.7467752777778
+27247,7326,G,22,4153,IHeLp 2014 Winter,Regular,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,,Unit 2,925.5637855555556
+27663,10280,G,44,9691,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil_event,Other,KY,KY,F,US,US,,Unit 1,720.3449858333332
+27663,10280,G,26,3432,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil_event,Other,KY,KY,F,US,US,,Unit 4,650.8414216666666
+27663,10280,G,23,12113,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil_event,Other,KY,KY,F,US,US,,Unit 3,921.0674566666668
+27663,10280,G,34,8883,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil_event,Other,KY,KY,F,US,US,,Unit 2,943.535417777778
+28028,8548,G,33,3873,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Brochure/Mailing,Other,AZ,AZ,F,US,United Sta,,Unit 3,960.7825308333332
+28028,8548,G,1,125,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Brochure/Mailing,Other,AZ,AZ,F,US,United Sta,,Orientation,55.426237500000006
+28028,8548,G,44,3124,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Brochure/Mailing,Other,AZ,AZ,F,US,United Sta,,Unit 1,904.9557330555556
+28028,8548,G,32,1125,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Brochure/Mailing,Other,AZ,AZ,F,US,United Sta,,Unit 4,215.16516027777783
+28028,8548,G,29,2936,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Brochure/Mailing,Other,AZ,AZ,F,US,United Sta,,Unit 2,1019.0437455555556
+28120,8630,G,48,8000,IHeLp 2015 Summer,Regular,1 Payment,Registered Dietitian,DrWeil,Other,VA,VA,F,US,US,Associate Professor,Unit 1,1040.5024119444445
+28120,8630,G,1,320,IHeLp 2015 Summer,Regular,1 Payment,Registered Dietitian,DrWeil,Other,VA,VA,F,US,US,Associate Professor,Orientation,8.965849444444443
+28120,8630,G,34,7360,IHeLp 2015 Summer,Regular,1 Payment,Registered Dietitian,DrWeil,Other,VA,VA,F,US,US,Associate Professor,Unit 2,981.100696388889
+28120,8630,G,34,9440,IHeLp 2015 Summer,Regular,1 Payment,Registered Dietitian,DrWeil,Other,VA,VA,F,US,US,Associate Professor,Unit 3,1100.5560338888888
+28120,8630,G,44,2560,IHeLp 2015 Summer,Regular,1 Payment,Registered Dietitian,DrWeil,Other,VA,VA,F,US,US,Associate Professor,Unit 4,1335.1072861111113
+28127,7798,G,52,3935,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,Web,Other,CA,CA,F,US,US,LCSW,Unit 1,967.3155075
+28127,7798,G,32,1286,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,Web,Other,CA,CA,F,US,US,LCSW,Unit 4,930.4678163888887
+28127,7798,G,31,4995,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,Web,Other,CA,CA,F,US,US,LCSW,Unit 3,799.0993122222222
+28127,7798,G,29,3859,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,Web,Other,CA,CA,F,US,US,LCSW,Unit 2,796.2935702777777
+28354,7915,G,31,6753,IHeLp 2015 Summer,Regular,1 Payment,Psychologist,Other,Other,WI,WI,F,US,US,Professor,Unit 2,947.1530813888887
+28354,7915,G,26,2299,IHeLp 2015 Summer,Regular,1 Payment,Psychologist,Other,Other,WI,WI,F,US,US,Professor,Unit 4,674.7332288888888
+28354,7915,G,57,6896,IHeLp 2015 Summer,Regular,1 Payment,Psychologist,Other,Other,WI,WI,F,US,US,Professor,Unit 1,959.6653319444445
+28354,7915,G,33,8477,IHeLp 2015 Summer,Regular,1 Payment,Psychologist,Other,Other,WI,WI,F,US,US,Professor,Unit 3,957.7649313888887
+28673,8266,G,51,9075,IHeLp 2015 Summer,Regular,2 Payments,Counselor,Web,Other,IN,IN,F,USA,USA,Clinical therapist,Unit 1,857.0709788888888
+28673,8266,G,33,8697,IHeLp 2015 Summer,Regular,2 Payments,Counselor,Web,Other,IN,IN,F,USA,USA,Clinical therapist,Unit 2,940.004314722222
+28673,8266,G,34,3025,IHeLp 2015 Summer,Regular,2 Payments,Counselor,Web,Other,IN,IN,F,USA,USA,Clinical therapist,Unit 4,576.8476677777778
+28673,8266,G,34,11155,IHeLp 2015 Summer,Regular,2 Payments,Counselor,Web,Other,IN,IN,F,USA,USA,Clinical therapist,Unit 3,870.3928197222223
+28673,8266,G,1,378,IHeLp 2015 Summer,Regular,2 Payments,Counselor,Web,Other,IN,IN,F,USA,USA,Clinical therapist,Orientation,543.8514466666667
+28680,8097,G,21,1260,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Web,Other,CA,,F,US,US,Registered Nurse,Unit 4,376.9669122222222
+28680,8097,G,1,148,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Web,Other,CA,,F,US,US,Registered Nurse,Orientation,0.3947177777777778
+28680,8097,G,47,3707,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Web,Other,CA,,F,US,US,Registered Nurse,Unit 1,967.4075883333335
+28680,8097,G,27,3559,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Web,Other,CA,,F,US,US,Registered Nurse,Unit 2,933.9955083333333
+28680,8097,G,26,4745,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Nurse,Web,Other,CA,,F,US,US,Registered Nurse,Unit 3,711.1876275000001
+28688,8106,G,27,7906,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,,,F,US,US,Nursing Manager,Unit 2,905.3797352777775
+28688,8106,G,37,2750,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,,,F,US,US,Nursing Manager,Unit 4,824.9030899999998
+28688,8106,G,47,8250,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,,,F,US,US,Nursing Manager,Unit 1,964.932262777778
+28688,8106,G,1,344,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,,,F,US,US,Nursing Manager,Orientation,4.250271111111111
+28688,8106,G,31,10140,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,,,F,US,US,Nursing Manager,Unit 3,964.7438402777777
+28997,11899,G,40,3202,IHeLp 2017 Spring,Regular,2 Payments,Registered Nurse,DrWeil,Fam_Prac,ID,ID,F,USA,USA,,Unit 4,767.6404547222223
+28997,11899,G,53,9072,IHeLp 2017 Spring,Regular,2 Payments,Registered Nurse,DrWeil,Fam_Prac,ID,ID,F,USA,USA,,Unit 1,721.7587777777777
+28997,11899,G,35,8005,IHeLp 2017 Spring,Regular,2 Payments,Registered Nurse,DrWeil,Fam_Prac,ID,ID,F,USA,USA,,Unit 2,912.0869180555555
+28997,11899,G,1,356,IHeLp 2017 Spring,Regular,2 Payments,Registered Nurse,DrWeil,Fam_Prac,ID,ID,F,USA,USA,,Orientation,336.58736972222215
+28997,11899,G,40,10673,IHeLp 2017 Spring,Regular,2 Payments,Registered Nurse,DrWeil,Fam_Prac,ID,ID,F,USA,USA,,Unit 3,774.9600269444444
+29008,8280,G,55,10351,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,Other,Other,,,F,,,Integrative Medicine Counselor / Coordinator,Unit 1,970.1175066666667
+29008,8280,G,1,422,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,Other,Other,,,F,,,Integrative Medicine Counselor / Coordinator,Orientation,95.49982805555555
+29008,8280,G,27,3380,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,Other,Other,,,F,,,Integrative Medicine Counselor / Coordinator,Unit 4,680.5254433333333
+29008,8280,G,31,12674,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,Other,Other,,,F,,,Integrative Medicine Counselor / Coordinator,Unit 3,961.220438611111
+29008,8280,G,30,9928,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,Other,Other,,,F,,,Integrative Medicine Counselor / Coordinator,Unit 2,923.3063958333332
+29028,8324,G,1,290,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Web,Other,FL,FL,F,US,US,Dietitian,Orientation,40.766467222222225
+29028,8324,G,20,2318,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Web,Other,FL,FL,F,US,US,Dietitian,Unit 4,711.5307894444444
+29028,8324,G,57,7098,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Web,Other,FL,FL,F,US,US,Dietitian,Unit 1,887.2147788888889
+29028,8324,G,26,8546,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Web,Other,FL,FL,F,US,US,Dietitian,Unit 3,756.31012
+29028,8324,G,28,6953,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Web,Other,FL,FL,F,US,US,Dietitian,Unit 2,905.810425
+29105,8310,G,53,3092,IHeLp 2016 Spring,Scholarship,1 Payment,Psychologist,AF member,Other,,AZ,F,,US,,Unit 1,517.2598977777777
+29105,8310,G,31,3154,IHeLp 2016 Spring,Scholarship,1 Payment,Psychologist,AF member,Other,,AZ,F,,US,,Unit 2,853.2894569444444
+29105,8310,G,1,124,IHeLp 2016 Spring,Scholarship,1 Payment,Psychologist,AF member,Other,,AZ,F,,US,,Orientation,2929.017323333333
+29105,8310,G,31,3958,IHeLp 2016 Spring,Scholarship,1 Payment,Psychologist,AF member,Other,,AZ,F,,US,,Unit 3,1031.9629083333334
+29105,8310,G,33,1051,IHeLp 2016 Spring,Scholarship,1 Payment,Psychologist,AF member,Other,,AZ,F,,US,,Unit 4,793.4257558333333
+29119,8326,G,32,11581,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Physical Therapist,Web,Other,,,M,,,,Unit 3,457.82766
+29119,8326,G,53,9815,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Physical Therapist,Web,Other,,,M,,,,Unit 1,812.6118211111111
+29119,8326,G,36,3141,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Physical Therapist,Web,Other,,,M,,,,Unit 4,701.7581866666667
+29119,8326,G,32,9030,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Physical Therapist,Web,Other,,,M,,,,Unit 2,646.8281677777778
+29119,8326,G,1,393,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Physical Therapist,Web,Other,,,M,,,,Orientation,5.631008611111112
+29145,8338,G,51,6521,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,DrWeil,Other,,,F,,,,Unit 1,919.5539338888887
+29145,8338,G,1,261,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,DrWeil,Other,,,F,,,,Orientation,10.430726666666667
+29145,8338,G,23,5999,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,DrWeil,Other,,,F,,,,Unit 2,1042.7338244444445
+29145,8338,G,27,2217,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,DrWeil,Other,,,F,,,,Unit 4,1005.0147802777775
+29145,8338,G,29,7955,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Therapist,DrWeil,Other,,,F,,,,Unit 3,898.351665
+29184,8352,G,16,1525,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Pediatrics,AZ,,F,US,,,Unit 4,525.7584597222223
+29184,8352,G,16,3983,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Pediatrics,AZ,,F,US,,,Unit 2,938.6393405555556
+29184,8352,G,1,169,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Pediatrics,AZ,,F,US,,,Orientation,0.9531950000000001
+29184,8352,G,41,4067,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Pediatrics,AZ,,F,US,,,Unit 1,987.9593855555556
+29184,8352,G,19,5084,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Pediatrics,AZ,,F,US,,,Unit 3,1189.0652725000002
+29195,8355,G,19,1344,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,Other,,,F,,,,Unit 4,462.8835758333333
+29195,8355,G,48,4115,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,Other,,,F,,,,Unit 1,818.0379433333333
+29195,8355,G,27,3863,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,Other,,,F,,,,Unit 2,771.8948647222223
+29195,8355,G,26,5039,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,Other,,,F,,,,Unit 3,652.8527461111112
+29197,8360,G,1,231,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Brochure/Mailing,Other,MI,,F,United States,,Healthy Living Advisors,Orientation,168.4678136111111
+29197,8360,G,35,5535,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Brochure/Mailing,Other,MI,,F,United States,,Healthy Living Advisors,Unit 2,940.4899647222223
+29197,8360,G,23,1960,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Brochure/Mailing,Other,MI,,F,United States,,Healthy Living Advisors,Unit 4,506.4536583333333
+29197,8360,G,48,5535,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Brochure/Mailing,Other,MI,,F,United States,,Healthy Living Advisors,Unit 1,903.4443694444444
+29197,8360,G,26,7034,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Brochure/Mailing,Other,MI,,F,United States,,Healthy Living Advisors,Unit 3,1032.2245908333332
+29316,8395,G,34,5363,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Psychologist,CIM faculty,Other,AZ,AZ,F,United States,United Sta,Clinical Psychologist/ Owner,Unit 2,841.0328288888887
+29316,8395,G,25,1940,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Psychologist,CIM faculty,Other,AZ,AZ,F,United States,United Sta,Clinical Psychologist/ Owner,Unit 4,579.6666036111111
+29316,8395,G,1,228,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Psychologist,CIM faculty,Other,AZ,AZ,F,United States,United Sta,Clinical Psychologist/ Owner,Orientation,190.2194636111111
+29316,8395,G,57,5591,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Psychologist,CIM faculty,Other,AZ,AZ,F,United States,United Sta,Clinical Psychologist/ Owner,Unit 1,768.8219658333335
+29316,8395,G,33,6732,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Psychologist,CIM faculty,Other,AZ,AZ,F,United States,United Sta,Clinical Psychologist/ Owner,Unit 3,1079.6338769444444
+29364,8422,W,1,72,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,Other,IL,,F,US,,Clinical Assistant Professor,Orientation,22.80042138888889
+29364,8422,W,47,1736,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,Other,IL,,F,US,,Clinical Assistant Professor,Unit 1,704.2688183333332
+29364,8422,W,27,2242,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,Other,IL,,F,US,,Clinical Assistant Professor,Unit 3,549.0398302777778
+29364,8422,W,29,1700,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,Other,IL,,F,US,,Clinical Assistant Professor,Unit 2,843.8379375000002
+29502,8489,G,1,386,IHeLp 2015 Summer,Scholarship,2 Payments,Counselor,Other,Other,,,M,,,Licensed Mental Health Counselor,Orientation,1.7093552777777778
+29502,8489,G,37,11385,IHeLp 2015 Summer,Scholarship,2 Payments,Counselor,Other,Other,,,M,,,Licensed Mental Health Counselor,Unit 3,822.8448722222223
+29502,8489,G,37,3087,IHeLp 2015 Summer,Scholarship,2 Payments,Counselor,Other,Other,,,M,,,Licensed Mental Health Counselor,Unit 4,957.3657908333333
+29502,8489,G,53,9262,IHeLp 2015 Summer,Scholarship,2 Payments,Counselor,Other,Other,,,M,,,Licensed Mental Health Counselor,Unit 1,867.7972586111111
+29502,8489,G,35,8876,IHeLp 2015 Summer,Scholarship,2 Payments,Counselor,Other,Other,,,M,,,Licensed Mental Health Counselor,Unit 2,811.2760333333334
+29522,8498,G,30,7689,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Web,Other,,,F,,,Nutrition and Wellness Coordinator,Unit 3,1088.0919927777775
+29522,8498,G,28,5953,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Web,Other,,,F,,,Nutrition and Wellness Coordinator,Unit 2,971.3110691666667
+29522,8498,G,1,248,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Web,Other,,,F,,,Nutrition and Wellness Coordinator,Orientation,98.62446750000001
+29522,8498,G,22,2108,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Web,Other,,,F,,,Nutrition and Wellness Coordinator,Unit 4,811.2573661111113
+29522,8498,G,43,6201,IHeLp 2015 Summer,Scholarship,1 Payment,Registered Dietitian,Web,Other,,,F,,,Nutrition and Wellness Coordinator,Unit 1,883.5831533333335
+29551,14871,G,1,316,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,AF member,Surgery,AZ,AZ,F,USA,USA,RN-TL,Orientation,2.040245
+29551,14871,G,30,9626,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,AF member,Surgery,AZ,AZ,F,USA,USA,RN-TL,Unit 3,938.4239280555556
+29551,14871,G,38,2841,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,AF member,Surgery,AZ,AZ,F,USA,USA,RN-TL,Unit 4,726.3345511111113
+29551,14871,G,60,7733,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,AF member,Surgery,AZ,AZ,F,USA,USA,RN-TL,Unit 1,941.9948058333333
+29551,14871,G,34,7101,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,AF member,Surgery,AZ,AZ,F,USA,USA,RN-TL,Unit 2,889.7349944444444
+29565,8533,G,22,8427,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Other,AF member,Other,,,F,,,HEALTH / MEDICAL NEWS REPORT,Unit 3,1227.9500105555558
+29565,8533,G,1,263,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Other,AF member,Other,,,F,,,HEALTH / MEDICAL NEWS REPORT,Orientation,191.93218972222226
+29565,8533,G,58,6715,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Other,AF member,Other,,,F,,,HEALTH / MEDICAL NEWS REPORT,Unit 1,937.0643388888888
+29565,8533,G,9,2238,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Other,AF member,Other,,,F,,,HEALTH / MEDICAL NEWS REPORT,Unit 4,775.5596880555556
+29565,8533,G,29,6452,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Other,AF member,Other,,,F,,,HEALTH / MEDICAL NEWS REPORT,Unit 2,848.9013800000001
+29572,8578,G,30,11502,IHeLp 2015 Summer,Regular,2 Payments,Other,DrWeil_event,Other,,,F,,,,Unit 3,1007.6210741666667
+29572,8578,G,57,9552,IHeLp 2015 Summer,Regular,2 Payments,Other,DrWeil_event,Other,,,F,,,,Unit 1,817.6473052777777
+29572,8578,G,35,8967,IHeLp 2015 Summer,Regular,2 Payments,Other,DrWeil_event,Other,,,F,,,,Unit 2,961.7211525
+29572,8578,G,1,390,IHeLp 2015 Summer,Regular,2 Payments,Other,DrWeil_event,Other,,,F,,,,Orientation,122.47159861111112
+29572,8578,G,26,3119,IHeLp 2015 Summer,Regular,2 Payments,Other,DrWeil_event,Other,,,F,,,,Unit 4,1152.2523316666666
+29583,8530,G,32,3366,IHeLp 2015 Summer,Regular,6 Monthly Payments,Physical Therapist,Other,Other,ID,ID,F,US,US,Physical Therapist,Unit 4,889.9075949999999
+29583,8530,G,47,9900,IHeLp 2015 Summer,Regular,6 Monthly Payments,Physical Therapist,Other,Other,ID,ID,F,US,US,Physical Therapist,Unit 1,937.8611833333333
+29583,8530,G,34,9108,IHeLp 2015 Summer,Regular,6 Monthly Payments,Physical Therapist,Other,Other,ID,ID,F,US,US,Physical Therapist,Unit 2,946.4819680555556
+29583,8530,G,1,396,IHeLp 2015 Summer,Regular,6 Monthly Payments,Physical Therapist,Other,Other,ID,ID,F,US,US,Physical Therapist,Orientation,89.88149805555555
+29583,8530,G,33,11682,IHeLp 2015 Summer,Regular,6 Monthly Payments,Physical Therapist,Other,Other,ID,ID,F,US,US,Physical Therapist,Unit 3,940.0186377777776
+29593,8536,G,42,6858,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Acupuncturist,AF member,Other,,,F,,,Licensed Acupuncturist,Unit 1,804.0929644444444
+29593,8536,G,24,2332,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Acupuncturist,AF member,Other,,,F,,,Licensed Acupuncturist,Unit 4,437.8374897222222
+29593,8536,G,1,274,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Acupuncturist,AF member,Other,,,F,,,Licensed Acupuncturist,Orientation,25.991885277777772
+29593,8536,G,27,8092,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Acupuncturist,AF member,Other,,,F,,,Licensed Acupuncturist,Unit 3,863.0767144444444
+29593,8536,G,27,6447,IHeLp 2015 Summer,Scholarship,6 Monthly Payments,Acupuncturist,AF member,Other,,,F,,,Licensed Acupuncturist,Unit 2,971.9845972222223
+29673,9046,G,1,258,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,CIM faculty,Pediatrics,NM,,F,,,,Orientation,3.086470277777777
+29673,9046,G,35,7600,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,CIM faculty,Pediatrics,NM,,F,,,,Unit 3,1275.035085
+29673,9046,G,50,6183,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,CIM faculty,Pediatrics,NM,,F,,,,Unit 1,810.5401311111111
+29673,9046,G,35,6183,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,CIM faculty,Pediatrics,NM,,F,,,,Unit 2,969.4853555555555
+29673,9046,G,32,2190,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,CIM faculty,Pediatrics,NM,,F,,,,Unit 4,1186.3778405555556
+29706,16942,G,36,10900,IHeLp 2018 Spring,Regular,1 Payment,Physician Assistant,Other,Other,FL,FL,F,United States,United States of America (the),,Unit 3,915.8017747222225
+29706,16942,G,1,1903,IHeLp 2018 Spring,Regular,1 Payment,Physician Assistant,Other,Other,FL,FL,F,United States,United States of America (the),,Orientation,6841.8062675
+29706,16942,G,25,3114,IHeLp 2018 Spring,Regular,1 Payment,Physician Assistant,Other,Other,FL,FL,F,United States,United States of America (the),,Unit 4,841.153701388889
+29706,16942,G,39,7786,IHeLp 2018 Spring,Regular,1 Payment,Physician Assistant,Other,Other,FL,FL,F,United States,United States of America (the),,Unit 2,938.9848444444444
+29706,16942,G,53,8478,IHeLp 2018 Spring,Regular,1 Payment,Physician Assistant,Other,Other,FL,FL,F,United States,United States of America (the),,Unit 1,814.3719158333333
+29749,8619,D,43,2278,IHeLp 2015 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Unit 1,888.6232658333334
+29749,9251,G,27,1738,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Unit 2,874.903365
+29749,8619,D,27,2278,IHeLp 2015 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Unit 2,766.6900308333335
+29749,9251,G,1,148,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Orientation,0.1039425
+29749,8619,D,46,2278,IHeLp 2015 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Unit 1,888.6232658333334
+29749,8619,D,26,5600,IHeLp 2015 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Unit 3,548.6874880555555
+29749,9251,G,26,4438,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Unit 3,602.1152772222222
+29749,8619,D,26,2278,IHeLp 2015 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Unit 2,766.6900308333335
+29749,9251,G,26,1738,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Unit 2,874.903365
+29749,9251,G,29,629,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Unit 4,670.2479366666668
+29749,9251,G,46,1812,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Unit 1,731.3803027777777
+29749,8619,D,1,190,IHeLp 2015 Summer,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Orientation,24.03282972222223
+29749,9251,G,43,1812,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,DrWeil,Other,,,F,US,US,RN,Unit 1,731.3803027777777
+29755,20614,G,35,4478,IHeLp 2018 Summer,Regular,1 Payment,Other,CIM faculty,Other,ME,ME,F,Brazil,Brazil,,Unit 2,1087.582038611111
+29755,20614,G,1,681,IHeLp 2018 Summer,Regular,1 Payment,Other,CIM faculty,Other,ME,ME,F,Brazil,Brazil,,Orientation,2.1622422222222224
+29755,20614,G,58,4673,IHeLp 2018 Summer,Regular,1 Payment,Other,CIM faculty,Other,ME,ME,F,Brazil,Brazil,,Unit 1,580.4811994444443
+29755,20614,G,43,1655,IHeLp 2018 Summer,Regular,1 Payment,Other,CIM faculty,Other,ME,ME,F,Brazil,Brazil,,Unit 4,142.89407833333334
+29755,20614,G,40,5841,IHeLp 2018 Summer,Regular,1 Payment,Other,CIM faculty,Other,ME,ME,F,Brazil,Brazil,,Unit 3,2165.13468
+30152,8703,G,32,5742,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Web,Fam_Prac,WA,WA,F,USA,USA,Primary Care Registered Nurse,Unit 3,818.0111516666667
+30152,8703,G,44,4594,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Web,Fam_Prac,WA,WA,F,USA,USA,Primary Care Registered Nurse,Unit 1,673.8696238888889
+30152,8703,G,29,4211,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Web,Fam_Prac,WA,WA,F,USA,USA,Primary Care Registered Nurse,Unit 2,850.5316705555556
+30152,8703,G,12,1627,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Web,Fam_Prac,WA,WA,F,USA,USA,Primary Care Registered Nurse,Unit 4,171.26481833333338
+30152,8703,G,1,191,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Web,Fam_Prac,WA,WA,F,USA,USA,Primary Care Registered Nurse,Orientation,0.6967086111111109
+30221,10279,G,24,4208,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,AF member,Fam_Prac,NH,NH,F,US,US,Office Manager/ Clinical Coordinator,Unit 4,454.57007444444434
+30221,10279,G,40,11455,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,AF member,Fam_Prac,NH,NH,F,US,US,Office Manager/ Clinical Coordinator,Unit 1,727.4657705555558
+30221,10279,G,1,468,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,AF member,Fam_Prac,NH,NH,F,US,US,Office Manager/ Clinical Coordinator,Orientation,700.6668463888889
+30221,10279,G,25,14026,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,AF member,Fam_Prac,NH,NH,F,US,US,Office Manager/ Clinical Coordinator,Unit 3,816.8777705555556
+30221,10279,G,30,10286,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,AF member,Fam_Prac,NH,NH,F,US,US,Office Manager/ Clinical Coordinator,Unit 2,1059.100335
+30274,9121,G,34,6828,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,DrWeil,Cardiology,CA,CA,M,USA,US,RN,Unit 3,650.5007361111111
+30274,9121,G,56,5616,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,DrWeil,Cardiology,CA,CA,M,USA,US,RN,Unit 1,875.2792816666665
+30274,9121,G,35,5286,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,DrWeil,Cardiology,CA,CA,M,USA,US,RN,Unit 2,793.8109841666667
+30274,9121,G,40,1982,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,DrWeil,Cardiology,CA,CA,M,USA,US,RN,Unit 4,599.39439
+30274,9121,G,1,220,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,DrWeil,Cardiology,CA,CA,M,USA,US,RN,Orientation,0.5426177777777778
+30306,9124,G,58,7738,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,Cardiology,CA,CA,F,USA,usa,,Unit 1,736.5817163888888
+30306,9124,G,33,9673,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,Cardiology,CA,CA,F,USA,usa,,Unit 3,626.9407861111113
+30306,9124,G,1,322,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,Cardiology,CA,CA,F,USA,usa,,Orientation,3.728008055555556
+30306,9124,G,40,2741,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,Cardiology,CA,CA,F,USA,usa,,Unit 4,404.04675611111116
+30306,9124,G,33,7255,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,DrWeil,Cardiology,CA,CA,F,USA,usa,,Unit 2,865.4170188888891
+30383,8758,G,53,4721,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,AZ,M,United States,United Sta,Director of EMS & Fire Science Programs,Unit 1,901.3213469444444
+30383,8758,G,1,189,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,AZ,M,United States,United Sta,Director of EMS & Fire Science Programs,Orientation,602.9492977777778
+30383,8758,G,28,5855,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,AZ,M,United States,United Sta,Director of EMS & Fire Science Programs,Unit 3,944.9356686111113
+30383,8758,G,33,1605,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,AZ,M,United States,United Sta,Director of EMS & Fire Science Programs,Unit 4,725.5497983333332
+30383,8758,G,32,4533,IHeLp 2016 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,AZ,M,United States,United Sta,Director of EMS & Fire Science Programs,Unit 2,941.4227863888887
+30479,8787,G,47,4497,IHeLp 2016 Spring,Scholarship,1 Payment,Physical Therapist,Healthy_Aging,Other,PA,,M,,,,Unit 1,865.6268322222223
+30479,8787,G,20,5621,IHeLp 2016 Spring,Scholarship,1 Payment,Physical Therapist,Healthy_Aging,Other,PA,,M,,,,Unit 3,937.1535730555556
+30479,8787,G,1,187,IHeLp 2016 Spring,Scholarship,1 Payment,Physical Therapist,Healthy_Aging,Other,PA,,M,,,,Orientation,0.20997194444444445
+30479,8787,G,15,4685,IHeLp 2016 Spring,Scholarship,1 Payment,Physical Therapist,Healthy_Aging,Other,PA,,M,,,,Unit 2,938.5825755555555
+30479,8787,G,18,1593,IHeLp 2016 Spring,Scholarship,1 Payment,Physical Therapist,Healthy_Aging,Other,PA,,M,,,,Unit 4,859.1201830555556
+30560,8915,G,50,7230,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,Other,Int_med,LA,LA,F,US,US,CEO,Unit 1,828.4282330555556
+30560,8915,G,19,8676,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,Other,Int_med,LA,LA,F,US,US,CEO,Unit 3,958.8068227777776
+30560,8915,G,20,2458,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,Other,Int_med,LA,LA,F,US,US,CEO,Unit 4,1138.2609405555556
+30560,8915,G,29,7085,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,Other,Int_med,LA,LA,F,US,US,CEO,Unit 2,980.925772777778
+30560,8915,G,1,289,IHeLp 2016 Spring,Regular,6 Monthly Payments,Registered Nurse,Other,Int_med,LA,LA,F,US,US,CEO,Orientation,11.519199444444444
+30897,9013,G,27,8604,IHeLp 2016 Spring,Scholarship,1 Payment,Therapist,DrWeil_event,Other,,,F,,,,Unit 3,1010.1602716666667
+30897,9013,G,48,7170,IHeLp 2016 Spring,Scholarship,1 Payment,Therapist,DrWeil_event,Other,,,F,,,,Unit 1,863.5963525000001
+30897,9013,G,27,7026,IHeLp 2016 Spring,Scholarship,1 Payment,Therapist,DrWeil_event,Other,,,F,,,,Unit 2,952.2710363888887
+30897,9013,G,33,2438,IHeLp 2016 Spring,Scholarship,1 Payment,Therapist,DrWeil_event,Other,,,F,,,,Unit 4,1033.1915669444445
+30897,9013,G,1,287,IHeLp 2016 Spring,Scholarship,1 Payment,Therapist,DrWeil_event,Other,,,F,,,,Orientation,42.09002166666667
+30977,8933,G,39,1628,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,Other,Other,AZ,,F,United States,,Managing Partner,Unit 4,1652.9675922222225
+30977,8933,G,1,191,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,Other,Other,AZ,,F,United States,,Managing Partner,Orientation,0.4352288888888889
+30977,8933,G,33,5936,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,Other,Other,AZ,,F,United States,,Managing Partner,Unit 3,887.473535
+30977,8933,G,52,4691,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,Other,Other,AZ,,F,United States,,Managing Partner,Unit 1,745.7183391666667
+30977,8933,G,35,4404,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,Other,Other,AZ,,F,United States,,Managing Partner,Unit 2,390.4021408333333
+31475,9066,W,15,150,IHeLp 2016 Spring,Scholarship,,Other,Other,Other,CA,CA,F,US,United Sta,,Unit 2,4.053197222222222
+31475,9066,W,55,2392,IHeLp 2016 Spring,Scholarship,,Other,Other,Other,CA,CA,F,US,United Sta,,Unit 1,974.1330997222225
+31497,9078,G,34,3538,IHeLp 2016 Summer,Scholarship,1 Payment,Other,Other,Public Health &amp; Preventive Medicine,NJ,,F,US,US,Professor,Unit 2,1051.5355430555555
+31497,9078,G,1,161,IHeLp 2016 Summer,Scholarship,1 Payment,Other,Other,Public Health &amp; Preventive Medicine,NJ,,F,US,US,Professor,Orientation,0.16604249999999998
+31497,9078,G,48,4021,IHeLp 2016 Summer,Scholarship,1 Payment,Other,Other,Public Health &amp; Preventive Medicine,NJ,,F,US,US,Professor,Unit 1,953.4042525
+31497,9078,G,37,4986,IHeLp 2016 Summer,Scholarship,1 Payment,Other,Other,Public Health &amp; Preventive Medicine,NJ,,F,US,US,Professor,Unit 3,938.2537894444445
+31497,9078,G,25,1448,IHeLp 2016 Summer,Scholarship,1 Payment,Other,Other,Public Health &amp; Preventive Medicine,NJ,,F,US,US,Professor,Unit 4,1037.6795472222225
+31620,9128,G,1,273,IHeLp 2017 Spring,Scholarship,2 Payments,Registered Nurse,AF member,Other,AZ,,F,US,US,Health coach,Orientation,0.4487519444444445
+31620,9128,G,34,6554,IHeLp 2017 Spring,Scholarship,2 Payments,Registered Nurse,AF member,Other,AZ,,F,US,US,Health coach,Unit 1,818.9606924999998
+31620,9128,G,13,2321,IHeLp 2017 Spring,Scholarship,2 Payments,Registered Nurse,AF member,Other,AZ,,F,US,US,Health coach,Unit 4,337.5116016666667
+31620,9128,G,18,8329,IHeLp 2017 Spring,Scholarship,2 Payments,Registered Nurse,AF member,Other,AZ,,F,US,US,Health coach,Unit 3,700.7984280555555
+31620,9128,G,23,6144,IHeLp 2017 Spring,Scholarship,2 Payments,Registered Nurse,AF member,Other,AZ,,F,US,US,Health coach,Unit 2,987.7869213888887
+31630,16250,G,32,1009,IHeLp 2018 Spring,Regular,6 Monthly Payments,Registered Pharmacist,Web,Other,AZ,AZ,F,United States of America (the),USA,Sr VP Workers' Compensation Clinical Management,Unit 4,223.5014911111111
+31630,16250,G,51,2747,IHeLp 2018 Spring,Regular,6 Monthly Payments,Registered Pharmacist,Web,Other,AZ,AZ,F,United States of America (the),USA,Sr VP Workers' Compensation Clinical Management,Unit 1,806.8713869444442
+31630,16250,G,25,2522,IHeLp 2018 Spring,Regular,6 Monthly Payments,Registered Pharmacist,Web,Other,AZ,AZ,F,United States of America (the),USA,Sr VP Workers' Compensation Clinical Management,Unit 2,585.6503447222221
+31630,16250,G,25,3643,IHeLp 2018 Spring,Regular,6 Monthly Payments,Registered Pharmacist,Web,Other,AZ,AZ,F,United States of America (the),USA,Sr VP Workers' Compensation Clinical Management,Unit 3,575.8498919444445
+31630,16250,G,1,1065,IHeLp 2018 Spring,Regular,6 Monthly Payments,Registered Pharmacist,Web,Other,AZ,AZ,F,United States of America (the),USA,Sr VP Workers' Compensation Clinical Management,Orientation,10218.330539166667
+31717,9134,G,34,2864,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,AF member,Fam_Prac,WI,WI,F,US,US,,Unit 4,1349.5873025
+31717,9134,G,35,9941,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,AF member,Fam_Prac,WI,WI,F,US,US,,Unit 3,889.2185097222223
+31717,9134,G,51,7919,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,AF member,Fam_Prac,WI,WI,F,US,US,,Unit 1,932.591370277778
+31717,9134,G,1,337,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,AF member,Fam_Prac,WI,WI,F,US,US,,Orientation,1.0212683333333332
+31717,9134,G,44,7751,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,AF member,Fam_Prac,WI,WI,F,US,US,,Unit 2,939.4980699999999
+31734,9088,G,30,2084,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,RN,Unit 4,965.997695277778
+31734,9088,G,56,6006,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,RN,Unit 1,887.2385183333334
+31734,9088,G,32,5638,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,RN,Unit 2,951.2166827777777
+31734,9088,G,1,245,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,RN,Orientation,251.41057777777775
+31734,9088,G,31,7232,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,CA,CA,F,US,US,RN,Unit 3,961.225143888889
+31742,9071,W,14,33,IHeLp 2016 Spring,Scholarship,2 Payments,Registered Nurse,Other,Other,,,F,,,RN,Unit 1,167.44241944444445
+31742,9071,W,1,13,IHeLp 2016 Spring,Scholarship,2 Payments,Registered Nurse,Other,Other,,,F,,,RN,Orientation,1356.7474116666667
+31750,9074,G,30,12683,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,WY,WY,F,US,US,Staff RN,Unit 3,794.8186825
+31750,9074,G,19,9889,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,WY,WY,F,US,US,Staff RN,Unit 2,828.2642697222221
+31750,9074,G,55,10748,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,WY,WY,F,US,US,Staff RN,Unit 1,792.1189558333333
+31750,9074,G,1,430,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,WY,WY,F,US,US,Staff RN,Orientation,3.4760194444444443
+31750,9074,G,38,3440,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,WY,WY,F,US,US,Staff RN,Unit 4,1321.8928213888887
+31872,9090,G,46,6363,IHeLp 2016 Spring,Regular,2 Payments,Counselor,Web,Other,AZ,AZ,F,US,US,,Unit 1,937.0231413888887
+31872,9090,G,24,2080,IHeLp 2016 Spring,Regular,2 Payments,Counselor,Web,Other,AZ,AZ,F,US,US,,Unit 4,1009.3095116666667
+31872,9090,G,31,7341,IHeLp 2016 Spring,Regular,2 Payments,Counselor,Web,Other,AZ,AZ,F,US,US,,Unit 3,1003.8932408333333
+31872,9090,G,1,245,IHeLp 2016 Spring,Regular,2 Payments,Counselor,Web,Other,AZ,AZ,F,US,US,,Orientation,0.5303877777777778
+31872,9090,G,32,5628,IHeLp 2016 Spring,Regular,2 Payments,Counselor,Web,Other,AZ,AZ,F,US,US,,Unit 2,963.5912561111113
+31923,9135,G,55,4707,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,DrWeil,Int_med,CO,,F,US,,,Unit 1,722.4682930555556
+31923,9135,G,1,196,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,DrWeil,Int_med,CO,,F,US,,,Orientation,0.9101838888888888
+31923,9135,G,29,5786,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,DrWeil,Int_med,CO,,F,US,,,Unit 3,1009.5274844444444
+31923,9135,G,28,4511,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,DrWeil,Int_med,CO,,F,US,,,Unit 2,925.6928630555556
+31923,9135,G,22,1569,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,DrWeil,Int_med,CO,,F,US,,,Unit 4,521.8215025000001
+32000,10197,G,14,1756,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,GA,GA,F,United States,US,Clinician,Unit 4,535.6992688888888
+32000,10197,G,33,4488,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,GA,GA,F,United States,US,Clinician,Unit 2,937.0469722222224
+32000,10197,G,19,6147,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,GA,GA,F,United States,US,Clinician,Unit 3,776.8402730555556
+32000,10197,G,1,195,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,GA,GA,F,United States,US,Clinician,Orientation,766.9760772222223
+32000,10197,G,53,4781,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,GA,GA,F,United States,US,Clinician,Unit 1,836.7235022222222
+32218,9291,G,34,7099,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,Other,Other,AZ,AZ,F,Pima,Pima,,Unit 3,371.18256805555563
+32218,9291,G,36,5680,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,Other,Other,AZ,AZ,F,Pima,Pima,,Unit 2,608.0810944444444
+32218,9291,G,1,237,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,Other,Other,AZ,AZ,F,Pima,Pima,,Orientation,1.4117169444444444
+32218,9291,G,50,5798,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,Other,Other,AZ,AZ,F,Pima,Pima,,Unit 1,699.9030700000002
+32218,9291,G,32,1893,IHeLp 2016 Spring,Regular,2 Payments,Registered Nurse,Other,Other,AZ,AZ,F,Pima,Pima,,Unit 4,400.7865633333333
+32457,9458,G,35,7269,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,CIM faculty,Fam_Prac,WI,WI,F,United States,United Sta,RN Health Coach,Unit 2,941.653674722222
+32457,9458,G,52,7585,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,CIM faculty,Fam_Prac,WI,WI,F,United States,United Sta,RN Health Coach,Unit 1,873.0309558333333
+32457,9458,G,29,2528,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,CIM faculty,Fam_Prac,WI,WI,F,United States,United Sta,RN Health Coach,Unit 4,995.9520330555556
+32457,9458,G,25,9323,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,CIM faculty,Fam_Prac,WI,WI,F,United States,United Sta,RN Health Coach,Unit 3,897.9601550000001
+32457,9458,G,1,316,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Nurse,CIM faculty,Fam_Prac,WI,WI,F,United States,United Sta,RN Health Coach,Orientation,365.9073663888889
+32541,11436,G,40,4825,IHeLp 2017 Spring,Scholarship,2 Payments,Registered Nurse,AF member,Other,AK,AK,F,USA,USA,Diabetic Care Coordinator,Unit 1,728.2457333333334
+32541,11436,G,33,4628,IHeLp 2017 Spring,Scholarship,2 Payments,Registered Nurse,AF member,Other,AK,AK,F,USA,USA,Diabetic Care Coordinator,Unit 2,881.2787908333332
+32541,11436,G,30,6302,IHeLp 2017 Spring,Scholarship,2 Payments,Registered Nurse,AF member,Other,AK,AK,F,USA,USA,Diabetic Care Coordinator,Unit 3,842.1023694444444
+32541,11436,G,20,1871,IHeLp 2017 Spring,Scholarship,2 Payments,Registered Nurse,AF member,Other,AK,AK,F,USA,USA,Diabetic Care Coordinator,Unit 4,663.3162938888888
+32541,11436,G,1,197,IHeLp 2017 Spring,Scholarship,2 Payments,Registered Nurse,AF member,Other,AK,AK,F,USA,USA,Diabetic Care Coordinator,Orientation,0.500135
+32747,9672,G,1,196,IHeLp 2016 Spring,Scholarship,1 Payment,Other,CIM faculty,Other,NM,,M,usa,,,Orientation,5.017908333333334
+32747,9672,G,22,4793,IHeLp 2016 Spring,Scholarship,1 Payment,Other,CIM faculty,Other,NM,,M,usa,,,Unit 2,942.700603888889
+32747,9672,G,22,1663,IHeLp 2016 Spring,Scholarship,1 Payment,Other,CIM faculty,Other,NM,,M,usa,,,Unit 4,856.4598447222223
+32747,9672,G,11,6162,IHeLp 2016 Spring,Scholarship,1 Payment,Other,CIM faculty,Other,NM,,M,usa,,,Unit 3,997.883807777778
+32747,9672,G,50,4793,IHeLp 2016 Spring,Scholarship,1 Payment,Other,CIM faculty,Other,NM,,M,usa,,,Unit 1,967.2266080555555
+32977,13812,G,25,1920,IHeLp 2017 Spring,Scholarship,1 Payment,Therapist,CIM faculty,Other,CT,CT,F,,USA,,Unit 4,1260.520667222222
+32977,13812,G,37,7001,IHeLp 2017 Spring,Scholarship,1 Payment,Therapist,CIM faculty,Other,CT,CT,F,,USA,,Unit 3,930.7317977777777
+32977,13812,G,1,226,IHeLp 2017 Spring,Scholarship,1 Payment,Therapist,CIM faculty,Other,CT,CT,F,,USA,,Orientation,1.0325416666666667
+32977,13812,G,50,5420,IHeLp 2017 Spring,Scholarship,1 Payment,Therapist,CIM faculty,Other,CT,CT,F,,USA,,Unit 1,917.4921158333334
+32977,13812,G,21,5081,IHeLp 2017 Spring,Scholarship,1 Payment,Therapist,CIM faculty,Other,CT,CT,F,,USA,,Unit 2,945.8115013888887
+33047,9808,G,47,5510,IHeLp 2016 Spring,Regular,2 Payments,Physical Therapist,Web,Other,CT,CT,F,,US,,Unit 1,862.5212688888888
+33047,9808,G,22,5510,IHeLp 2016 Spring,Regular,2 Payments,Physical Therapist,Web,Other,CT,CT,F,,US,,Unit 2,926.2991333333333
+33047,9808,G,24,1837,IHeLp 2016 Spring,Regular,2 Payments,Physical Therapist,Web,Other,CT,CT,F,,US,,Unit 4,1127.0518502777775
+33047,9808,G,14,7002,IHeLp 2016 Spring,Regular,2 Payments,Physical Therapist,Web,Other,CT,CT,F,,US,,Unit 3,764.6802469444444
+33097,9891,G,30,7774,IHeLp 2016 Spring,Regular,2 Payments,Registered Dietitian,Web,Other,,NY,F,,US,,Unit 3,875.7433105555556
+33097,9891,G,23,2073,IHeLp 2016 Spring,Regular,2 Payments,Registered Dietitian,Web,Other,,NY,F,,US,,Unit 4,997.0176513888887
+33097,9891,G,27,6090,IHeLp 2016 Spring,Regular,2 Payments,Registered Dietitian,Web,Other,,NY,F,,US,,Unit 2,957.2311063888887
+33097,9891,G,1,259,IHeLp 2016 Spring,Regular,2 Payments,Registered Dietitian,Web,Other,,NY,F,,US,,Orientation,65.47202333333333
+33097,9891,G,55,6219,IHeLp 2016 Spring,Regular,2 Payments,Registered Dietitian,Web,Other,,NY,F,,US,,Unit 1,887.9816988888889
+33117,9831,G,16,4925,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Other,Other,TX,,F,US,US,Renal Dietitian ,Unit 3,1013.4193675
+33117,9831,G,21,1304,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Other,Other,TX,,F,US,US,Renal Dietitian ,Unit 4,816.8944369444445
+33117,9831,G,32,3549,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Other,Other,TX,,F,US,US,Renal Dietitian ,Unit 1,829.9958186111113
+33117,9831,G,23,3549,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Dietitian,Other,Other,TX,,F,US,US,Renal Dietitian ,Unit 2,955.15845
+33169,10077,G,35,5307,IHeLp 2016 Summer,Regular,2 Payments,Counselor,CIM faculty,Other,,,F,,,,Unit 2,933.9073833333333
+33169,10077,G,1,217,IHeLp 2016 Summer,Regular,2 Payments,Counselor,CIM faculty,Other,,,F,,,,Orientation,0.5499911111111111
+33169,10077,G,37,7149,IHeLp 2016 Summer,Regular,2 Payments,Counselor,CIM faculty,Other,,,F,,,,Unit 3,885.4710436111113
+33169,10077,G,54,5416,IHeLp 2016 Summer,Regular,2 Payments,Counselor,CIM faculty,Other,,,F,,,,Unit 1,1030.2698727777777
+33169,10077,G,26,1950,IHeLp 2016 Summer,Regular,2 Payments,Counselor,CIM faculty,Other,,,F,,,,Unit 4,786.1110958333333
+33246,9892,G,1,363,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Dietitian,Other,Sub,PA,,F,US,US,Health Coach/Dietitian/Diabetes Educator,Orientation,4.608443611111111
+33246,9892,G,34,11240,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Dietitian,Other,Sub,PA,,F,US,US,Health Coach/Dietitian/Diabetes Educator,Unit 3,904.9087813888887
+33246,9892,G,34,2901,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Dietitian,Other,Sub,PA,,F,US,US,Health Coach/Dietitian/Diabetes Educator,Unit 4,1087.2326966666667
+33246,9892,G,48,8702,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Dietitian,Other,Sub,PA,,F,US,US,Health Coach/Dietitian/Diabetes Educator,Unit 1,746.5289858333333
+33246,9892,G,34,8340,IHeLp 2016 Spring,Scholarship,1 Payment,Registered Dietitian,Other,Sub,PA,,F,US,US,Health Coach/Dietitian/Diabetes Educator,Unit 2,958.7821347222224
+33304,9914,G,26,1638,IHeLp 2016 Spring,Regular,2 Payments,Counselor,Web,Other,CA,CA,M,US,US,Private Practice Psychotherapist,Unit 4,1205.6204830555555
+33304,9914,G,29,5782,IHeLp 2016 Spring,Regular,2 Payments,Counselor,Web,Other,CA,CA,M,US,US,Private Practice Psychotherapist,Unit 3,1182.9440419444445
+33304,9914,G,35,4433,IHeLp 2016 Spring,Regular,2 Payments,Counselor,Web,Other,CA,CA,M,US,US,Private Practice Psychotherapist,Unit 2,977.3038061111113
+33304,9914,G,49,4625,IHeLp 2016 Spring,Regular,2 Payments,Counselor,Web,Other,CA,CA,M,US,US,Private Practice Psychotherapist,Unit 1,727.5438366666666
+33441,13843,G,27,4626,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 2,935.4557972222225
+33441,13843,G,41,1758,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 4,915.8698308333333
+33441,13843,G,45,4533,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 1,780.1038241666665
+33441,13843,G,29,4626,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 2,935.4557972222225
+33441,13843,G,26,6014,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 3,863.2564869444444
+33441,10307,D,45,5632,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 1,951.115766111111
+33441,13843,G,3,6014,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 3,863.2564869444444
+33441,10307,D,29,4956,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 2,983.6636597222223
+33441,10307,D,27,4956,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 2,983.6636597222223
+33441,13843,G,1,185,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Orientation,0.03620333333333333
+33441,10307,D,3,2928,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 3,307.1963383333333
+33441,13843,G,48,4533,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 1,780.1038241666665
+33441,10307,D,1,225,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Orientation,71.3022061111111
+33441,10307,D,48,5632,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 1,951.115766111111
+33441,10307,D,26,2928,IHeLp 2016 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,WY,WY,F,United States of America (the),US,RN supervisor ,Unit 3,307.1963383333333
+33506,10413,G,34,9746,IHeLp 2016 Summer,Regular,1 Payment,Registered Nurse,AF member,Other,AZ,,F,USA,US,,Unit 3,958.3447766666667
+33506,10413,G,49,7797,IHeLp 2016 Summer,Regular,1 Payment,Registered Nurse,AF member,Other,AZ,,F,USA,US,,Unit 1,897.4925144444444
+33506,10413,G,1,325,IHeLp 2016 Summer,Regular,1 Payment,Registered Nurse,AF member,Other,AZ,,F,USA,US,,Orientation,88.25490111111111
+33506,10413,G,28,2761,IHeLp 2016 Summer,Regular,1 Payment,Registered Nurse,AF member,Other,AZ,,F,USA,US,,Unit 4,715.2811158333334
+33506,10413,G,36,7147,IHeLp 2016 Summer,Regular,1 Payment,Registered Nurse,AF member,Other,AZ,,F,USA,US,,Unit 2,873.3552247222221
+33559,10061,W,1,112,IHeLp 2016 Summer,Regular,1 Payment,Counselor,DrWeil,Other,FL,FL,F,US,US,Counselor,Orientation,61.39064027777778
+33559,10061,W,46,2456,IHeLp 2016 Summer,Regular,1 Payment,Counselor,DrWeil,Other,FL,FL,F,US,US,Counselor,Unit 2,622.6158380555555
+33559,10061,W,47,2735,IHeLp 2016 Summer,Regular,1 Payment,Counselor,DrWeil,Other,FL,FL,F,US,US,Counselor,Unit 1,601.4425327777778
+33778,10146,G,35,7437,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,AF member,Other,NC,NC,F,US,US,Nursing Clinical Instructor,Unit 3,1061.2580261111113
+33778,10146,G,1,248,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,AF member,Other,NC,NC,F,US,US,Nursing Clinical Instructor,Orientation,284.5337438888889
+33778,10146,G,34,2231,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,AF member,Other,NC,NC,F,US,US,Nursing Clinical Instructor,Unit 4,529.2440430555555
+33778,10146,G,32,5578,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,AF member,Other,NC,NC,F,US,US,Nursing Clinical Instructor,Unit 2,980.6318980555556
+33778,10146,G,45,6073,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Nurse,AF member,Other,NC,NC,F,US,US,Nursing Clinical Instructor,Unit 1,960.6446738888887
+33855,10192,G,34,5793,IHeLp 2016 Summer,Scholarship,2 Payments,Other,Other,Other,,,F,US,US,,Unit 3,1036.6007616666666
+33855,10192,G,23,1588,IHeLp 2016 Summer,Scholarship,2 Payments,Other,Other,Other,,,F,US,US,,Unit 4,994.5222072222224
+33855,10192,G,31,4392,IHeLp 2016 Summer,Scholarship,2 Payments,Other,Other,Other,,,F,US,US,,Unit 2,934.9464144444444
+33855,10192,G,1,187,IHeLp 2016 Summer,Scholarship,2 Payments,Other,Other,Other,,,F,US,US,,Orientation,3.0852666666666666
+33855,10192,G,53,4672,IHeLp 2016 Summer,Scholarship,2 Payments,Other,Other,Other,,,F,US,US,,Unit 1,887.3668791666665
+33897,10183,G,37,4073,IHeLp 2016 Summer,Scholarship,2 Payments,Registered Nurse,AF member,Other,GA,GA,F,US,US,,Unit 2,926.5553544444444
+33897,10183,G,28,1473,IHeLp 2016 Summer,Scholarship,2 Payments,Registered Nurse,AF member,Other,GA,GA,F,US,US,,Unit 4,819.5751227777777
+33897,10183,G,1,173,IHeLp 2016 Summer,Scholarship,2 Payments,Registered Nurse,AF member,Other,GA,GA,F,US,US,,Orientation,0.14597388888888888
+33897,10183,G,33,5373,IHeLp 2016 Summer,Scholarship,2 Payments,Registered Nurse,AF member,Other,GA,GA,F,US,US,,Unit 3,815.0279505555555
+33897,10183,G,52,4333,IHeLp 2016 Summer,Scholarship,2 Payments,Registered Nurse,AF member,Other,GA,GA,F,US,US,,Unit 1,911.7697705555556
+33971,10216,D,1,13,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Other,,,F,US,US,,Orientation,41.06216416666667
+33978,10215,G,35,4010,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Other,AZ,AZ,F,US,US,"health, food and fitness coach",Unit 2,986.2854191666668
+33978,10215,G,29,1549,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Other,AZ,AZ,F,US,US,"health, food and fitness coach",Unit 4,762.7648144444445
+33978,10215,G,35,5469,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Other,AZ,AZ,F,US,US,"health, food and fitness coach",Unit 3,1080.4462677777776
+33978,10215,G,51,4557,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Other,AZ,AZ,F,US,US,"health, food and fitness coach",Unit 1,865.2084336111111
+33978,10215,G,1,182,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Dietitian,Other,Other,AZ,AZ,F,US,US,"health, food and fitness coach",Orientation,367.5335708333333
+34083,10213,G,29,6186,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Dietitian,DrWeil,Other,NJ,NJ,F,US,US,"dietitian, certified diabetes educator",Unit 2,911.6176569444444
+34083,10213,G,23,7376,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Dietitian,DrWeil,Other,NJ,NJ,F,US,US,"dietitian, certified diabetes educator",Unit 3,1029.4445033333334
+34083,10213,G,1,238,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Dietitian,DrWeil,Other,NJ,NJ,F,US,US,"dietitian, certified diabetes educator",Orientation,0.7805519444444444
+34083,10213,G,49,5948,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Dietitian,DrWeil,Other,NJ,NJ,F,US,US,"dietitian, certified diabetes educator",Unit 1,963.9280747222224
+34083,10213,G,31,2141,IHeLp 2016 Summer,Scholarship,1 Payment,Registered Dietitian,DrWeil,Other,NJ,NJ,F,US,US,"dietitian, certified diabetes educator",Unit 4,999.3281341666666
+34143,10239,W,1,11,IHeLp 2016 Summer,Scholarship,1 Payment,Psychologist,Other,Other,AZ,AZ,M,US,US,,Orientation,0.510158611111111
+34157,10248,G,23,15436,IHeLp 2016 Summer,Regular,2 Payments,Registered Nurse,AF member,Fam_Prac,KS,KS,F,US,US,,Unit 3,835.2228394444444
+34157,10248,G,24,4555,IHeLp 2016 Summer,Regular,2 Payments,Registered Nurse,AF member,Fam_Prac,KS,KS,F,US,US,,Unit 4,529.7894997222222
+34157,10248,G,25,11640,IHeLp 2016 Summer,Regular,2 Payments,Registered Nurse,AF member,Fam_Prac,KS,KS,F,US,US,,Unit 2,942.6747477777777
+34157,10248,G,1,506,IHeLp 2016 Summer,Regular,2 Payments,Registered Nurse,AF member,Fam_Prac,KS,KS,F,US,US,,Orientation,93.41002888888887
+34157,10248,G,48,12652,IHeLp 2016 Summer,Regular,2 Payments,Registered Nurse,AF member,Fam_Prac,KS,KS,F,US,US,,Unit 1,820.7350644444444
+34359,10281,G,48,6863,IHeLp 2016 Summer,Scholarship,1 Payment,Therapist,DrWeil,Other,CA,CA,F,US,US,,Unit 1,895.531476111111
+34359,10281,G,28,6291,IHeLp 2016 Summer,Scholarship,1 Payment,Therapist,DrWeil,Other,CA,CA,F,US,US,,Unit 2,963.0164616666667
+34359,10281,G,19,2431,IHeLp 2016 Summer,Scholarship,1 Payment,Therapist,DrWeil,Other,CA,CA,F,US,US,,Unit 4,754.8263888888888
+34359,10281,G,29,8864,IHeLp 2016 Summer,Scholarship,1 Payment,Therapist,DrWeil,Other,CA,CA,F,US,US,,Unit 3,817.8807166666667
+34359,10281,G,1,286,IHeLp 2016 Summer,Scholarship,1 Payment,Therapist,DrWeil,Other,CA,CA,F,US,US,,Orientation,0.6632233333333333
+34460,10318,G,28,10265,IHeLp 2016 Summer,Scholarship,1 Payment,Dentist,Web,Other,AZ,AZ,F,US,US,practice manager,Unit 3,946.6287083333334
+34460,10318,G,30,7782,IHeLp 2016 Summer,Scholarship,1 Payment,Dentist,Web,Other,AZ,AZ,F,US,US,practice manager,Unit 2,898.9451102777778
+34460,10318,G,31,2980,IHeLp 2016 Summer,Scholarship,1 Payment,Dentist,Web,Other,AZ,AZ,F,US,US,practice manager,Unit 4,1026.9875594444445
+34460,10318,G,45,7947,IHeLp 2016 Summer,Scholarship,1 Payment,Dentist,Web,Other,AZ,AZ,F,US,US,practice manager,Unit 1,863.7542083333333
+34460,10318,G,1,331,IHeLp 2016 Summer,Scholarship,1 Payment,Dentist,Web,Other,AZ,AZ,F,US,US,practice manager,Orientation,0.42909250000000004
+34555,10331,G,1,242,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Web,Other,CO,,F,United States,United Sta,,Orientation,25.41834277777777
+34555,10331,G,34,5324,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Web,Other,CO,,F,United States,United Sta,,Unit 2,997.6379813888886
+34555,10331,G,21,2057,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Web,Other,CO,,F,United States,United Sta,,Unit 4,818.69045
+34555,10331,G,53,5808,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Web,Other,CO,,F,United States,United Sta,,Unit 1,742.3021269444445
+34555,10331,G,35,7260,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Web,Other,CO,,F,United States,United Sta,,Unit 3,861.6468588888887
+34565,16973,G,30,6225,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Advanced Practice Nurse,Other,Fam_Prac,AZ,AZ,F,US,United States of America (the),clinical faculty,Unit 3,1242.7580094444445
+34565,16973,G,42,1868,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Advanced Practice Nurse,Other,Fam_Prac,AZ,AZ,F,US,United States of America (the),clinical faculty,Unit 4,700.1475380555556
+34565,16973,G,48,5084,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Advanced Practice Nurse,Other,Fam_Prac,AZ,AZ,F,US,United States of America (the),clinical faculty,Unit 1,970.1700363888887
+34565,16973,G,24,4877,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Advanced Practice Nurse,Other,Fam_Prac,AZ,AZ,F,US,United States of America (the),clinical faculty,Unit 2,942.8287505555555
+34565,16973,G,1,726,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Advanced Practice Nurse,Other,Fam_Prac,AZ,AZ,F,US,United States of America (the),clinical faculty,Orientation,1369.6789688888894
+34572,10373,G,1,165,IHeLp 2016 Summer,Scholarship,1 Payment,Other,Other,Fam_Prac,AZ,AZ,F,United States,US,Employee Health and Wellness Manager,Orientation,0.19502805555555555
+34572,10373,G,37,4220,IHeLp 2016 Summer,Scholarship,1 Payment,Other,Other,Fam_Prac,AZ,AZ,F,United States,US,Employee Health and Wellness Manager,Unit 1,815.6390372222223
+34572,10373,G,26,1489,IHeLp 2016 Summer,Scholarship,1 Payment,Other,Other,Fam_Prac,AZ,AZ,F,United States,US,Employee Health and Wellness Manager,Unit 4,741.3010080555556
+34572,10373,G,19,3641,IHeLp 2016 Summer,Scholarship,1 Payment,Other,Other,Fam_Prac,AZ,AZ,F,United States,US,Employee Health and Wellness Manager,Unit 2,720.6102058333333
+34572,10373,G,17,5047,IHeLp 2016 Summer,Scholarship,1 Payment,Other,Other,Fam_Prac,AZ,AZ,F,United States,US,Employee Health and Wellness Manager,Unit 3,841.4073958333332
+34677,10403,G,30,10161,IHeLp 2016 Summer,Regular,6 Monthly Payments,Registered Nurse,Other,Sub,ME,,F,US,,,Unit 3,840.1679427777777
+34677,10403,G,28,2832,IHeLp 2016 Summer,Regular,6 Monthly Payments,Registered Nurse,Other,Sub,ME,,F,US,,,Unit 4,498.80068472222223
+34677,10403,G,30,7329,IHeLp 2016 Summer,Regular,6 Monthly Payments,Registered Nurse,Other,Sub,ME,,F,US,,,Unit 2,900.6532836111112
+34677,10403,G,49,7996,IHeLp 2016 Summer,Regular,6 Monthly Payments,Registered Nurse,Other,Sub,ME,,F,US,,,Unit 1,727.6146991666666
+34677,10403,G,1,333,IHeLp 2016 Summer,Regular,6 Monthly Payments,Registered Nurse,Other,Sub,ME,,F,US,,,Orientation,25.58745472222223
+35174,10814,G,1,256,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Dietitian,Web,Fam_Prac,CA,CA,F,USA,USA,Clinical Dietitian,Orientation,23.333969444444442
+35174,10814,G,51,6153,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Dietitian,Web,Fam_Prac,CA,CA,F,USA,USA,Clinical Dietitian,Unit 1,954.2556933333333
+35174,10814,G,29,5640,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Dietitian,Web,Fam_Prac,CA,CA,F,USA,USA,Clinical Dietitian,Unit 2,932.8214019444445
+35174,10814,G,29,7691,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Dietitian,Web,Fam_Prac,CA,CA,F,USA,USA,Clinical Dietitian,Unit 3,839.3505972222223
+35174,10814,G,28,2307,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Dietitian,Web,Fam_Prac,CA,CA,F,USA,USA,Clinical Dietitian,Unit 4,976.9800383333333
+35177,13769,G,34,2526,IHeLp 2017 Spring,Regular,2 Payments,Registered Nurse,Other,Surgery,,,F,,,,Unit 4,1172.2347274999995
+35177,13769,G,50,6737,IHeLp 2017 Spring,Regular,2 Payments,Registered Nurse,Other,Surgery,,,F,,,,Unit 1,966.1982105555555
+35177,13769,G,32,8983,IHeLp 2017 Spring,Regular,2 Payments,Registered Nurse,Other,Surgery,,,F,,,,Unit 3,963.9462286111113
+35177,13769,G,32,6737,IHeLp 2017 Spring,Regular,2 Payments,Registered Nurse,Other,Surgery,,,F,,,,Unit 2,1002.5503366666666
+36099,13777,G,1,365,IHeLp 2017 Spring,Scholarship,2 Payments,Other,,,ME,ME,F,USA,USA,,Orientation,0.5834038888888888
+36099,13777,G,33,9133,IHeLp 2017 Spring,Scholarship,2 Payments,Other,,,ME,ME,F,USA,USA,,Unit 2,2928.950000555556
+36099,13777,G,23,3288,IHeLp 2017 Spring,Scholarship,2 Payments,Other,,,ME,ME,F,USA,USA,,Unit 4,786.5370808333333
+36099,13777,G,31,11508,IHeLp 2017 Spring,Scholarship,2 Payments,Other,,,ME,ME,F,USA,USA,,Unit 3,832.1466683333333
+36099,13777,G,49,9681,IHeLp 2017 Spring,Scholarship,2 Payments,Other,,,ME,ME,F,USA,USA,,Unit 1,840.3075108333333
+36381,11098,G,48,6226,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,AZ,AZ,F,USA,USA,,Unit 1,777.0744405555556
+36381,11098,G,1,254,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,AZ,AZ,F,USA,USA,,Orientation,958.7162994444444
+36381,11098,G,28,2414,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,AZ,AZ,F,USA,USA,,Unit 4,920.2696361111113
+36381,11098,G,30,7623,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,AZ,AZ,F,USA,USA,,Unit 3,868.5275391666668
+36381,11098,G,30,5591,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,AZ,AZ,F,USA,USA,,Unit 2,1007.8901255555555
+36660,13721,G,1,131,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,Web,Family Medicine,MN,,F,USA,,,Orientation,0.7244116666666667
+36660,13721,G,27,4006,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,Web,Family Medicine,MN,,F,USA,,,Unit 3,902.6200147222223
+36660,13721,G,20,1117,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,Web,Family Medicine,MN,,F,USA,,,Unit 4,821.5840886111113
+36660,13721,G,23,2890,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,Web,Family Medicine,MN,,F,USA,,,Unit 2,969.8751263888887
+36660,13721,G,51,3152,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,Web,Family Medicine,MN,,F,USA,,,Unit 1,861.1630194444444
+36986,12215,G,38,2434,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,PA,PA,F,USA,USA,Program Manager Hospital based Palliative Care,Unit 4,896.4833969444444
+36986,12215,G,52,6627,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,PA,PA,F,USA,USA,Program Manager Hospital based Palliative Care,Unit 1,840.0914291666667
+36986,12215,G,35,8114,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,PA,PA,F,USA,USA,Program Manager Hospital based Palliative Care,Unit 3,982.9059822222223
+36986,12215,G,34,5950,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,PA,PA,F,USA,USA,Program Manager Hospital based Palliative Care,Unit 2,978.0034061111113
+36986,12215,G,1,270,IHeLp 2017 Spring,Scholarship,1 Payment,Registered Nurse,Other,Other,PA,PA,F,USA,USA,Program Manager Hospital based Palliative Care,Orientation,90.70826888888888
+37340,13806,G,33,7722,IHeLp 2017 Spring,Scholarship,1 Payment,Physical Therapist,Other,Other,CO,CO,F,,USA,,Unit 3,727.2836413888889
+37340,13806,G,29,2188,IHeLp 2017 Spring,Scholarship,1 Payment,Physical Therapist,Other,Other,CO,CO,F,,USA,,Unit 4,1126.8546327777776
+37340,13806,G,52,6306,IHeLp 2017 Spring,Scholarship,1 Payment,Physical Therapist,Other,Other,CO,CO,F,,USA,,Unit 1,906.3404313888886
+37340,13806,G,31,5663,IHeLp 2017 Spring,Scholarship,1 Payment,Physical Therapist,Other,Other,CO,CO,F,,USA,,Unit 2,1085.5329855555556
+37340,13806,G,1,257,IHeLp 2017 Spring,Scholarship,1 Payment,Physical Therapist,Other,Other,CO,CO,F,,USA,,Orientation,121.17026888888887
+38801,12594,G,24,1420,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,OB/Gyn,AZ,AZ,F,USA,USA,RN Case Manager,Unit 4,619.931773611111
+38801,12594,G,45,4009,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,OB/Gyn,AZ,AZ,F,USA,USA,RN Case Manager,Unit 1,713.9046602777777
+38801,12594,G,28,5012,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,OB/Gyn,AZ,AZ,F,USA,USA,RN Case Manager,Unit 3,963.8174086111113
+38801,12594,G,1,752,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,OB/Gyn,AZ,AZ,F,USA,USA,RN Case Manager,Orientation,6222.511971944445
+38801,12594,G,27,3675,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,OB/Gyn,AZ,AZ,F,USA,USA,RN Case Manager,Unit 2,966.6511883333333
+39070,13607,G,29,3807,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,Brochure/Mailing,Other,CA,NM,F,United States,USA,,Unit 2,990.7887369444444
+39070,13607,G,27,1607,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,Brochure/Mailing,Other,CA,NM,F,United States,USA,,Unit 4,1314.6439269444445
+39070,13607,G,27,5498,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,Brochure/Mailing,Other,CA,NM,F,United States,USA,,Unit 3,997.5847630555555
+39070,13607,G,1,169,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,Brochure/Mailing,Other,CA,NM,F,United States,USA,,Orientation,107.18131527777777
+39070,13607,G,49,4145,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,Brochure/Mailing,Other,CA,NM,F,United States,USA,,Unit 1,967.5843855555556
+39198,13604,G,50,4166,IHeLp 2018 Spring,Regular,1 Payment,Registered Nurse,Other,Other,IL,IL,F,USA,United States of America (the),Inpatient Nurse Coordinator,Unit 1,987.7858
+39198,13604,G,23,5585,IHeLp 2018 Spring,Regular,1 Payment,Registered Nurse,Other,Other,IL,IL,F,USA,United States of America (the),Inpatient Nurse Coordinator,Unit 3,1175.8878638888893
+39198,13604,G,28,3989,IHeLp 2018 Spring,Regular,1 Payment,Registered Nurse,Other,Other,IL,IL,F,USA,United States of America (the),Inpatient Nurse Coordinator,Unit 2,1010.8076758333333
+39198,13604,G,20,1507,IHeLp 2018 Spring,Regular,1 Payment,Registered Nurse,Other,Other,IL,IL,F,USA,United States of America (the),Inpatient Nurse Coordinator,Unit 4,652.6847258333332
+39272,13302,G,47,2249,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,AF member,Other,CA,CA,F,USA,USA,,Unit 1,763.5812019444444
+39272,13302,G,17,3110,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,AF member,Other,CA,CA,F,USA,USA,,Unit 3,931.9535466666667
+39272,13302,G,1,96,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,AF member,Other,CA,CA,F,USA,USA,,Orientation,0.4712777777777778
+39272,13302,G,26,909,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,AF member,Other,CA,CA,F,USA,USA,,Unit 4,656.4891455555556
+39272,13302,G,24,2249,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Other,AF member,Other,CA,CA,F,USA,USA,,Unit 2,806.3340077777777
+39382,13798,G,28,10053,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,TX,TX,F,United States of America (the),USA,,Unit 2,987.5556949999999
+39382,13798,G,29,13709,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,TX,TX,F,United States of America (the),USA,,Unit 3,914.6203925
+39382,13798,G,31,3884,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,TX,TX,F,United States of America (the),USA,,Unit 4,871.5593875
+39382,13798,G,1,457,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,TX,TX,F,United States of America (the),USA,,Orientation,22.38406027777777
+39382,13798,G,53,10967,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,TX,TX,F,United States of America (the),USA,,Unit 1,843.5177080555555
+39390,13599,G,31,4440,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,OB/Gyn,CA,CA,F,USA,USA,RN,Unit 2,911.8097780555556
+39390,13599,G,39,4638,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,OB/Gyn,CA,CA,F,USA,USA,RN,Unit 1,790.5054030555556
+39390,13599,G,27,6118,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,OB/Gyn,CA,CA,F,USA,USA,RN,Unit 3,960.9039955555555
+39390,13599,G,21,1677,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,OB/Gyn,CA,CA,F,USA,USA,RN,Unit 4,886.0368827777777
+39390,13599,G,1,197,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,DrWeil,OB/Gyn,CA,CA,F,USA,USA,RN,Orientation,24.999039166666666
+39530,13555,G,27,2982,IHeLp 2017 Summer,Scholarship,6 Monthly Payments,Registered Pharmacist,AF member,Other,FL,FL,F,USA,USA,,Unit 4,960.9178302777775
+39530,13555,G,33,10526,IHeLp 2017 Summer,Scholarship,6 Monthly Payments,Registered Pharmacist,AF member,Other,FL,FL,F,USA,USA,,Unit 3,914.9976913888887
+39530,13555,G,35,7895,IHeLp 2017 Summer,Scholarship,6 Monthly Payments,Registered Pharmacist,AF member,Other,FL,FL,F,USA,USA,,Unit 2,961.4682388888887
+39530,13555,G,64,8421,IHeLp 2017 Summer,Scholarship,6 Monthly Payments,Registered Pharmacist,AF member,Other,FL,FL,F,USA,USA,,Unit 1,970.4400941666668
+39530,13555,G,1,351,IHeLp 2017 Summer,Scholarship,6 Monthly Payments,Registered Pharmacist,AF member,Other,FL,FL,F,USA,USA,,Orientation,592.4106419444445
+39585,13600,W,1,62,IHeLp 2018 Spring,Scholarship,,Therapist,Other,Other,OH,OH,F,USA,USA,Therapist,Orientation,269.6608008333333
+39839,16984,G,32,2824,IHeLp 2018 Spring,Scholarship,1 Payment,Physical Therapist,AF member,Other,IA,IA,F,USA,United States of America (the),,Unit 4,933.5160894444444
+39839,16984,G,1,1726,IHeLp 2018 Spring,Scholarship,1 Payment,Physical Therapist,AF member,Other,IA,IA,F,USA,United States of America (the),,Orientation,5510.103628055555
+39839,16984,G,34,7059,IHeLp 2018 Spring,Scholarship,1 Payment,Physical Therapist,AF member,Other,IA,IA,F,USA,United States of America (the),,Unit 2,893.9954408333333
+39839,16984,G,54,7529,IHeLp 2018 Spring,Scholarship,1 Payment,Physical Therapist,AF member,Other,IA,IA,F,USA,United States of America (the),,Unit 1,820.1281141666667
+39839,16984,G,34,9569,IHeLp 2018 Spring,Scholarship,1 Payment,Physical Therapist,AF member,Other,IA,IA,F,USA,United States of America (the),,Unit 3,816.4282169444443
+39894,13757,G,1,209,IHeLp 2017 Spring,Scholarship,1 Payment,Other,Other,Other,AZ,AZ,F,USA,USA,Health Coach,Orientation,1.3071858333333333
+39894,13757,G,53,5022,IHeLp 2017 Spring,Scholarship,1 Payment,Other,Other,Other,AZ,AZ,F,USA,USA,Health Coach,Unit 1,936.5849747222223
+39894,13757,G,38,1779,IHeLp 2017 Spring,Scholarship,1 Payment,Other,Other,Other,AZ,AZ,F,USA,USA,Health Coach,Unit 4,1105.2889658333334
+39894,13757,G,33,4603,IHeLp 2017 Spring,Scholarship,1 Payment,Other,Other,Other,AZ,AZ,F,USA,USA,Health Coach,Unit 2,930.6293452777777
+39894,13757,G,31,6487,IHeLp 2017 Spring,Scholarship,1 Payment,Other,Other,Other,AZ,AZ,F,USA,USA,Health Coach,Unit 3,1251.3938986111114
+39905,13917,G,22,2226,IHeLp 2017 Spring,Scholarship,1 Payment,Other,Other,Other,,,F,United States of America (the),USA,,Unit 4,1275.378225
+39905,13917,G,33,6155,IHeLp 2017 Spring,Scholarship,1 Payment,Other,Other,Other,,,F,United States of America (the),USA,,Unit 2,842.6005147222223
+39905,13917,G,36,8119,IHeLp 2017 Spring,Scholarship,1 Payment,Other,Other,Other,,,F,United States of America (the),USA,,Unit 3,992.3678375
+39905,13917,G,1,262,IHeLp 2017 Spring,Scholarship,1 Payment,Other,Other,Other,,,F,United States of America (the),USA,,Orientation,0.4907466666666667
+39905,13917,G,53,6548,IHeLp 2017 Spring,Scholarship,1 Payment,Other,Other,Other,,,F,United States of America (the),USA,,Unit 1,1141.6916802777778
+40040,13782,G,11,2236,IHeLp 2017 Spring,Scholarship,1 Payment,Therapist,Web,Other,IA,IA,F,USA,USA,Licensed Independent Social Worker ,Unit 4,922.0215388888887
+40040,13782,G,23,5467,IHeLp 2017 Spring,Scholarship,1 Payment,Therapist,Web,Other,IA,IA,F,USA,USA,Licensed Independent Social Worker ,Unit 2,978.5115938888887
+40040,13782,G,19,7828,IHeLp 2017 Spring,Scholarship,1 Payment,Therapist,Web,Other,IA,IA,F,USA,USA,Licensed Independent Social Worker ,Unit 3,791.7192275
+40040,13782,G,48,5964,IHeLp 2017 Spring,Scholarship,1 Payment,Therapist,Web,Other,IA,IA,F,USA,USA,Licensed Independent Social Worker ,Unit 1,842.063428611111
+40040,13782,G,1,248,IHeLp 2017 Spring,Scholarship,1 Payment,Therapist,Web,Other,IA,IA,F,USA,USA,Licensed Independent Social Worker ,Orientation,0.9716572222222222
+40048,13797,G,47,7080,IHeLp 2017 Summer,Scholarship,Full Scholarship,Other,Other,Other,PA,PA,F,USA,USA,,Unit 1,1144.0618122222222
+40048,13797,G,35,6525,IHeLp 2017 Summer,Scholarship,Full Scholarship,Other,Other,Other,PA,PA,F,USA,USA,,Unit 2,952.6129672222223
+40048,13797,G,26,8884,IHeLp 2017 Summer,Scholarship,Full Scholarship,Other,Other,Other,PA,PA,F,USA,USA,,Unit 3,1189.3924683333332
+40048,13797,G,27,2360,IHeLp 2017 Summer,Scholarship,Full Scholarship,Other,Other,Other,PA,PA,F,USA,USA,,Unit 4,1053.3343080555555
+40048,13797,G,1,278,IHeLp 2017 Summer,Scholarship,Full Scholarship,Other,Other,Other,PA,PA,F,USA,USA,,Orientation,31.34681972222223
+40095,13790,G,49,7697,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,,F,USA,USA,Registered Nurse,Unit 1,889.5932777777778
+40095,13790,G,1,321,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,,F,USA,USA,Registered Nurse,Orientation,28.270765555555553
+40095,13790,G,24,7216,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,,F,USA,USA,Registered Nurse,Unit 2,1008.7747105555555
+40095,13790,G,20,9942,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,,F,USA,USA,Registered Nurse,Unit 3,961.7880838888887
+40095,13790,G,16,2886,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Web,Other,AZ,,F,USA,USA,Registered Nurse,Unit 4,1186.246504722222
+40330,13866,G,31,11200,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,NY,NY,F,USA,USA,,Unit 2,993.4177730555556
+40330,13866,G,35,4231,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,NY,NY,F,USA,USA,,Unit 4,1268.291214722222
+40330,13866,G,50,11946,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,NY,NY,F,USA,USA,,Unit 1,803.3590086111111
+40330,13866,G,1,498,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,NY,NY,F,USA,USA,,Orientation,1.3891469444444444
+40330,13866,G,37,14933,IHeLp 2017 Spring,Scholarship,6 Monthly Payments,Registered Nurse,Other,Other,NY,NY,F,USA,USA,,Unit 3,954.9917902777776
+40723,14863,G,5,8536,IHeLp 2017 Summer,Regular,Full Scholarship,Other,Web,Fam_Prac,PA,PA,F,USA,USA,Nurse Practitioner,Unit 3,912.201370277778
+40723,14863,G,54,6503,IHeLp 2017 Summer,Regular,Full Scholarship,Other,Web,Fam_Prac,PA,PA,F,USA,USA,Nurse Practitioner,Unit 1,893.4674605555556
+40723,14863,G,24,2303,IHeLp 2017 Summer,Regular,Full Scholarship,Other,Web,Fam_Prac,PA,PA,F,USA,USA,Nurse Practitioner,Unit 4,955.7637052777777
+40723,14863,G,1,271,IHeLp 2017 Summer,Regular,Full Scholarship,Other,Web,Fam_Prac,PA,PA,F,USA,USA,Nurse Practitioner,Orientation,0.13922416666666668
+40723,14863,G,29,5961,IHeLp 2017 Summer,Regular,Full Scholarship,Other,Web,Fam_Prac,PA,PA,F,USA,USA,Nurse Practitioner,Unit 2,962.8982027777776
+40804,14391,G,54,5480,IHeLp 2017 Spring,Regular,1 Payment,Other,Other,Sub,PA,PA,F,USA,USA,Adult Nurse Practitioner,Unit 1,655.616021388889
+40804,14391,G,31,1901,IHeLp 2017 Spring,Regular,1 Payment,Other,Other,Sub,PA,PA,F,USA,USA,Adult Nurse Practitioner,Unit 4,655.6929708333333
+40804,14391,G,37,6822,IHeLp 2017 Spring,Regular,1 Payment,Other,Other,Sub,PA,PA,F,USA,USA,Adult Nurse Practitioner,Unit 3,680.5262647222222
+40804,14391,G,35,4921,IHeLp 2017 Spring,Regular,1 Payment,Other,Other,Sub,PA,PA,F,USA,USA,Adult Nurse Practitioner,Unit 2,915.3422272222224
+40898,14447,G,1,154,IHeLp 2017 Spring,Regular,1 Payment,Other,Other,Other,CT,CT,F,United States of America (the),USA,Planetree Services Supervisor,Orientation,1.9690397222222225
+40898,14447,G,32,4991,IHeLp 2017 Spring,Regular,1 Payment,Other,Other,Other,CT,CT,F,United States of America (the),USA,Planetree Services Supervisor,Unit 3,765.3437255555556
+40898,14447,G,32,3456,IHeLp 2017 Spring,Regular,1 Payment,Other,Other,Other,CT,CT,F,United States of America (the),USA,Planetree Services Supervisor,Unit 2,981.5619086111113
+40898,14447,G,32,1382,IHeLp 2017 Spring,Regular,1 Payment,Other,Other,Other,CT,CT,F,United States of America (the),USA,Planetree Services Supervisor,Unit 4,699.9089055555555
+40898,14447,G,55,3839,IHeLp 2017 Spring,Regular,1 Payment,Other,Other,Other,CT,CT,F,United States of America (the),USA,Planetree Services Supervisor,Unit 1,788.3035944444445
+40902,14449,G,51,2419,IHeLp 2017 Spring,Regular,1 Payment,Other,AF member,Other,CT,CT,M,United States of America (the),USA,Cardiac Exercise Physiologist,Unit 1,775.5516277777778
+40902,14449,G,2,3427,IHeLp 2017 Spring,Regular,1 Payment,Other,AF member,Other,CT,CT,M,United States of America (the),USA,Cardiac Exercise Physiologist,Unit 3,532.0674394444444
+40902,14449,G,24,2318,IHeLp 2017 Spring,Regular,1 Payment,Other,AF member,Other,CT,CT,M,United States of America (the),USA,Cardiac Exercise Physiologist,Unit 2,845.0537827777777
+40902,14449,G,1,907,IHeLp 2017 Spring,Regular,1 Payment,Other,AF member,Other,CT,CT,M,United States of America (the),USA,Cardiac Exercise Physiologist,Unit 4,339.5324705555556
+41124,14519,G,13,4348,IHeLp 2017 Spring,Regular,1 Payment,Registered Nurse,Other,Surgery,CO,CO,F,United States,USA,,Unit 3,913.0549802777778
+41124,14519,G,28,3261,IHeLp 2017 Spring,Regular,1 Payment,Registered Nurse,Other,Surgery,CO,CO,F,United States,USA,,Unit 2,847.4040313888887
+41124,14519,G,1,145,IHeLp 2017 Spring,Regular,1 Payment,Registered Nurse,Other,Surgery,CO,CO,F,United States,USA,,Orientation,1.6600702777777776
+41124,14519,G,48,3551,IHeLp 2017 Spring,Regular,1 Payment,Registered Nurse,Other,Surgery,CO,CO,F,United States,USA,,Unit 1,910.2589158333334
+41124,14519,G,17,1305,IHeLp 2017 Spring,Regular,1 Payment,Registered Nurse,Other,Surgery,CO,CO,F,United States,USA,,Unit 4,723.2999230555556
+41187,14746,G,11,4249,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,Web,Other,FL,FL,F,USA,USA,Community Care Coordinator,Unit 3,799.3012322222223
+41187,14746,G,16,2875,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,Web,Other,FL,FL,F,USA,USA,Community Care Coordinator,Unit 2,955.5705291666666
+41187,14746,G,35,1125,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,Web,Other,FL,FL,F,USA,USA,Community Care Coordinator,Unit 4,335.0135613888889
+41187,14746,G,49,3249,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,Web,Other,FL,FL,F,USA,USA,Community Care Coordinator,Unit 1,960.4663355555556
+41187,14746,G,1,125,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,Web,Other,FL,FL,F,USA,USA,Community Care Coordinator,Orientation,280.3820875
+41335,14661,G,37,8460,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,Other,Other,FL,,F,US,,Nursing Instructor,Unit 3,910.3511541666666
+41335,14661,G,35,6102,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,Other,Other,FL,,F,US,,Nursing Instructor,Unit 2,931.0722997222224
+41335,14661,G,52,6795,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,Other,Other,FL,,F,US,,Nursing Instructor,Unit 1,825.7439508333334
+41335,14661,G,29,2358,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,Other,Other,FL,,F,US,,Nursing Instructor,Unit 4,643.0249888888889
+41335,14661,G,1,277,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,Other,Other,FL,,F,US,,Nursing Instructor,Orientation,2.1045138888888895
+41487,15136,G,32,4995,IHeLp 2017 Summer,Regular,1 Payment,Occupational Therapist,Other,Other,MI,MI,F,United States of America (the),USA,Occupational Therapist,Unit 2,939.4730891666666
+41487,15136,G,1,227,IHeLp 2017 Summer,Regular,1 Payment,Occupational Therapist,Other,Other,MI,MI,F,United States of America (the),USA,Occupational Therapist,Orientation,5.8785944444444445
+41487,15136,G,33,1930,IHeLp 2017 Summer,Regular,1 Payment,Occupational Therapist,Other,Other,MI,MI,F,United States of America (the),USA,Occupational Therapist,Unit 4,989.9224375
+41487,15136,G,52,5563,IHeLp 2017 Summer,Regular,1 Payment,Occupational Therapist,Other,Other,MI,MI,F,United States of America (the),USA,Occupational Therapist,Unit 1,805.2520055555556
+41487,15136,G,36,6812,IHeLp 2017 Summer,Regular,1 Payment,Occupational Therapist,Other,Other,MI,MI,F,United States of America (the),USA,Occupational Therapist,Unit 3,924.203395277778
+41508,15478,G,36,6563,IHeLp 2017 Summer,Regular,Full Scholarship,Registered Pharmacist,Other,Other,PA,PA,F,USA,USA,,Unit 3,987.6260552777777
+41508,15478,G,1,219,IHeLp 2017 Summer,Regular,Full Scholarship,Registered Pharmacist,Other,Other,PA,PA,F,USA,USA,,Orientation,1.026435
+41508,15478,G,53,5360,IHeLp 2017 Summer,Regular,Full Scholarship,Registered Pharmacist,Other,Other,PA,PA,F,USA,USA,,Unit 1,947.7625341666667
+41508,15478,G,34,4813,IHeLp 2017 Summer,Regular,Full Scholarship,Registered Pharmacist,Other,Other,PA,PA,F,USA,USA,,Unit 2,916.6005033333333
+41508,15478,G,21,1859,IHeLp 2017 Summer,Regular,Full Scholarship,Registered Pharmacist,Other,Other,PA,PA,F,USA,USA,,Unit 4,803.4702719444444
+41737,14857,G,12,5723,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,DrWeil,Other,OH,OH,F,US,United Sta,,Unit 2,971.5928608333335
+41737,14857,G,1,254,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,DrWeil,Other,OH,OH,F,US,United Sta,,Orientation,206.8668013888889
+41737,14857,G,51,6487,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,DrWeil,Other,OH,OH,F,US,United Sta,,Unit 1,958.2177316666665
+41737,14857,G,18,2289,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,DrWeil,Other,OH,OH,F,US,United Sta,,Unit 4,712.7164750000002
+41737,14857,G,25,7759,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,DrWeil,Other,OH,OH,F,US,United Sta,,Unit 3,952.7722980555556
+42291,15203,G,23,1778,IHeLp 2017 Summer,Regular,6 Monthly Payments,Other,Other,Other,FL,FL,F,,USA,Nurse Practitioner,Unit 4,723.5904830555555
+42291,15203,G,49,5125,IHeLp 2017 Summer,Regular,6 Monthly Payments,Other,Other,Other,FL,FL,F,,USA,Nurse Practitioner,Unit 1,817.7761108333333
+42291,15203,G,25,6694,IHeLp 2017 Summer,Regular,6 Monthly Payments,Other,Other,Other,FL,FL,F,,USA,Nurse Practitioner,Unit 3,906.4591300000001
+42291,15203,G,1,209,IHeLp 2017 Summer,Regular,6 Monthly Payments,Other,Other,Other,FL,FL,F,,USA,Nurse Practitioner,Orientation,26.62805638888889
+42291,15203,G,31,4811,IHeLp 2017 Summer,Regular,6 Monthly Payments,Other,Other,Other,FL,FL,F,,USA,Nurse Practitioner,Unit 2,940.9304888888887
+42552,15185,G,49,5228,IHeLp 2017 Summer,Regular,6 Monthly Payments,Physical Therapist,Web,Other,NH,NH,F,USA,USA,Staff therapist,Unit 1,845.4567258333333
+42552,15185,G,23,1743,IHeLp 2017 Summer,Regular,6 Monthly Payments,Physical Therapist,Web,Other,NH,NH,F,USA,USA,Staff therapist,Unit 4,604.9339222222222
+42552,15185,G,28,6535,IHeLp 2017 Summer,Regular,6 Monthly Payments,Physical Therapist,Web,Other,NH,NH,F,USA,USA,Staff therapist,Unit 3,813.8592608333333
+42552,15185,G,1,218,IHeLp 2017 Summer,Regular,6 Monthly Payments,Physical Therapist,Web,Other,NH,NH,F,USA,USA,Staff therapist,Orientation,71.53305527777778
+42552,15185,G,30,4792,IHeLp 2017 Summer,Regular,6 Monthly Payments,Physical Therapist,Web,Other,NH,NH,F,USA,USA,Staff therapist,Unit 2,946.0246497222223
+42574,15193,G,36,2746,IHeLp 2017 Summer,Regular,6 Monthly Payments,Other,Web,Other,OH,OH,F,Greentownship,USA,Certified Phamacy Tech.,Unit 1,821.3547775000001
+42574,15193,G,10,1030,IHeLp 2017 Summer,Regular,6 Monthly Payments,Other,Web,Other,OH,OH,F,Greentownship,USA,Certified Phamacy Tech.,Unit 4,340.7540008333333
+42574,15193,G,2,3833,IHeLp 2017 Summer,Regular,6 Monthly Payments,Other,Web,Other,OH,OH,F,Greentownship,USA,Certified Phamacy Tech.,Unit 3,569.0493191666667
+42574,15193,G,20,2517,IHeLp 2017 Summer,Regular,6 Monthly Payments,Other,Web,Other,OH,OH,F,Greentownship,USA,Certified Phamacy Tech.,Unit 2,893.1923025
+42592,15205,G,16,5480,IHeLp 2017 Summer,Scholarship,1 Payment,Registered Nurse,Web,Other,CA,CA,F,United States,USA,,Unit 3,786.5383402777777
+42592,15205,G,25,1591,IHeLp 2017 Summer,Scholarship,1 Payment,Registered Nurse,Web,Other,CA,CA,F,United States,USA,,Unit 4,578.9684836111112
+42592,15205,G,30,4242,IHeLp 2017 Summer,Scholarship,1 Payment,Registered Nurse,Web,Other,CA,CA,F,United States,USA,,Unit 1,933.4421563888887
+42592,15205,G,13,4331,IHeLp 2017 Summer,Scholarship,1 Payment,Registered Nurse,Web,Other,CA,CA,F,United States,USA,,Unit 2,935.9248150000001
+42593,15199,G,35,5506,IHeLp 2017 Summer,Scholarship,1 Payment,Other,DrWeil,Other,AZ,AZ,F,United States,USA,,Unit 2,1453.9450574999998
+42593,15199,G,37,2154,IHeLp 2017 Summer,Scholarship,1 Payment,Other,DrWeil,Other,AZ,AZ,F,United States,USA,,Unit 4,1153.861313611111
+42593,15199,G,50,5865,IHeLp 2017 Summer,Scholarship,1 Payment,Other,DrWeil,Other,AZ,AZ,F,United States,USA,,Unit 1,1042.8255391666667
+42593,15199,G,1,239,IHeLp 2017 Summer,Scholarship,1 Payment,Other,DrWeil,Other,AZ,AZ,F,United States,USA,,Orientation,192.38094583333333
+42593,15199,G,36,7541,IHeLp 2017 Summer,Scholarship,1 Payment,Other,DrWeil,Other,AZ,AZ,F,United States,USA,,Unit 3,503.055655
+42608,15221,G,1,380,IHeLp 2017 Summer,Regular,1 Payment,Other,Web,Int_med,NC,NC,F,USA,USA,Hospitalist ,Orientation,0.7783541666666666
+42608,15221,G,35,3226,IHeLp 2017 Summer,Regular,1 Payment,Other,Web,Int_med,NC,NC,F,USA,USA,Hospitalist ,Unit 4,542.6967294444445
+42608,15221,G,35,8349,IHeLp 2017 Summer,Regular,1 Payment,Other,Web,Int_med,NC,NC,F,USA,USA,Hospitalist ,Unit 2,964.1252027777778
+42608,15221,G,52,9108,IHeLp 2017 Summer,Regular,1 Payment,Other,Web,Int_med,NC,NC,F,USA,USA,Hospitalist ,Unit 1,676.9241949999998
+42608,15221,G,39,11385,IHeLp 2017 Summer,Regular,1 Payment,Other,Web,Int_med,NC,NC,F,USA,USA,Hospitalist ,Unit 3,795.8258141666665
+43168,15795,G,52,4462,IHeLp 2017 Summer,Regular,1 Payment,Physical Therapist,AF member,Other,CA,CA,M,USA,USA,Owner,Unit 1,928.0151319444444
+43168,15795,G,15,5763,IHeLp 2017 Summer,Regular,1 Payment,Physical Therapist,AF member,Other,CA,CA,M,USA,USA,Owner,Unit 3,862.3515205555556
+43168,15795,G,1,186,IHeLp 2017 Summer,Regular,1 Payment,Physical Therapist,AF member,Other,CA,CA,M,USA,USA,Owner,Orientation,449.7426627777778
+43168,15795,G,22,4276,IHeLp 2017 Summer,Regular,1 Payment,Physical Therapist,AF member,Other,CA,CA,M,USA,USA,Owner,Unit 2,917.2480166666667
+43168,15795,G,10,1580,IHeLp 2017 Summer,Regular,1 Payment,Physical Therapist,AF member,Other,CA,CA,M,USA,USA,Owner,Unit 4,698.2946341666667
+43384,15804,G,21,2307,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,Other,Other,LA,FL,F,United States,USA,Travel RN,Unit 4,698.5793197222223
+43384,15804,G,44,6151,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,Other,Other,LA,FL,F,United States,USA,Travel RN,Unit 1,943.1716202777777
+43384,15804,G,20,7688,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,Other,Other,LA,FL,F,United States,USA,Travel RN,Unit 3,818.5895636111111
+43384,15804,G,26,5766,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,Other,Other,LA,FL,F,United States,USA,Travel RN,Unit 2,1155.2793097222225
+43384,15804,G,1,256,IHeLp 2017 Summer,Regular,6 Monthly Payments,Registered Nurse,Other,Other,LA,FL,F,United States,USA,Travel RN,Orientation,20.533156666666667
+43699,15797,G,38,3680,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,United States,USA,,Unit 2,842.4566947222223
+43699,15797,G,37,5185,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,United States,USA,,Unit 3,862.7601580555556
+43699,15797,G,25,1505,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,United States,USA,,Unit 4,640.2168166666668
+43699,15797,G,1,167,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,United States,USA,,Orientation,1.3475208333333333
+43699,15797,G,53,4265,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,Web,Other,AZ,AZ,F,United States,USA,,Unit 1,861.5905091666667
+43718,15798,G,51,7050,IHeLp 2017 Summer,Regular,1 Payment,Speech Pathologist,Web,Other,AZ,AZ,F,United States of America (the),USA,Speech-Language Pathologist,Unit 1,970.6208711111113
+43718,15798,G,30,6331,IHeLp 2017 Summer,Regular,1 Payment,Speech Pathologist,Web,Other,AZ,AZ,F,United States of America (the),USA,Speech-Language Pathologist,Unit 2,942.4527258333335
+43718,15798,G,1,288,IHeLp 2017 Summer,Regular,1 Payment,Speech Pathologist,Web,Other,AZ,AZ,F,United States of America (the),USA,Speech-Language Pathologist,Orientation,5.271458333333333
+43718,15798,G,21,8633,IHeLp 2017 Summer,Regular,1 Payment,Speech Pathologist,Web,Other,AZ,AZ,F,United States of America (the),USA,Speech-Language Pathologist,Unit 3,990.6487694444444
+43718,15798,G,23,2590,IHeLp 2017 Summer,Regular,1 Payment,Speech Pathologist,Web,Other,AZ,AZ,F,United States of America (the),USA,Speech-Language Pathologist,Unit 4,674.5524394444445
+43746,15895,G,37,6541,IHeLp 2017 Summer,Regular,6 Monthly Payments,Advanced Practice Nurse,Web,Other,SC,SC,F,United States of America (the),USA,,Unit 1,964.8467052777777
+43746,15895,G,1,257,IHeLp 2017 Summer,Regular,6 Monthly Payments,Advanced Practice Nurse,Web,Other,SC,SC,F,United States of America (the),USA,,Orientation,0.7459961111111111
+43746,15895,G,16,8722,IHeLp 2017 Summer,Regular,6 Monthly Payments,Advanced Practice Nurse,Web,Other,SC,SC,F,United States of America (the),USA,,Unit 3,1115.1100733333333
+43746,15895,G,7,2309,IHeLp 2017 Summer,Regular,6 Monthly Payments,Advanced Practice Nurse,Web,Other,SC,SC,F,United States of America (the),USA,,Unit 4,737.3719100000002
+43746,15895,G,13,6413,IHeLp 2017 Summer,Regular,6 Monthly Payments,Advanced Practice Nurse,Web,Other,SC,SC,F,United States of America (the),USA,,Unit 2,1032.2857972222225
+43757,15811,G,35,11565,IHeLp 2017 Summer,Regular,6 Monthly Payments,Social Worker,AF member,Other,AZ,AZ,F,USA,USA,Primary Care Behavioral Health Consultant,Unit 3,973.0833744444444
+43757,15811,G,33,8767,IHeLp 2017 Summer,Regular,6 Monthly Payments,Social Worker,AF member,Other,AZ,AZ,F,USA,USA,Primary Care Behavioral Health Consultant,Unit 2,827.3472222222223
+43757,15811,G,1,373,IHeLp 2017 Summer,Regular,6 Monthly Payments,Social Worker,AF member,Other,AZ,AZ,F,USA,USA,Primary Care Behavioral Health Consultant,Orientation,1.0839666666666667
+43757,15811,G,33,3544,IHeLp 2017 Summer,Regular,6 Monthly Payments,Social Worker,AF member,Other,AZ,AZ,F,USA,USA,Primary Care Behavioral Health Consultant,Unit 4,674.5248527777778
+43757,15811,G,49,8953,IHeLp 2017 Summer,Regular,6 Monthly Payments,Social Worker,AF member,Other,AZ,AZ,F,USA,USA,Primary Care Behavioral Health Consultant,Unit 1,1092.6094091666666
+43866,18759,G,34,8585,IHeLp 2018 Summer,Scholarship,6 Monthly Payments,Certified Nurse Midwife,DrWeil,OB/Gyn,NY,NY,F,USA,United States of America (the),,Unit 2,962.9584408333334
+43866,18759,G,29,3317,IHeLp 2018 Summer,Scholarship,6 Monthly Payments,Certified Nurse Midwife,DrWeil,OB/Gyn,NY,NY,F,USA,United States of America (the),,Unit 4,983.2644091666667
+43866,18759,G,38,11902,IHeLp 2018 Summer,Scholarship,6 Monthly Payments,Certified Nurse Midwife,DrWeil,OB/Gyn,NY,NY,F,USA,United States of America (the),,Unit 3,944.9736752777777
+43866,18759,G,1,976,IHeLp 2018 Summer,Scholarship,6 Monthly Payments,Certified Nurse Midwife,DrWeil,OB/Gyn,NY,NY,F,USA,United States of America (the),,Orientation,0.8007741666666666
+43866,18759,G,56,9366,IHeLp 2018 Summer,Scholarship,6 Monthly Payments,Certified Nurse Midwife,DrWeil,OB/Gyn,NY,NY,F,USA,United States of America (the),,Unit 1,958.4140191666667
+43867,18990,G,22,5348,IHeLp 2018 Summer,Regular,1 Payment,NP,AF member,Int_med,IL,IL,F,USA,United States of America (the),,Unit 3,987.5395194444444
+43867,18990,G,49,4329,IHeLp 2018 Summer,Regular,1 Payment,NP,AF member,Int_med,IL,IL,F,USA,United States of America (the),,Unit 1,857.137115
+43867,18990,G,1,594,IHeLp 2018 Summer,Regular,1 Payment,NP,AF member,Int_med,IL,IL,F,USA,United States of America (the),,Orientation,135.33801611111107
+43867,18990,G,27,3990,IHeLp 2018 Summer,Regular,1 Payment,NP,AF member,Int_med,IL,IL,F,USA,United States of America (the),,Unit 2,938.4497044444445
+43867,18990,G,19,1698,IHeLp 2018 Summer,Regular,1 Payment,NP,AF member,Int_med,IL,IL,F,USA,United States of America (the),,Unit 4,896.1254769444445
+44065,15988,G,28,6523,IHeLp 2017 Summer,Regular,6 Monthly Payments,Advanced Practice Nurse,Web,Fam_Prac,AZ,AZ,F,US,USA,,Unit 3,927.4929119444445
+44065,15988,G,53,4817,IHeLp 2017 Summer,Regular,6 Monthly Payments,Advanced Practice Nurse,Web,Fam_Prac,AZ,AZ,F,US,USA,,Unit 1,901.1060963888887
+44065,15988,G,1,201,IHeLp 2017 Summer,Regular,6 Monthly Payments,Advanced Practice Nurse,Web,Fam_Prac,AZ,AZ,F,US,USA,,Orientation,0.18945611111111116
+44065,15988,G,32,4717,IHeLp 2017 Summer,Regular,6 Monthly Payments,Advanced Practice Nurse,Web,Fam_Prac,AZ,AZ,F,US,USA,,Unit 2,935.69671
+44065,15988,G,27,1806,IHeLp 2017 Summer,Regular,6 Monthly Payments,Advanced Practice Nurse,Web,Fam_Prac,AZ,AZ,F,US,USA,,Unit 4,916.1329308333335
+44084,16031,G,14,5987,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Other,FL,FL,F,United States of America (the),USA,,Unit 2,912.4469741666667
+44084,16031,G,15,2343,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Other,FL,FL,F,United States of America (the),USA,,Unit 4,656.3099988888888
+44084,16031,G,1,260,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Other,FL,FL,F,United States of America (the),USA,,Orientation,1.6586291666666666
+44084,16031,G,10,7940,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Other,FL,FL,F,United States of America (the),USA,,Unit 3,888.1620805555556
+44084,16031,G,44,6378,IHeLp 2017 Summer,Regular,1 Payment,Registered Nurse,DrWeil,Other,FL,FL,F,United States of America (the),USA,,Unit 1,190.96582194444446
+45008,16149,D,26,314,IHeLp 2018 Summer,Scholarship,,Advanced Practice Nurse,Other,Other,PA,PA,F,US,USA,,Unit 1,1268.2331991666667
+45548,16965,G,38,2837,IHeLp 2018 Spring,Regular,1 Payment,Registered Nurse,Other,Emergency Medicine,CA,CA,F,United States of America (the),United States of America (the),RN,Unit 4,969.1193775
+45548,16965,G,1,1836,IHeLp 2018 Spring,Regular,1 Payment,Registered Nurse,Other,Emergency Medicine,CA,CA,F,United States of America (the),United States of America (the),RN,Orientation,6799.362182777778
+45548,16965,G,30,7343,IHeLp 2018 Spring,Regular,1 Payment,Registered Nurse,Other,Emergency Medicine,CA,CA,F,United States of America (the),United States of America (the),RN,Unit 2,921.8579902777777
+45548,16965,G,53,8512,IHeLp 2018 Spring,Regular,1 Payment,Registered Nurse,Other,Emergency Medicine,CA,CA,F,United States of America (the),United States of America (the),RN,Unit 1,848.6987650000001
+45548,16965,G,34,10014,IHeLp 2018 Spring,Regular,1 Payment,Registered Nurse,Other,Emergency Medicine,CA,CA,F,United States of America (the),United States of America (the),RN,Unit 3,1162.0982741666667
+45833,16294,W,1,24,IHeLp 2018 Summer,Regular,6 Monthly Payments,Registered Nurse,Other,Other,MD,MD,F,US,USA,Assistant Director of Nursing,Orientation,649.2456958333332
+45909,16301,G,37,6106,IHeLp 2018 Spring,Regular,1 Payment,Physical Therapist,Other,Other,TX,TX,F,United States of America (the),USA,,Unit 2,916.8996280555556
+45909,16301,G,36,8362,IHeLp 2018 Spring,Regular,1 Payment,Physical Therapist,Other,Other,TX,TX,F,United States of America (the),USA,,Unit 3,1608.5696875
+45909,16301,G,37,2522,IHeLp 2018 Spring,Regular,1 Payment,Physical Therapist,Other,Other,TX,TX,F,United States of America (the),USA,,Unit 4,622.4854833333334
+45909,16301,G,53,6106,IHeLp 2018 Spring,Regular,1 Payment,Physical Therapist,Other,Other,TX,TX,F,United States of America (the),USA,,Unit 1,840.6890413888889
+45909,16301,G,1,929,IHeLp 2018 Spring,Regular,1 Payment,Physical Therapist,Other,Other,TX,TX,F,United States of America (the),USA,,Orientation,3.6419072222222213
+46683,16789,G,49,9565,IHeLp 2018 Spring,Regular,1 Payment,Physical Therapist,AF member,Other,IA,IA,M,United States,United States of America (the),Physical Therapist,Unit 1,865.4632286111113
+46683,16789,G,32,8609,IHeLp 2018 Spring,Regular,1 Payment,Physical Therapist,AF member,Other,IA,IA,M,United States,United States of America (the),Physical Therapist,Unit 2,952.4883661111113
+46683,16789,G,29,11478,IHeLp 2018 Spring,Regular,1 Payment,Physical Therapist,AF member,Other,IA,IA,M,United States,United States of America (the),Physical Therapist,Unit 3,881.0500652777777
+46683,16789,G,1,2870,IHeLp 2018 Spring,Regular,1 Payment,Physical Therapist,AF member,Other,IA,IA,M,United States,United States of America (the),Physical Therapist,Orientation,7379.502059722222
+46683,16789,G,29,3443,IHeLp 2018 Spring,Regular,1 Payment,Physical Therapist,AF member,Other,IA,IA,M,United States,United States of America (the),Physical Therapist,Unit 4,823.0406744444444
+46696,16531,G,1,790,IHeLp 2018 Spring,Regular,1 Payment,Acupuncturist,Brochure/Mailing,Other,,,M,Japan,Japan,Director ,Orientation,0.9423013888888888
+46696,16531,G,26,2032,IHeLp 2018 Spring,Regular,1 Payment,Acupuncturist,Brochure/Mailing,Other,,,M,Japan,Japan,Director ,Unit 4,486.4397347222222
+46696,16531,G,56,5644,IHeLp 2018 Spring,Regular,1 Payment,Acupuncturist,Brochure/Mailing,Other,,,M,Japan,Japan,Director ,Unit 1,911.7909569444445
+46696,16531,G,30,7225,IHeLp 2018 Spring,Regular,1 Payment,Acupuncturist,Brochure/Mailing,Other,,,M,Japan,Japan,Director ,Unit 3,1006.70377
+46696,16531,G,29,5418,IHeLp 2018 Spring,Regular,1 Payment,Acupuncturist,Brochure/Mailing,Other,,,M,Japan,Japan,Director ,Unit 2,959.9785744444445
+46962,16618,G,45,3919,IHeLp 2018 Spring,Regular,1 Payment,Advanced Practice Nurse,Web,Other,IL,,F,USA,USA,Nurse Practitioner,Unit 4,990.1476041666666
+46962,16618,G,56,11065,IHeLp 2018 Spring,Regular,1 Payment,Advanced Practice Nurse,Web,Other,IL,,F,USA,USA,Nurse Practitioner,Unit 1,816.6760580555556
+46962,16618,G,30,13831,IHeLp 2018 Spring,Regular,1 Payment,Advanced Practice Nurse,Web,Other,IL,,F,USA,USA,Nurse Practitioner,Unit 3,820.4772427777777
+46962,16618,G,1,3458,IHeLp 2018 Spring,Regular,1 Payment,Advanced Practice Nurse,Web,Other,IL,,F,USA,USA,Nurse Practitioner,Orientation,10925.228667777776
+46962,16618,G,35,10143,IHeLp 2018 Spring,Regular,1 Payment,Advanced Practice Nurse,Web,Other,IL,,F,USA,USA,Nurse Practitioner,Unit 2,854.5609675000001
+47332,18985,G,19,2019,IHeLp 2018 Summer,Scholarship,2 Payments,Registered Dietitian,Web,Other,NY,NY,,USA,United States of America (the),,Unit 4,768.7806930555556
+47332,18985,G,25,5159,IHeLp 2018 Summer,Scholarship,2 Payments,Registered Dietitian,Web,Other,NY,NY,,USA,United States of America (the),,Unit 2,972.2977688888888
+47332,18985,G,31,7289,IHeLp 2018 Summer,Scholarship,2 Payments,Registered Dietitian,Web,Other,NY,NY,,USA,United States of America (the),,Unit 3,994.2417286111113
+47332,18985,G,1,785,IHeLp 2018 Summer,Scholarship,2 Payments,Registered Dietitian,Web,Other,NY,NY,,USA,United States of America (the),,Orientation,23.300996944444453
+47332,18985,G,45,5495,IHeLp 2018 Summer,Scholarship,2 Payments,Registered Dietitian,Web,Other,NY,NY,,USA,United States of America (the),,Unit 1,985.6656322222225
+47401,17855,G,1,843,IHeLp 2018 Summer,Regular,1 Payment,Registered Dietitian,Web,Specialty Not Listed,OR,OR,F,USA,United States of America (the),,Orientation,167.18064249999995
+47401,17855,G,33,3584,IHeLp 2018 Summer,Regular,1 Payment,Registered Dietitian,Web,Specialty Not Listed,OR,OR,F,USA,United States of America (the),,Unit 4,754.6547627777777
+47401,17855,G,32,9276,IHeLp 2018 Summer,Regular,1 Payment,Registered Dietitian,Web,Specialty Not Listed,OR,OR,F,USA,United States of America (the),,Unit 2,972.2514619444444
+47401,17855,G,27,12650,IHeLp 2018 Summer,Regular,1 Payment,Registered Dietitian,Web,Specialty Not Listed,OR,OR,F,USA,United States of America (the),,Unit 3,865.6571625
+47401,17855,G,57,10120,IHeLp 2018 Summer,Regular,1 Payment,Registered Dietitian,Web,Specialty Not Listed,OR,OR,F,USA,United States of America (the),,Unit 1,926.6949441666667
+47452,16971,G,45,3490,IHeLp 2018 Spring,Scholarship,1 Payment,Advanced Practice Nurse,Web,Rheumatology,AZ,AZ,F,USA,United States of America (the),Nurse Practitioner,Unit 1,840.0600013888887
+47452,16971,G,28,3134,IHeLp 2018 Spring,Scholarship,1 Payment,Advanced Practice Nurse,Web,Rheumatology,AZ,AZ,F,USA,United States of America (the),Nurse Practitioner,Unit 2,924.5710675
+47452,16971,G,35,1211,IHeLp 2018 Spring,Scholarship,1 Payment,Advanced Practice Nurse,Web,Rheumatology,AZ,AZ,F,USA,United States of America (the),Nurse Practitioner,Unit 4,750.3418849999998
+47452,16971,G,1,1068,IHeLp 2018 Spring,Scholarship,1 Payment,Advanced Practice Nurse,Web,Rheumatology,AZ,AZ,F,USA,United States of America (the),Nurse Practitioner,Orientation,10667.383114722224
+47452,16971,G,29,4273,IHeLp 2018 Spring,Scholarship,1 Payment,Advanced Practice Nurse,Web,Rheumatology,AZ,AZ,F,USA,United States of America (the),Nurse Practitioner,Unit 3,900.8161422222224
+47534,16757,G,35,2858,IHeLp 2018 Spring,Scholarship,1 Payment,Psychotherapists,Other,Other,AZ,AZ,F,United States,United States of America (the),Marriage and Family Therapist,Unit 4,658.3439719444443
+47534,16757,G,32,7620,IHeLp 2018 Spring,Scholarship,1 Payment,Psychotherapists,Other,Other,AZ,AZ,F,United States,United States of America (the),Marriage and Family Therapist,Unit 2,959.3484413888887
+47534,16757,G,32,10319,IHeLp 2018 Spring,Scholarship,1 Payment,Psychotherapists,Other,Other,AZ,AZ,F,United States,United States of America (the),Marriage and Family Therapist,Unit 3,1150.623223888889
+47534,16757,G,48,7779,IHeLp 2018 Spring,Scholarship,1 Payment,Psychotherapists,Other,Other,AZ,AZ,F,United States,United States of America (the),Marriage and Family Therapist,Unit 1,936.1378922222225
+47549,16899,G,55,9162,IHeLp 2018 Summer,Regular,1 Payment,Other,Other,Other,NJ,NJ,F,USA,United States of America (the),Physical Therapist,Unit 1,909.3634025
+47549,16899,G,1,1336,IHeLp 2018 Summer,Regular,1 Payment,Other,Other,Other,NJ,NJ,F,USA,United States of America (the),Physical Therapist,Orientation,101.87692111111113
+47549,16899,G,33,8399,IHeLp 2018 Summer,Regular,1 Payment,Other,Other,Other,NJ,NJ,F,USA,United States of America (the),Physical Therapist,Unit 2,964.458840277778
+47549,16899,G,36,3054,IHeLp 2018 Summer,Regular,1 Payment,Other,Other,Other,NJ,NJ,F,USA,United States of America (the),Physical Therapist,Unit 4,479.4048886111111
+47549,16899,G,35,11453,IHeLp 2018 Summer,Regular,1 Payment,Other,Other,Other,NJ,NJ,F,USA,United States of America (the),Physical Therapist,Unit 3,935.9399802777775
+47713,16833,G,34,12580,IHeLp 2018 Spring,Regular,1 Payment,Other,DrWeil,Acupuncturist,,,F,Japan,Japan,Acupuncturist,Unit 3,1483.490305
+47713,16833,G,36,9042,IHeLp 2018 Spring,Regular,1 Payment,Other,DrWeil,Acupuncturist,,,F,Japan,Japan,Acupuncturist,Unit 2,1318.913516111111
+47713,16833,G,42,3342,IHeLp 2018 Spring,Regular,1 Payment,Other,DrWeil,Acupuncturist,,,F,Japan,Japan,Acupuncturist,Unit 4,622.6480897222223
+47713,16833,G,1,3735,IHeLp 2018 Spring,Regular,1 Payment,Other,DrWeil,Acupuncturist,,,F,Japan,Japan,Acupuncturist,Orientation,6385.256615555555
+47713,16833,G,59,10025,IHeLp 2018 Spring,Regular,1 Payment,Other,DrWeil,Acupuncturist,,,F,Japan,Japan,Acupuncturist,Unit 1,1084.9877480555556
+47883,16861,G,53,6796,IHeLp 2018 Spring,Scholarship,1 Payment,Advanced Practice Nurse,DrWeil,Int_med,IL,IL,F,United States,United States of America (the),,Unit 1,980.6899102777777
+47883,16861,G,37,8495,IHeLp 2018 Spring,Scholarship,1 Payment,Advanced Practice Nurse,DrWeil,Int_med,IL,IL,F,United States,United States of America (the),,Unit 3,911.0381869444444
+47883,16861,G,1,2690,IHeLp 2018 Spring,Scholarship,1 Payment,Advanced Practice Nurse,DrWeil,Int_med,IL,IL,F,United States,United States of America (the),,Orientation,9872.35917527778
+47883,16861,G,35,6230,IHeLp 2018 Spring,Scholarship,1 Payment,Advanced Practice Nurse,DrWeil,Int_med,IL,IL,F,United States,United States of America (the),,Unit 2,827.3281416666667
+47883,16861,G,45,2549,IHeLp 2018 Spring,Scholarship,1 Payment,Advanced Practice Nurse,DrWeil,Int_med,IL,IL,F,United States,United States of America (the),,Unit 4,724.2499130555556
+48286,16961,W,47,3705,IHeLp 2018 Spring,Regular,6 Monthly Payments,Other,Other,Other,NJ,NJ,F,USA,United States of America (the),,Unit 1,917.3702402777777
+48286,16961,W,14,302,IHeLp 2018 Spring,Regular,6 Monthly Payments,Other,Other,Other,NJ,NJ,F,USA,United States of America (the),,Unit 2,112.9328875
+48288,17448,G,15,1636,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Other,Web,Other,,,F,,Canada,Instructor,Unit 4,795.8104419444444
+48288,17448,G,8,5543,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Other,Web,Other,,,F,,Canada,Instructor,Unit 3,1338.6299491666666
+48288,17448,G,1,1000,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Other,Web,Other,,,F,,Canada,Instructor,Orientation,5213.354740555556
+48288,17448,G,48,4362,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Other,Web,Other,,,F,,Canada,Instructor,Unit 1,888.4899483333332
+48288,17448,G,34,3998,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Other,Web,Other,,,F,,Canada,Instructor,Unit 2,700.2605177777777
+48309,16975,G,54,5497,IHeLp 2018 Spring,Scholarship,2 Payments,Other,CIM faculty,Other,IA,IA,F,USA,United States of America (the),"Manager, Rehab Therapies ",Unit 1,742.2288297222223
+48309,16975,G,35,4947,IHeLp 2018 Spring,Scholarship,2 Payments,Other,CIM faculty,Other,IA,IA,F,USA,United States of America (the),"Manager, Rehab Therapies ",Unit 2,915.1046775
+48309,16975,G,42,6596,IHeLp 2018 Spring,Scholarship,2 Payments,Other,CIM faculty,Other,IA,IA,F,USA,United States of America (the),"Manager, Rehab Therapies ",Unit 3,951.8082738888887
+48309,16975,G,18,1869,IHeLp 2018 Spring,Scholarship,2 Payments,Other,CIM faculty,Other,IA,IA,F,USA,United States of America (the),"Manager, Rehab Therapies ",Unit 4,569.0285238888888
+48309,16975,G,1,2089,IHeLp 2018 Spring,Scholarship,2 Payments,Other,CIM faculty,Other,IA,IA,F,USA,United States of America (the),"Manager, Rehab Therapies ",Orientation,9889.424325
+48331,16985,W,9,107,IHeLp 2018 Spring,Regular,2 Payments,Acupuncturist,Other,Other,CT,CT,F,USA,United States of America (the),,Unit 2,44.65975444444444
+48331,16985,W,50,1752,IHeLp 2018 Spring,Regular,2 Payments,Acupuncturist,Other,Other,CT,CT,F,USA,United States of America (the),,Unit 1,814.6882977777777
+48377,18991,G,27,7057,IHeLp 2018 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Surgery,,,F,,,,Unit 2,940.6640863888887
+48377,18991,G,38,2794,IHeLp 2018 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Surgery,,,F,,,,Unit 4,403.3311741666666
+48377,18991,G,51,7204,IHeLp 2018 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Surgery,,,F,,,,Unit 1,859.1583005555556
+48377,18991,G,1,2794,IHeLp 2018 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Surgery,,,F,,,,Orientation,10836.21534111111
+48377,18991,G,28,9704,IHeLp 2018 Summer,Scholarship,6 Monthly Payments,Registered Nurse,Web,Surgery,,,F,,,,Unit 3,626.0976952777778
+48380,17088,G,29,2547,IHeLp 2018 Spring,Scholarship,2 Payments,Registered Nurse,Other,Other,CA,CA,M,USA,United States of America (the),Oncology nurse navigator,Unit 4,1205.3289991666666
+48380,17088,G,29,6593,IHeLp 2018 Spring,Scholarship,2 Payments,Registered Nurse,Other,Other,CA,CA,M,USA,United States of America (the),Oncology nurse navigator,Unit 2,897.8406858333334
+48380,17088,G,52,7192,IHeLp 2018 Spring,Scholarship,2 Payments,Registered Nurse,Other,Other,CA,CA,M,USA,United States of America (the),Oncology nurse navigator,Unit 1,1037.0399075
+48380,17088,G,26,8990,IHeLp 2018 Spring,Scholarship,2 Payments,Registered Nurse,Other,Other,CA,CA,M,USA,United States of America (the),Oncology nurse navigator,Unit 3,1117.845837222222
+48380,17088,G,1,2847,IHeLp 2018 Spring,Scholarship,2 Payments,Registered Nurse,Other,Other,CA,CA,M,USA,United States of America (the),Oncology nurse navigator,Orientation,10040.282154166664
+48387,17089,G,1,659,IHeLp 2018 Spring,Scholarship,Full Scholarship,Dental Hygienists,CIM faculty,Other,PA,PA,F,USA,United States of America (the),,Orientation,29.941882777777767
+48387,17089,G,35,1601,IHeLp 2018 Spring,Scholarship,Full Scholarship,Dental Hygienists,CIM faculty,Other,PA,PA,F,USA,United States of America (the),,Unit 4,554.3599213888889
+48387,17089,G,34,4237,IHeLp 2018 Spring,Scholarship,Full Scholarship,Dental Hygienists,CIM faculty,Other,PA,PA,F,USA,United States of America (the),,Unit 2,622.7715941666668
+48387,17089,G,36,5650,IHeLp 2018 Spring,Scholarship,Full Scholarship,Dental Hygienists,CIM faculty,Other,PA,PA,F,USA,United States of America (the),,Unit 3,1135.5492352777776
+48387,17089,G,52,4614,IHeLp 2018 Spring,Scholarship,Full Scholarship,Dental Hygienists,CIM faculty,Other,PA,PA,F,USA,United States of America (the),,Unit 1,1436.1975561111112
+48878,21671,W,1,31,IHeLp 2019 Summer,Regular,1 Payment,Psychologist,DrWeil,Other,,TX,F,,United States of America (the),Clinical Psychologist/Neuropsychologist ,Orientation,4272.857389722222
+48878,21671,W,12,22,IHeLp 2019 Summer,Regular,1 Payment,Psychologist,DrWeil,Other,,TX,F,,United States of America (the),Clinical Psychologist/Neuropsychologist ,Unit 1,73.60906527777777
+48921,17622,G,33,3097,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Advanced Practice Nurse,Web,Sub,AZ,,F,United States ,United States of America (the),Adult Nurse Practitioner,Unit 4,941.0231694444444
+48921,17622,G,45,8743,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Advanced Practice Nurse,Web,Sub,AZ,,F,United States ,United States of America (the),Adult Nurse Practitioner,Unit 1,966.2474363888887
+48921,17622,G,25,11293,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Advanced Practice Nurse,Web,Sub,AZ,,F,United States ,United States of America (the),Adult Nurse Practitioner,Unit 3,1199.9542033333335
+48921,17622,G,1,3461,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Advanced Practice Nurse,Web,Sub,AZ,,F,United States ,United States of America (the),Adult Nurse Practitioner,Orientation,9972.826375
+48921,17622,G,22,8379,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Advanced Practice Nurse,Web,Sub,AZ,,F,United States ,United States of America (the),Adult Nurse Practitioner,Unit 2,872.1132136111113
+49761,18117,G,56,7120,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Social Worker,Web,Other,AZ,AZ,F,USA,United States of America (the),,Unit 1,983.1668644444444
+49761,18117,G,40,6684,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Social Worker,Web,Other,AZ,AZ,F,USA,United States of America (the),,Unit 2,968.0797227777778
+49761,18117,G,1,1017,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Social Worker,Web,Other,AZ,AZ,F,USA,United States of America (the),,Orientation,120.60958416666668
+49761,18117,G,35,8864,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Social Worker,Web,Other,AZ,AZ,F,USA,United States of America (the),,Unit 3,1031.376868888889
+49761,18117,G,28,2616,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Social Worker,Web,Other,AZ,AZ,F,USA,United States of America (the),,Unit 4,865.8135588888889
+49913,18213,G,26,1473,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),,Unit 4,630.8120180555555
+49913,18213,G,28,3682,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),,Unit 2,923.5192333333334
+49913,18213,G,1,1555,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),,Orientation,10305.425490277776
+49913,18213,G,40,3928,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),,Unit 1,907.0223697222225
+49913,18213,G,31,5155,IHeLp 2018 Spring,Scholarship,6 Monthly Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),,Unit 3,941.2994805555555
+49990,18255,G,54,7870,IHeLp 2018 Spring,Scholarship,1 Payment,Psychologist,AF member,Other,MN,MN,F,United States,United States of America (the),Clinical Psychologist,Unit 1,781.9764419444444
+49990,18255,G,1,1804,IHeLp 2018 Spring,Scholarship,1 Payment,Psychologist,AF member,Other,MN,MN,F,United States,United States of America (the),Clinical Psychologist,Orientation,5537.445458333333
+49990,18255,G,33,7214,IHeLp 2018 Spring,Scholarship,1 Payment,Psychologist,AF member,Other,MN,MN,F,United States,United States of America (the),Clinical Psychologist,Unit 2,1087.0669269444445
+49990,18255,G,39,10002,IHeLp 2018 Spring,Scholarship,1 Payment,Psychologist,AF member,Other,MN,MN,F,United States,United States of America (the),Clinical Psychologist,Unit 3,912.6027169444444
+49990,18255,G,33,2951,IHeLp 2018 Spring,Scholarship,1 Payment,Psychologist,AF member,Other,MN,MN,F,United States,United States of America (the),Clinical Psychologist,Unit 4,1336.9302233333333
+50122,18336,G,34,9482,IHeLp 2018 Spring,Regular,2 Payments,Registered Nurse,Other,Other,CA,CA,F,US,United States of America (the),Oncology Nurse Navigator,Unit 2,749.0814341666667
+50122,18336,G,37,3793,IHeLp 2018 Spring,Regular,2 Payments,Registered Nurse,Other,Other,CA,CA,F,US,United States of America (the),Oncology Nurse Navigator,Unit 4,869.9534597222223
+50122,18336,G,30,13485,IHeLp 2018 Spring,Regular,2 Payments,Registered Nurse,Other,Other,CA,CA,F,US,United States of America (the),Oncology Nurse Navigator,Unit 3,792.5383241666667
+50122,18336,G,46,10957,IHeLp 2018 Spring,Regular,2 Payments,Registered Nurse,Other,Other,CA,CA,F,US,United States of America (the),Oncology Nurse Navigator,Unit 1,899.7017116666667
+50122,18336,G,1,4003,IHeLp 2018 Spring,Regular,2 Payments,Registered Nurse,Other,Other,CA,CA,F,US,United States of America (the),Oncology Nurse Navigator,Orientation,9432.807307222223
+50435,18441,I,52,5314,IHeLp 2018 Spring,Regular,2 Payments,Acupuncturist,DrWeil,Other,CA,CA,M,United States,United States of America (the),Acupuncturist,Unit 1,910.9647508333335
+50435,18441,I,37,6616,IHeLp 2018 Spring,Regular,2 Payments,Acupuncturist,DrWeil,Other,CA,CA,M,United States,United States of America (the),Acupuncturist,Unit 3,901.6860525000001
+50435,18441,I,45,1844,IHeLp 2018 Spring,Regular,2 Payments,Acupuncturist,DrWeil,Other,CA,CA,M,United States,United States of America (the),Acupuncturist,Unit 4,725.52787
+50435,18441,I,35,4989,IHeLp 2018 Spring,Regular,2 Payments,Acupuncturist,DrWeil,Other,CA,CA,M,United States,United States of America (the),Acupuncturist,Unit 2,821.1004452777777
+50435,18441,I,1,434,IHeLp 2018 Spring,Regular,2 Payments,Acupuncturist,DrWeil,Other,CA,CA,M,United States,United States of America (the),Acupuncturist,Orientation,15.262887222222224
+50859,18626,G,49,4176,IHeLp 2018 Spring,Regular,6 Monthly Payments,Registered Nurse,Other,Other,CA,CA,F,USA,United States of America (the),,Unit 1,634.6437758333333
+50859,18626,G,33,5114,IHeLp 2018 Spring,Regular,6 Monthly Payments,Registered Nurse,Other,Other,CA,CA,F,USA,United States of America (the),,Unit 3,801.2835094444445
+50859,18626,G,25,1364,IHeLp 2018 Spring,Regular,6 Monthly Payments,Registered Nurse,Other,Other,CA,CA,F,USA,United States of America (the),,Unit 4,554.0388011111112
+50859,18626,G,32,3750,IHeLp 2018 Spring,Regular,6 Monthly Payments,Registered Nurse,Other,Other,CA,CA,F,USA,United States of America (the),,Unit 2,867.9345086111111
+51655,18917,G,37,7690,IHeLp 2018 Summer,Scholarship,2 Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),Registered Nurse,Unit 3,899.8126766666667
+51655,18917,G,44,2233,IHeLp 2018 Summer,Scholarship,2 Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),Registered Nurse,Unit 4,526.4466066666666
+51655,18917,G,34,5829,IHeLp 2018 Summer,Scholarship,2 Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),Registered Nurse,Unit 2,965.8694955555555
+51655,18917,G,58,6077,IHeLp 2018 Summer,Scholarship,2 Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),Registered Nurse,Unit 1,954.5232425
+51655,18917,G,1,1364,IHeLp 2018 Summer,Scholarship,2 Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),Registered Nurse,Orientation,6304.543396388889
+51744,18978,D,10,37,IHeLp 2018 Summer,Regular,,Other,Other,Other,CA,CA,F,,United States of America (the),,Unit 1,0.6500758333333334
+51772,19000,G,43,4764,IHeLp 2018 Summer,Regular,1 Payment,Registered Nurse,AF member,Fam_Prac,PA,PA,F,USA,United States of America (the),Clinical and Administrative Liaison,Unit 1,965.9820202777777
+51772,19000,G,25,4367,IHeLp 2018 Summer,Regular,1 Payment,Registered Nurse,AF member,Fam_Prac,PA,PA,F,USA,United States of America (the),Clinical and Administrative Liaison,Unit 2,937.3919836111113
+51772,19000,G,27,6054,IHeLp 2018 Summer,Regular,1 Payment,Registered Nurse,AF member,Fam_Prac,PA,PA,F,USA,United States of America (the),Clinical and Administrative Liaison,Unit 3,914.6339727777777
+51772,19000,G,19,1687,IHeLp 2018 Summer,Regular,1 Payment,Registered Nurse,AF member,Fam_Prac,PA,PA,F,USA,United States of America (the),Clinical and Administrative Liaison,Unit 4,336.6864269444445
+51772,19000,G,1,397,IHeLp 2018 Summer,Regular,1 Payment,Registered Nurse,AF member,Fam_Prac,PA,PA,F,USA,United States of America (the),Clinical and Administrative Liaison,Orientation,168.83991111111112
+51823,18989,I,34,1957,IHeLp 2018 Summer,Regular,6 Monthly Payments,Social Worker,Other,Int_med,AZ,AZ,F,,United States of America (the),,Unit 2,516.364605
+51823,18989,I,39,833,IHeLp 2018 Summer,Regular,6 Monthly Payments,Social Worker,Other,Int_med,AZ,AZ,F,,United States of America (the),,Unit 4,131.08563388888888
+51823,18989,I,54,2082,IHeLp 2018 Summer,Regular,6 Monthly Payments,Social Worker,Other,Int_med,AZ,AZ,F,,United States of America (the),,Unit 1,1547.3560550000002
+51823,18989,I,33,2832,IHeLp 2018 Summer,Regular,6 Monthly Payments,Social Worker,Other,Int_med,AZ,AZ,F,,United States of America (the),,Unit 3,1094.9399041666666
+51823,18989,I,1,292,IHeLp 2018 Summer,Regular,6 Monthly Payments,Social Worker,Other,Int_med,AZ,AZ,F,,United States of America (the),,Orientation,1.6552063888888893
+52119,19257,G,22,3024,IHeLp 2018 Summer,Scholarship,1 Payment,Dental Hygienists,AF member,Sub,AZ,AZ,F,,United States of America (the),,Unit 4,850.1837075
+52119,19257,G,29,7828,IHeLp 2018 Summer,Scholarship,1 Payment,Dental Hygienists,AF member,Sub,AZ,AZ,F,,United States of America (the),,Unit 2,994.4513166666667
+52119,19257,G,58,8718,IHeLp 2018 Summer,Scholarship,1 Payment,Dental Hygienists,AF member,Sub,AZ,AZ,F,,United States of America (the),,Unit 1,928.7609902777778
+52119,19257,G,25,10675,IHeLp 2018 Summer,Scholarship,1 Payment,Dental Hygienists,AF member,Sub,AZ,AZ,F,,United States of America (the),,Unit 3,962.2359655555556
+52119,19257,G,1,1245,IHeLp 2018 Summer,Scholarship,1 Payment,Dental Hygienists,AF member,Sub,AZ,AZ,F,,United States of America (the),,Orientation,26.77373444444445
+52120,19184,G,13,1541,IHeLp 2018 Summer,Scholarship,2 Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),"Registered nurse, Assisted Living Manager",Unit 4,458.5268269444445
+52120,19184,G,13,3732,IHeLp 2018 Summer,Scholarship,2 Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),"Registered nurse, Assisted Living Manager",Unit 2,872.8365477777777
+52120,19184,G,12,5111,IHeLp 2018 Summer,Scholarship,2 Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),"Registered nurse, Assisted Living Manager",Unit 3,769.1106913888889
+52120,19184,G,35,3894,IHeLp 2018 Summer,Scholarship,2 Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),"Registered nurse, Assisted Living Manager",Unit 1,816.9537805555556
+52120,19184,G,1,1217,IHeLp 2018 Summer,Scholarship,2 Payments,Other,Web,Other,AZ,AZ,F,USA,United States of America (the),"Registered nurse, Assisted Living Manager",Orientation,10615.888450277778
+52157,19196,G,38,11095,IHeLp 2018 Summer,Scholarship,1 Payment,Registered Nurse,CIM faculty,Other,CA,,F,United States of America (the),United States of America (the),RN,Unit 3,893.0458372222223
+52157,19196,G,1,3513,IHeLp 2018 Summer,Scholarship,1 Payment,Registered Nurse,CIM faculty,Other,CA,,F,United States of America (the),United States of America (the),RN,Orientation,10535.877371666667
+52157,19196,G,49,8876,IHeLp 2018 Summer,Scholarship,1 Payment,Registered Nurse,CIM faculty,Other,CA,,F,United States of America (the),United States of America (the),RN,Unit 1,882.8946433333333
+52157,19196,G,34,8136,IHeLp 2018 Summer,Scholarship,1 Payment,Registered Nurse,CIM faculty,Other,CA,,F,United States of America (the),United States of America (the),RN,Unit 2,1001.9326505555556
+52157,19196,G,33,2959,IHeLp 2018 Summer,Scholarship,1 Payment,Registered Nurse,CIM faculty,Other,CA,,F,United States of America (the),United States of America (the),RN,Unit 4,622.5833725
+52271,19400,G,25,4295,IHeLp 2018 Summer,Regular,1 Payment,Advanced Practice Nurse,DrWeil,OB/Gyn,VA,VA,F,US,United States of America (the),,Unit 2,789.5942641666666
+52271,19400,G,36,5857,IHeLp 2018 Summer,Regular,1 Payment,Advanced Practice Nurse,DrWeil,OB/Gyn,VA,VA,F,US,United States of America (the),,Unit 3,823.595413888889
+52271,19400,G,1,683,IHeLp 2018 Summer,Regular,1 Payment,Advanced Practice Nurse,DrWeil,OB/Gyn,VA,VA,F,US,United States of America (the),,Orientation,3.6993102777777778
+52271,19400,G,41,4686,IHeLp 2018 Summer,Regular,1 Payment,Advanced Practice Nurse,DrWeil,OB/Gyn,VA,VA,F,US,United States of America (the),,Unit 1,579.6315466666666
+52271,19400,G,20,1855,IHeLp 2018 Summer,Regular,1 Payment,Advanced Practice Nurse,DrWeil,OB/Gyn,VA,VA,F,US,United States of America (the),,Unit 4,752.0736788888887
+52380,19247,W,32,513,IHeLp 2019 Summer,Scholarship,,Social Worker,Prevention,Other,VA,VA,F,United States,United States of America (the),Behavioral Health Care Coordinator,Unit 1,914.2327422222223
+52380,19247,W,1,112,IHeLp 2019 Summer,Scholarship,,Social Worker,Prevention,Other,VA,VA,F,United States,United States of America (the),Behavioral Health Care Coordinator,Orientation,1.5620066666666668
+52718,19413,G,27,4386,IHeLp 2018 Summer,Regular,6 Monthly Payments,Other,DrWeil,Other,MD,MD,F,USA,United States of America (the),,Unit 4,708.3634883333334
+52718,19413,G,57,12183,IHeLp 2018 Summer,Regular,6 Monthly Payments,Other,DrWeil,Other,MD,MD,F,USA,United States of America (the),,Unit 1,938.0647716666666
+52718,19413,G,39,15107,IHeLp 2018 Summer,Regular,6 Monthly Payments,Other,DrWeil,Other,MD,MD,F,USA,United States of America (the),,Unit 3,965.803518611111
+52718,19413,G,1,3655,IHeLp 2018 Summer,Regular,6 Monthly Payments,Other,DrWeil,Other,MD,MD,F,USA,United States of America (the),,Orientation,5813.253960277778
+52718,19413,G,30,11452,IHeLp 2018 Summer,Regular,6 Monthly Payments,Other,DrWeil,Other,MD,MD,F,USA,United States of America (the),,Unit 2,1009.5941622222224
+53946,20552,G,35,8162,IHeLp 2018 Summer,Regular,6 Monthly Payments,Registered Dietitian,Other,Other,TX,TX,F,United States,United States of America (the),,Unit 3,977.0157991666665
+53946,20552,G,51,6666,IHeLp 2018 Summer,Regular,6 Monthly Payments,Registered Dietitian,Other,Other,TX,TX,F,United States,United States of America (the),,Unit 1,853.1763730555556
+53946,20552,G,1,952,IHeLp 2018 Summer,Regular,6 Monthly Payments,Registered Dietitian,Other,Other,TX,TX,F,United States,United States of America (the),,Orientation,1.2523613888888891
+53946,20552,G,31,5986,IHeLp 2018 Summer,Regular,6 Monthly Payments,Registered Dietitian,Other,Other,TX,TX,F,United States,United States of America (the),,Unit 2,994.394314722222
+53946,20552,G,29,2449,IHeLp 2018 Summer,Regular,6 Monthly Payments,Registered Dietitian,Other,Other,TX,TX,F,United States,United States of America (the),,Unit 4,571.2537958333334
+54042,20593,I,3,2029,IHeLp 2018 Summer,Regular,6 Monthly Payments,Dentist,Web,Other,,,F,USA,United States of America (the),,Unit 1,1366.7583044444443
+54042,20593,I,6,2720,IHeLp 2018 Summer,Regular,6 Monthly Payments,Dentist,Web,Other,,,F,USA,United States of America (the),,Unit 3,578.8217977777778
+55097,21280,W,1,17,IHeLp 2019 Summer,Regular,,Acupuncturist,Other,Other,CA,CA,F,United States,United States of America (the),Acupuncturist,Orientation,2.8667155555555555

@@ -1,0 +1,141 @@
+"application_id","user_id","first_name","last_name","status","preprobation","probation","currentafterpreprbation","currentafterprbation"
+6647,25302,"Leigh-Anne ","Andre","G",1,0,1,1
+6094,19237,"Mark","Arcuri","G",3,0,2,2
+8242,19237,"Mark","Arcuri","W",0,0,0,0
+8671,19237,"Mark","Arcuri","G",0,0,0,0
+15782,19237,"Mark","Arcuri","G",0,0,0,0
+16048,19237,"Mark","Arcuri","C",0,0,0,0
+20670,19237,"Mark","Arcuri","C",0,0,0,0
+25011,19237,"Mark","Arcuri","C",0,0,0,0
+6597,25219,"Christina","Becker","G",1,0,1,1
+16194,25219,"Christina","Becker","C",0,0,0,0
+22321,25219,"Christina","Becker","C",0,0,0,0
+6722,25449,"Jennifer","Berdinka","G",1,0,0,0
+8666,25449,"Jennifer","Berdinka","P",0,0,0,0
+6614,25194,"Janice","Brundage","G",1,0,0,0
+8740,25194,"Janice","Brundage","W",0,0,0,0
+6671,25394,"Erica","Chertow ","D",2,0,1,1
+7230,25394,"Erica","Chertow ","W",2,0,1,1
+6564,24779,"Elizabeth","Cohen","G",1,0,0,0
+8089,24779,"Elizabeth","Cohen","W",0,0,0,0
+24483,24779,"Elizabeth","Cohen","C",0,0,0,0
+879,2314,"Nancy","Conway","I",0,0,0,0
+3298,2314,"Nancy","Conway","I",0,0,0,0
+6520,2314,"Nancy","Conway","G",2,0,1,1
+8400,2314,"Nancy","Conway","G",1,0,1,1
+8886,2314,"Nancy","Conway","G",0,0,0,0
+16915,2314,"Nancy","Conway","I",0,0,0,0
+6393,24923,"Kathryn ","Cornella","G",2,0,2,2
+6300,24760,"Lisa","Dávila OToole","G",0,0,0,0
+8963,24760,"Lisa","Dávila OToole","G",0,0,0,0
+6124,24455,"Gloria","Dollinger","G",1,0,1,1
+6666,25379,"Barbara","Fleming-Claussen","G",1,0,0,0
+6331,24827,"Judith","Grunwald","G",0,0,0,0
+8690,24827,"Judith","Grunwald","G",0,0,0,0
+18781,24827,"Judith","Grunwald","C",0,0,0,0
+6530,1491,"Jutta","Guadagnoli","G",3,0,3,3
+6543,25121,"Sheila","Howe","G",0,0,0,0
+8148,25121,"Sheila","Howe","W",0,0,0,0
+8890,25121,"Sheila","Howe","G",0,0,0,0
+20969,25121,"Sheila","Howe","C",0,0,0,0
+6672,9005,"Ford","Jacobs","G",1,0,1,1
+8698,9005,"Ford","Jacobs","G",0,0,0,0
+10832,9005,"Ford","Jacobs","G",0,0,0,0
+16167,9005,"Ford","Jacobs","C",0,0,0,0
+21350,9005,"Ford","Jacobs","C",0,0,0,0
+24637,9005,"Ford","Jacobs","C",0,0,0,0
+6096,24073,"Allison","Jones","G",0,0,0,0
+8075,24073,"Allison","Jones","G",0,0,0,0
+8896,24073,"Allison","Jones","G",0,0,0,0
+23854,24073,"Allison","Jones","C",0,0,0,0
+23909,24073,"Allison","Jones","C",0,0,0,0
+24169,24073,"Allison","Jones","C",0,0,0,0
+6414,24946,"Marta","Kazandjian- Ranaldo","G",0,0,0,0
+8088,24946,"Marta","Kazandjian- Ranaldo","G",2,0,2,2
+8692,24946,"Marta","Kazandjian- Ranaldo","G",0,0,0,0
+10541,24946,"Marta","Kazandjian- Ranaldo","G",0,0,0,0
+16241,24946,"Marta","Kazandjian- Ranaldo","G",0,0,0,0
+21241,24946,"Marta","Kazandjian- Ranaldo","C",0,0,0,0
+23903,24946,"Marta","Kazandjian- Ranaldo","C",0,0,0,0
+24171,24946,"Marta","Kazandjian- Ranaldo","C",0,0,0,0
+24469,24946,"Marta","Kazandjian- Ranaldo","C",0,0,0,0
+6452,18826,"Maureen","Kirchhoff","G",1,0,0,0
+8094,18826,"Maureen","Kirchhoff","G",0,0,0,0
+8897,18826,"Maureen","Kirchhoff","G",0,0,0,0
+6642,25300,"Sangeeta","Kirtikar","G",0,0,0,0
+8087,25300,"Sangeeta","Kirtikar","G",0,0,0,0
+8898,25300,"Sangeeta","Kirtikar","G",0,0,0,0
+13398,25300,"Sangeeta","Kirtikar","C",0,0,0,0
+6380,7199,"Valerie","Kogut","G",0,0,0,0
+8079,7199,"Valerie","Kogut","G",0,0,0,0
+8699,7199,"Valerie","Kogut","G",0,0,0,0
+10542,7199,"Valerie","Kogut","G",0,0,0,0
+23842,7199,"Valerie","Kogut","G",0,0,0,0
+24087,7199,"Valerie","Kogut","G",0,0,0,0
+24160,7199,"Valerie","Kogut","C",0,0,0,0
+24161,7199,"Valerie","Kogut","C",0,0,0,0
+6618,25205,"Maureen","Leahy","G",1,0,1,1
+6126,24541,"Amanda","Leno","W",1,0,0,0
+6174,24124,"Kristie","Linder","G",2,0,1,1
+6732,25463,"Linda","Lisle-Kelly","G",0,0,0,0
+6573,12598,"Lynette","Murphy","G",0,0,0,0
+14607,12598,"Lynette","Murphy","W",0,0,0,0
+21022,12598,"Lynette","Murphy","C",0,0,0,0
+6588,25203,"Kristina","Pikunas","G",0,0,0,0
+12620,25203,"Kristina","Pikunas","G",0,0,0,0
+6120,8451,"Vanessa ","Proznick-Fransoo","G",2,0,1,1
+8077,8451,"Vanessa ","Proznick-Fransoo","G",1,0,1,1
+8899,8451,"Vanessa ","Proznick-Fransoo","G",0,0,0,0
+11452,8451,"Vanessa ","Proznick-Fransoo","W",0,0,0,0
+13626,8451,"Vanessa ","Proznick-Fransoo","G",0,0,0,0
+16645,8451,"Vanessa ","Proznick-Fransoo","C",0,0,0,0
+18225,8451,"Vanessa ","Proznick-Fransoo","G",0,0,0,0
+6135,24523,"Karen","Puehler","G",0,0,0,0
+8071,24523,"Karen","Puehler","W",0,0,0,0
+6687,25415,"Irina","Rimel","G",3,0,3,3
+6182,24615,"Ruth","Rodie","G",1,0,1,1
+6130,11066,"Paula","Sandoval","G",1,0,1,1
+24848,11066,"Paula","Sandoval","C",0,0,0,0
+6172,19201,"Sara","Scott","G",0,0,0,0
+8100,19201,"Sara","Scott","W",0,0,0,0
+6611,5965,"Kristin","Sheldon","G",1,0,1,1
+8090,5965,"Kristin","Sheldon","G",3,0,3,3
+8910,5965,"Kristin","Sheldon","G",0,0,0,0
+12643,5965,"Kristin","Sheldon","G",0,0,0,0
+6176,10429,"Sandra","Sotnick","G",1,0,0,0
+8705,10429,"Sandra","Sotnick","G",0,0,0,0
+10547,10429,"Sandra","Sotnick","G",0,0,0,0
+15982,10429,"Sandra","Sotnick","G",0,0,0,0
+21359,10429,"Sandra","Sotnick","C",0,0,0,0
+23907,10429,"Sandra","Sotnick","C",0,0,0,0
+23908,10429,"Sandra","Sotnick","C",0,0,0,0
+24083,10429,"Sandra","Sotnick","C",0,0,0,0
+24175,10429,"Sandra","Sotnick","C",0,0,0,0
+6118,24453,"Jeremy","Sprott","G",2,0,2,2
+8209,24453,"Jeremy","Sprott","W",0,0,0,0
+21351,24453,"Jeremy","Sprott","C",0,0,0,0
+6674,24534,"Tamara","Steinitz","G",1,0,0,0
+8990,24534,"Tamara","Steinitz","G",0,0,0,0
+10551,24534,"Tamara","Steinitz","G",0,0,0,0
+13814,24534,"Tamara","Steinitz","G",0,0,0,0
+14258,24534,"Tamara","Steinitz","A",0,0,0,0
+23764,24534,"Tamara","Steinitz","C",0,0,0,0
+6474,25035,"Staysea","Sumner","G",1,0,1,1
+6111,7168,"Elizabeth","Trattner","G",0,0,0,0
+8072,7168,"Elizabeth","Trattner","W",0,0,0,0
+8683,7168,"Elizabeth","Trattner","G",0,0,0,0
+10909,7168,"Elizabeth","Trattner","G",0,0,0,0
+15698,7168,"Elizabeth","Trattner","G",0,0,0,0
+15994,7168,"Elizabeth","Trattner","C",0,0,0,0
+20688,7168,"Elizabeth","Trattner","C",0,0,0,0
+24609,7168,"Elizabeth","Trattner","C",0,0,0,0
+6546,25130,"Cheryl","Van Demark","G",0,0,0,0
+6534,9497,"Joseph","Voss","G",3,0,3,3
+10815,9497,"Joseph","Voss","G",0,0,0,0
+18428,9497,"Joseph","Voss","C",0,0,0,0
+6569,25101,"Rita (Shantan)","Williams","G",1,0,1,1
+8204,25101,"Rita (Shantan)","Williams","W",0,0,0,0
+6630,25157,"Stephanie","Wilson","G",1,0,1,1
+6730,25462,"Karin","Zabriskie (Blank)","G",0,0,0,0
+8076,25462,"Karin","Zabriskie (Blank)","G",1,0,1,1
+8885,25462,"Karin","Zabriskie (Blank)","G",0,0,0,0
